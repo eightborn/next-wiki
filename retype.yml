@@ -26,6 +26,8 @@ links:
     link: https://www.instagram.com/eightbornvofficial/
     icon: https://eightbornv.com/icons/instagram-icon.svg
 
+locale: tr
+
 footer:
   copyright: "&copy; Copyright {{ year }}. [Eightborn](https://eightbornv.com/) All rights reserved."
 
