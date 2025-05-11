@@ -1,0 +1,1 @@
+# Emote kuralları (/do /me)
