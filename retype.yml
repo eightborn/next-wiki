@@ -1,11 +1,7 @@
 input: ./
 output: .retype
 
-url: wiki.eightbornv.com # Use your website address here
-
-start:
-  # Uncomment the next line to try Retype Pro features
-  # pro: true
+url: wiki.eightbornv.com
 
 branding:
   title: EightbornV Wiki
@@ -28,9 +24,19 @@ links:
 
 locale: tr
 
+showSidebarFilter: false
+
 footer:
   copyright: "&copy; Copyright {{ year }}. [Eightborn](https://eightbornv.com/) All rights reserved."
 
 integrations:
   googleAnalytics:
     id: G-ZJZM2S4JG9
+
+data:
+  abbreviations:
+    OOC: Out Of Character
+    IC: In Character
+    RP: Roleplay
+    DM: Deathmatch
+    VDM: Vehicle Deathmatch
