@@ -1,0 +1,14 @@
+{
+  "name": "next-wiki",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "retype build"
+  },
+ "dependencies": {
+    "retypeapp": "^3.8.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
