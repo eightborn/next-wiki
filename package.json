@@ -1,5 +1,6 @@
 {
   "name": "next-wiki",
+  "author": "utk",
   "version": "1.0.0",
   "scripts": {
     "build": "retype build"
