@@ -4,7 +4,9 @@
   "scripts": {
     "build": "retype build"
   },
-  "dependencies": {},
+ "dependencies": {
+    "retypeapp": "^3.8.1"
+  },
   "devDependencies": {},
   "engines": {
     "node": ">=18"
