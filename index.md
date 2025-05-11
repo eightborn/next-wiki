@@ -6,11 +6,14 @@ icon: zap
 
 # :zap: EightbornV Next Hızlı Başlangıç
 
+!!!warning
+**Wiki sürekli güncellenmektedir. Özellikle kurallar kısmında ekleme, çıkarma veya düzenlemene olabilir. Eğer oyuncuysanız problem yaşamamak için lütfen burayı günlük kontrol ediniz. Değişiklik olan kurallarda :star2: etiketini görebilirsiniz.**
+!!!
+
 Merhaba, sunucumuzun wiki sayfasına hoş geldiniz! Sunucu içindeki ve dışındaki sistemleri, kuralları, mekanizmaları ve oluşumları anlamak için doğru yerdesiniz. **Hemen başlayalım!**
 
 ## Başvurular
 
-:::default
 Eğer sunucumuzda kayıtlı bir oyuncu değilseniz başvuru yapabilirsiniz. Başvuralar **dönemsel** açılır. Başvuruların açılımıyla ilgili duyuları [Instagram sayfamızdan](https://www.instagram.com/eightbornvofficial/) ve [Discord sunucumuzdan](https://discord.gg/eightborn) takip edebilirsiniz. Ayrıca başvuruların yapıldığı ve takip edilildiği kendine özel bir [sayfamız](https://eightbornv.com/basvuru) mevcuttur.
-:::
 
+Başvuru yapmak için önce [Tebex mağazamız](https://eightnext.tebex.io/) üzerinden içinde başvuru hakkı da içeren [!badge variant="warning" text=":star: Community Founder"] paketini satın almanız gerekmektedir. Ardından size e-mail yoluyla ulaştırılan kodunuz ile [başvuru sayfasından](https://eightbornv.com/basvuru) sürecinizi başlatabilirsiniz.
