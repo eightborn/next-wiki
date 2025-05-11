@@ -40,3 +40,6 @@ data:
     RP: Roleplay
     DM: Deathmatch
     VDM: Vehicle Deathmatch
+    NPC: Non-Player Character
+    Ped: Pedestrian (NPC)
+    HUD: Heads Over Display
