@@ -7,7 +7,7 @@ order: 100
 Aksiyon belirtmek istediğiniz durumlarda bu komutu kullanabilirsiniz.
 
 !!!warning
-Sunucuda /me ve /do emote kullanımı çok önemlidir. Lütfen [kuralları](/rules/emotes) dikkatlice okuyun.
+Sunucuda /me ve /do emote kullanımı çok önemlidir. Lütfen [kuralları](/rules/ic/emotes.md#me-emote-kuralları-ve-kullanım-alanları) dikkatlice okuyun.
 !!!
 
 ### Kullanım şekli

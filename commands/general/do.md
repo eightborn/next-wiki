@@ -7,7 +7,7 @@ order: 99
 Durum belirtmek veya bir şeyi betimlemek için kullanılır. Ayrıca bazı durumlarda izin almak için kullanılanbilir.
 
 !!!warning
-Sunucuda /me ve /do emote kullanımı çok önemlidir. Lütfen [kuralları](/rules/emotes) dikkatlice okuyun.
+Sunucuda /me ve /do emote kullanımı çok önemlidir. Lütfen [kuralları](/rules/ic/emotes.md#do-emote-kuralları-ve-kullanım-alanları) dikkatlice okuyun.
 !!!
 
 ### Kullanım şekli

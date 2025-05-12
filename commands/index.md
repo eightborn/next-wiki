@@ -20,24 +20,29 @@ Yukarı ve aşağı yön tuşları ile son attığınız mesajlar arasında geç
 Mavi renkle yazılan komutların üstüne tıklayarak detaylı açıklama ve örnek kullanım görebilirsiniz.
 !!!
 
-| Komut                           | Açıklama                                                                                     |
-| :------------------------------ | :------------------------------------------------------------------------------------------- |
-| **[/me](/commands/general/me)** | Aksiyon belirtmek için kullanılır.                                                           |
-| **[/do](/commands/general/do)** | Durum belirtmek veya bir şeyi betimlemek için kullanılır.                                    |
-| **[/st](/commands/general/st)** | Statik emote menüsünü açar.                                                                  |
-| **[/e](/commands/general/e)**   | Hızlıca animasyon yapmak için kullanılır.                                                    |
-| **[/ap](/commands/general/ap)** | Animasyon halindeyken karakterinizi düzgün pozisyonlamanız için kullanılır.                  |
-| **/help**                       | Chat komutlarını listeler.                                                                   |
-| **/yardım**                     | Oyun içindeki anlık buglarda adminlerden yardım istemeniz için kullanılır.                   |
-| **/clear**                      | Chatteki mesaj geçmişinizi siler.                                                            |
-| **/blips**                      | Haritada gözükmesini istediğiniz blipleri ayarlayabileceğiniz menüyü açar.                   |
-| **/hoparlörgrup**               | Hoparlör grubuna bağlanmak veya bağlandığınız grubu kontrol etmek için bu komutu kullanılır. |
+| Komut                                 | Açıklama                                                                                        |
+| :------------------------------------ | :---------------------------------------------------------------------------------------------- |
+| **[/me](/commands/general/me)**       | Aksiyon belirtmek için kullanılır.                                                              |
+| **[/do](/commands/general/do)**       | Durum belirtmek veya bir şeyi betimlemek için kullanılır.                                       |
+| **[/st](/commands/general/st)**       | Statik emote menüsünü açar.                                                                     |
+| **[/e](/commands/general/e)**         | Hızlıca animasyon yapmak için kullanılır.                                                       |
+| **[/ap](/commands/general/ap)**       | Animasyon halindeyken karakterinizi düzgün pozisyonlamanız için kullanılır.                     |
+| **[/zarat](/commands/general/zarat)** | Altı yüzlü zar atmak için kullanılır.                                                           |
+| **[/rs](/commands/general/rs)**       | Rastgele sayı seçmek için kullanılır.                                                           |
+| **/f**                                | Faction menüsünü açar.                                                                          |
+| **/evkurtar**                         | İçinde bulunduğunuz evin eşyalarını ve içeriklerini sıfırlar (bug durumunda kullanabilirsiniz). |
+| **/help**                             | Chat komutlarını listeler.                                                                      |
+| **/yardım**                           | Oyun içindeki anlık buglarda adminlerden yardım istemeniz için kullanılır.                      |
+| **/clear**                            | Chatteki mesaj geçmişinizi siler.                                                               |
+| **/clearHistory**                     | Chatteki mesaj alanına yazdığınız geçmişinizi siler.                                            |
+| **/blips**                            | Haritada gözükmesini istediğiniz blipleri ayarlayabileceğiniz menüyü açar.                      |
+| **/hoparlörgrup**                     | Hoparlör grubuna bağlanmak veya bağlandığınız grubu kontrol etmek için bu komutu kullanılır.    |
 
 ### Araç komutları
 
 | Komut                                           | Açıklama                                                                |
 | :---------------------------------------------- | :---------------------------------------------------------------------- |
-| **[/hs](/commands/vehicle/hs)**                 | Hız limiti koymanızı sağlar.                                             |
+| **[/hs](/commands/vehicle/hs)**                 | Hız limiti koymanızı sağlar.                                            |
 | **[/fixmyplate](/commands/vehicle/fixmyplate)** | Bug durumlarında aracınızı kurtarmanızı sağlar.                         |
 | **/demirat**                                    | Su taşıtlarında demir atmayı sağlar.                                    |
 | **/hoparlörfix**                                | Araç hoparlörünüz düzgün çalışmadığı zaman bu komutu kullanabilirsiniz. |
