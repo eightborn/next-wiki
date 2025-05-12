@@ -7,16 +7,41 @@ order: 100
 
 Kurallar kabaca iki ana kategoriden oluşmaktadır. OOC ve IC. Ancak bunlarla limitli değildir.
 
+## Sunucu ve RP Hakkında Önemli Bilgiler
+
+Karakterinizle oynadığınız sürece yapmanız gereken genel bir davranış standartımız vardır. Hard RP mentalitesiyle oynadığımızı lütfen unutmayalım. Karateriniz, yaşadığı olaylara her şeyden önce **gerçekçi** karşılık vermek zorundadır. Kuralların izin verdiği ölçüde gerçek dışı veya komik davranışlar kabul edilebilir. Karakteriniz, bir davranışı veya huyu en ekstrem noktalarında yapamaz. En basit örnek olarak bir karakter aşırı agresif olup her önüne gelene atar yapamaz. Ya da karakteriniz inanılmaz zeki olup nokta atışı çıkarımlarda bulunamaz. Bu tür durumlardaki genel düşünceniz empati olmalıdır. Karşınızdaki kişiler de sizin gibi birer oyuncu ve onlar da zevk almak için oynuyorlar. Lütfen bencil olmayın.
+
+Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu şehirde yüzlerce kültürden, **milyonlarca** insan vardır. Özellikle çıkarımlarda veya tahminlerde bulunurken bu nokta çok önemlidir. Şehirde konuşlan dil IC olarak _Swanca_ dır ve Türkçe olarak adlandırılmamalıdır. Sunucuda var olan araçlara ilham alındığı veya kopyalandığı gerçek isimleri ile **bahsedilmemelidir**. Ancak benzerliğinden bahsedilebilir. Örnek olarak [Ubermacht Niobe](https://gtacars.net/gta5/niobe) aracına [BMW i8](https://tr.wikipedia.org/wiki/BMW_i8#/media/Dosya:2016_BMW_i8.jpg) denilemez. Bu diğer tüm markalı şeyler için de geçerlidir. Bir kıyafet, ayakkabı, marka veya lokasyona gerçek adları ile hitap etmemeniz gerekiyor. Ancak şehirde olmayan kişilerden, lokasyonlardan veya markalardan bahsedebilirsiniz. Örnek olarak; _"Ben geçen yaz Antalya'ya gittim, çok güzeldi. Orada bir Lamborghini Huracan kiraladım. Metallica konseri olmuş, var yaaa acayip efsaneydi!"_ diyebilirsiniz.
+
+Şehirdeki LSPD, LSFD birimleri Amerikadaki bir sürü farklı eyalet kurallarının ve Türkiye kurallarının birleşiminden ve yorumlanmasından hazırlanmıştır. Los Santos'da **Özgür İfade (Free Speech)** inanılmaz önemlidir ve sonuna kadar kullanılabilir. Ancak sunucuda OOC kural olarak art niyet içeren ırkçı davranış ve söylemlerde bulunmak, nefret söyleminde bulunmak, gerçek hayatta yaşanan olayları konu alarak eylemlerde bulunmak kesinlikle yasaktır.
+
 ## Genel Rol Terimleri
 
-- [Power Gaming](/rules/power-gaming)
-- [Fear RP](/rules/fear-rp)
-- [Meta](/rules/meta)
-- [IC/OOC Mixing](/rules/ic-ooc-mixing)
-- [NonRP Driving](/rules/nonrp-driving)
-- [Absurd RP](/rules/absurd-rp)
-- [DM](/rules/dm)
-- [VDM](/rules/vdm)
-- [Sürekli RP](/rules/sürekli-rp)
-- [Non RP](/rules/non-rp)
-- [Ghost RP](/rules/ghost-rp)
+- [Meta Gaming](/rules/terminology/meta.md)
+- [Power Gaming](/rules/terminology/power-gaming.md)
+- [NonRP](/rules/terminology/non-rp.md)
+- [SürekliRP](/rules/terminology/sürekli-rp.md)
+- [GhostRP](/rules/terminology/ghost-rp.md)
+- [FearRP](/rules/terminology/fear-rp.md)
+- [AbsurdRP](/rules/terminology/absurd-rp.md)
+- [DM](/rules/terminology/dm.md)
+- [VDM](/rules/terminology/vdm.md)
+- [NonRP Driving](/rules/terminology/nonrp-driving.md)
+- [IC/OOC Mixing](/rules/terminology/ic-ooc-mixing.md)
+
+## IC Kurallar
+
+- [Emote Kullanımı](/rules/emotes.md)
+- [Meslek Kuralları](/rules/jobs.md)
+- [Güvenli Bölge Kuralları](/rules/safezones.md)
+- [Polis - İllegal Etkileşim](/rules/cop-interaction.md)
+- [Wallkers Kullanımı](/rules/wallkers.md)
+
+## OOC Kurallar
+
+- [Bug Abuse ve Hile](/rules/cheats.md)
+- [Küfür ve Hakeret](/rules/insult.md)
+- [Video, Görsel ve Yazı Paylaşımı](/rules/publish.md)
+- [OOC Yalan](/rules/ooc-lie.md)
+- [Rol İçi İletişim](/rules/comms.md)
+- [Yönetim İle İletişim](/rules/admins.md)

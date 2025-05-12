@@ -34,7 +34,7 @@ Sunucuda herkesin **akışkan ve sorunuz** bir oyun deneyimi yaşaması için bu
 
 ==- Tuş Atamaları
 
-Sunucumuzdaki çok etkileşim Keybindings özelliğe ile çalışır. Buradan sunucudaki bir sürü özel tuşu ayarlayabilirsiniz. Keybindings sekmesinde en altta **"Eightborn Next"** bölümünden ayarlarınız yapabilirsiniz.
+Sunucumuzdaki çoğu etkileşim Keybindings özelliğe ile çalışır. Buradan sunucudaki bir sürü özel tuşu ayarlayabilirsiniz. Keybindings sekmesinde en altta **"Eightborn Next"** bölümünden ayarlarınız yapabilirsiniz.
 
 ![Keybindings](https://cdn.eightbornv.com/2025/05/11/19-12-42_7753889052.jpg)
 
