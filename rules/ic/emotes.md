@@ -7,9 +7,9 @@ order: 100
 
 Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kuralları IC yaptığınız roller ve davranışlar kadar önemlidir. Hatalı emote kullanımı hem etraftaki kişilerin rolüne zarar verebilir hem de kötü veya yanlış görüntüler ortaya çıkartabilir. Lütfen yazılı emotelar kullanırken olabildiğince yazım kurallarına uyunuz.
 
-/me ve /do emotelarını kullanırken gerçek dışı şeyler yazamazsınız. Ayrıca gerçek hayatta yaşanan olaylara, bilgilere, esprilere veya meme olmuş şeylere göndermelerde bulunamazsınız. Gerçek hayattaki kişilerden, markalardan veya lokasyonlardan bahsedemezsiniz.
+`/me` ve `/do` emotelarını kullanırken gerçek dışı şeyler yazamazsınız. Ayrıca gerçek hayatta yaşanan olaylara, bilgilere, esprilere veya meme olmuş şeylere göndermelerde bulunamazsınız. Gerçek hayattaki kişilerden, markalardan veya lokasyonlardan bahsedemezsiniz.
 
-Özellikle /do emoteunu kullanırken çok dikkat edilmesi gerekir. Bu emote hem o anki bir durumu betimlemek için kullanılır hem de özel durumlarda OOC şeyleri belirlemek veya bilgi aktarmak için kullanılır.
+Özellikle `/do` emoteunu kullanırken çok dikkat edilmesi gerekir. Bu emote hem o anki bir durumu betimlemek için kullanılır hem de özel durumlarda OOC şeyleri belirlemek veya bilgi aktarmak için kullanılır.
 
 !!!warning
 `/me` ve `/do` emotelarında emoji kullanmak yasaktır.
@@ -22,11 +22,11 @@ Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kurallar
 `/do` komutunu nasıl kullanacağınız hakkında kısa bilgiye [buradan](/commands/general/do.md) ulaşabilirsiniz.
 
 !!!danger
-/do ile bilgi verirken yalan söylemek kesinlikle yasaktır.
+`/do` ile bilgi verirken yalan söylemek kesinlikle yasaktır.
 !!!
 
 !!!warning
-/do ile rol gidişatını büyük ölçüde etkileyebilecek ancak sistemin izin vermediği şeyleri yapamazsınız.
+`/do` ile rol gidişatını büyük ölçüde etkileyebilecek ancak sistemin izin vermediği şeyleri yapamazsınız.
 Örnek:
 
 - /do Ceketinin düğmesinde video ve ses kaydı alan çok ufak gizli kamera vardır.
@@ -97,11 +97,11 @@ Bu tür olayların anlık yaşanmasını ve önceden planlanmamasını istiyoruz
 `/me` komutunu nasıl kullanacağınız hakkında kısa bilgiye [buradan](/commands/general/me.md) ulaşabilirsiniz.
 
 !!!warning
-Bu komutu kullanırken her şeyi tek seferde yazmamalısınuz. Küçük ve kısa aksiyonlar tek seferde kullanılabilir, ancak zaman gerektiren veya birkaç adımdan oluşun aksiyonlar için ayrı ayrı /me atmanız gerekir.
+Bu komutu kullanırken her şeyi tek seferde yazmamalısınuz. Küçük ve kısa aksiyonlar tek seferde kullanılabilir, ancak zaman gerektiren veya birkaç adımdan oluşun aksiyonlar için ayrı ayrı `/me` atmanız gerekir.
 !!!
 
 !!!success
-/me komutunu animasyon yaparken kullanmanıza gerek yoktur. Örnek olarak sunucuda yemek yerken bunu, etrafınızdaki kişiler zaten net olarak algılayabilir. Ancak animasyon olmasına rağmen daha detaylı aksiyonlarınız belirtmek role katkı sağlar.
+`/me` komutunu animasyon yaparken kullanmanıza gerek yoktur. Örnek olarak sunucuda yemek yerken bunu, etrafınızdaki kişiler zaten net olarak algılayabilir. Ancak animasyon olmasına rağmen daha detaylı aksiyonlarınız belirtmek role katkı sağlar.
 !!!
 
 :::medium-text
@@ -140,3 +140,13 @@ Telefonunuzda ne yaptığınızı bu şekilde belirtemezsiniz.
 ## Statik ve Yapışkan Emote Kullanımı
 
 Bu emotelar `/do` emote ile aynı mantık çerçevesinde kullanılabilir. Bir ortamdaki ya da üzerinizdeki bir şeyi betimlemek için kullanılmalıdır. Bu nedenle [buradaki](#do-emote-kuralları-ve-kullanım-alanları) kurallar geçerlidir.
+
+`/do` ve `/me`de de olduğu gibi burada da gerçek dışı veya sistemin izin vermediği şeyler uyduramazsınız.
+
+Örnek olarak:
+
+==- _"Mekan 7/24 güvenlik kameraları ile kayıt altındadır."_
+Sunucuda zaten sistemsel olarak sağlanan güvenlik kameraları vardır. Siz kafanıza göre varmış gibi gösteremezsiniz.
+==- _"Girişte güvenlik görevlisi beklemektedir."_
+Sunucuda zaten sistemsel olarak sağlanan NPC güvenlik görevlileri vardır. Siz kafanıza göre varmış gibi gösteremezsiniz.
+==-
