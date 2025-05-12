@@ -14,5 +14,5 @@ Sunucunun en önemli noktası yaptığınız her şeyde rol içinde olmanızdır
 - Gym'de çalışırken hiç emote atmadan sadece [!badge variant="dark" text="E"] basarak zaman geçirmek.
 - Etrafınızda olan bitene tepki vermemek.
 - Kimseyle konuşmamak veya size bir şey denildiğinde sürekli yoksaymak.
-- Sadece sistemsel olarak gelişme kafasında oynamak ve diğer karakter ile etkileşime geçmemek.
+- Sadece sistemsel olarak gelişme kafasında oynamak ve diğer karakterler ile etkileşime geçmemek.
 - Sürekli diğer oyunculara rol imkanı sunmayacak şekilde davranmak. İnsanların rollerini bir şekilde engellemek veya hiç rol paslamamak.

@@ -5,9 +5,9 @@ order: 100
 
 # Meta Gaming :desktop_computer:
 
-Karakterinizin normalde bilmediği bir bilgiyi oyun dışı yollarla veya ekstrem çıkarımlarda bulunup edinmesi.
+Karakterinizin normalde bilmediği bir bilgiyi oyun dışı yollarla veya ekstrem çıkarımlarla bulunup edinmesi.
 
-Karakteriniz IC olması gereken her bilgiyi rol içinde edinmesi gerekir. Yayınlardan, video kayıtlarında veya oyun dışı konuşmalardan edindiğiniz bilgileri kullanmanız veya biliyormuş gibi yapmanız yasaktır.
+Karakteriniz IC olması gereken her bilgiyi rol içinde edinmesi gerekir. Yayınlardan, video kayıtlarından veya oyun dışı konuşmalardan edindiğiniz bilgileri kullanmanız veya biliyormuş gibi yapmanız yasaktır.
 
 !!!danger
 İllegal rol yapan veya illegal role herhangi bir şekilde dahil olan her oyuncunun video kayıtı alması çok önemlidir. Meta şüphesi ile suçlandığınız zaman kendinizi kanıtlamanız gerekebilir.

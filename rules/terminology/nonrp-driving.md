@@ -16,5 +16,5 @@ Herhangi bir araç kullanırken gerçek dışı hareketler yapamazsınız. Karak
 - Lastikleri patlamış bir araçla uzun süre yola devam edemezsiniz.
 - Hiçbir neden yokken etraftaki objelere veya binalara çarpamazsınız veya zarar veremezsiniz.
 - Sürekli, aldırış etmeden veya geçerli bir sebebi olmadan; kaldırımlarda, ters şeritlerde, çimenlerde veya toprak alanlarda sürüş yapamazsınız. Sürekli 360 spin atarak veya absürt sürüş yapamazsınız.
-- Kaza yaptıktan sonra bunun rolünü gerçekleştirmemek.
-- Bota sürerken çok fazla dalgaya maruz kaldığınzı durumlarda sanki hiç sorun yokmuş gibi davranamazsınız.
+- Kaza yaptıktan sonra bunun rolünü gerçekleştirmeden hayatınıza devam edemezsiniz.
+- Bot sürerken çok fazla dalgaya maruz kaldığınz durumlarda sanki hiç sorun yokmuş gibi davranamazsınız.

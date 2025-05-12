@@ -10,7 +10,7 @@ Ortada geçerli bir sebep olmadan birini öldürmek veya fiziksel zarar vermek.
 Karakteriniz sanki deathmatch sunucusunda gibi kafasına estiği gibi insanlara fiziksel zarar veremez. Birine fiziksel zarar vermeden önce arkasında geçerli bir sebep olmalıdır. Fiziksel zarar verileceği zaman hemen kazanmaya ve işi bitirmeye yönelik oynanmamalıdır. Bu durum şehirdeki NPC ler için de geçerlidir. Bir oyuncu tarafından canlandırılmıyorlar diye onlara karşı farklı davranamazsınız.
 
 !!!warning
-İllegal çatışma veya kavga rollerinde kazanma duygusunu kullanabilirsiniz. Stratejiler kurabilir veya gerçek hayattaki aim kabiliyetiniz konuşturabilirsiniz. **Ancak bu, karakterin gelişimine ve hikayesine uygun olmalıdır.** Karakteriz hırslı biri değilse veya silah geçmişi yoksa ancak sanki bunlar varmış gibi davranırsa bu [Power Gaming](/rules/terminology/power-gaming.md) kuralı ihlali olur.
+İllegal çatışma veya kavga rollerinde kazanma duygusunu kullanabilirsiniz. Stratejiler kurabilir veya gerçek hayattaki aim kabiliyetiniz konuşturabilirsiniz. **Ancak bu, karakterin gelişimine ve hikayesine uygun olmalıdır.** Karakteriniz hırslı biri değilse veya silah kullanma geçmişi yoksa ancak sanki bunlar varmış gibi davranırsa bu [Power Gaming](/rules/terminology/power-gaming.md) kuralı ihlali olur.
 !!!
 
 ## Kural İhlali Örnekleri

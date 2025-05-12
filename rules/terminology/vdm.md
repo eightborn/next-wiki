@@ -5,7 +5,7 @@ order: 92
 
 # VDM (Vehicle Deathmatch) :construction:
 
-Ortada geçerli bir sebep olmadan birine araçla fiziksel zarar vermeye denir. Kısaca [DM](/rules/terminology/dm.md) kuralının araçla olan halidir.
+Ortada geçerli bir sebep olmadan birine araçla fiziksel zarar vermeye denir. Kısaca [DM](/rules/terminology/dm.md) kuralının araçlı olan halidir.
 
 Karakteriniz sanki deathmatch sunucusunda gibi kafasına estiği gibi insanlara araçla fiziksel zarar veremez. Ayrıca araçları, çatışmalarda veya kavga rollerinde avantaj sağlaması için **ofansif** bir alet olarak kullanamazsınız. Ama isterseniz **defansif** olarak kullanabilirsiniz. Mesela siper almak için aracınızı pozisyonlandırabilirsiniz.
 
@@ -17,7 +17,7 @@ Anlık tepki vermeniz gereken zamanlarda bu kural **hafif olacak şekilde** esne
 
 - Nedensiz bir şekilde bir kişiyi bilerek ezmek.
 - Bir neden yokken aniden birinin önüne kaza yapması veya sırf eğlence içine kırmak.
-- Birini seni ezemeyeceğini bildiğin halde aracın önünü kasıtlı olarak kesmek.
-- Alkollü ayağına etkinliklere veya sosyal ortalama araçla zarar vermek.
-- Kalabalık olması çok olası yerlere hızlı bir şekilde girip sonra kaza oldu demek.
-- Bir araç sürerken kazalya birine çarpıp hiçbir şey olmamış gibi yoluna devam etmek veya bunun rolünü yapmamak. Bu durum NPC 'lere karşı yapılırsa ayrıca [Ghost RP](/rules/terminology/ghost-rp.md) kuralı da ihlal edilmiş olur.
+- Araç süreni birinin önünü, seni ezemeyeceğini bildiğin için kasıtlı olarak kesmek.
+- Alkollü ayağına etkinliklere veya sosyal ortamlara araçla zarar vermek.
+- Kalabalık olması çok olası yerlere hızlı bir şekilde girip sonra kazayla oldu demek.
+- Bir araç sürerken kazayla birine çarpıp hiçbir şey olmamış gibi yoluna devam etmek veya bunun rolünü yapmamak. Bu durum NPC 'lere karşı yapılırsa ayrıca [Ghost RP](/rules/terminology/ghost-rp.md) kuralı da ihlal edilmiş olur.

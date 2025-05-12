@@ -4,7 +4,7 @@ order: 96
 
 # /ap
 
-Animasyon halindeyken karakterinizi düzgün pozisyonlamanızı sağlar.
+Animasyon halindeyken karakterinizi düzgün pozisyonlandırmanızı sağlar.
 
 !!!warning
 Bu komutu [Power Gaming](/rules/power-gaming.md) yapmak için kullanmanız yasaktır.
