@@ -6,7 +6,7 @@ order: 100
 # Kurallar
 
 !!!danger
-Sunucumuzda oynayan her oyuncu bu kuralları okumuş ve kabul etmiş sayılır. Bu kuralı bilmiyordum tarzında bahaneler kabul edilemez.
+Sunucumuzda oynayan her oyuncu bu kuralları okumuş ve kabul etmiş sayılır. _Bu kuralı bilmiyordum_ tarzında bahaneler kabul edilemez.
 !!!
 
 Kurallar kabaca iki ana kategoriden oluşmaktadır. OOC ve IC. Ancak bunlarla limitli değildir.
@@ -19,19 +19,23 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 
 Şehirdeki LSPD, LSFD birimleri Amerika'daki bir sürü farklı eyalet kurallarının ve Türkiye kurallarının birleşiminden ve yorumlanmasından hazırlanmıştır. Los Santos'da **Özgür İfade (Free Speech)** inanılmaz önemlidir ve sonuna kadar kullanılabilir. Ancak sunucuda OOC kural olarak art niyet içeren ırkçı davranış ve söylemlerde bulunmak, nefret söyleminde bulunmak, gerçek hayatta yaşanan olayları konu alarak eylemlerde bulunmak kesinlikle yasaktır.
 
+!!!danger
+**Özellikle dikkat etmeniz gereken bir diğer konu ise kafanızdan bir şeyler uydurmamanızdır. Sistemin size izin vermediği ve rolde ciddi sonuçlar doğurabilecek şeyler uyduramazsınız.**
+!!!
+
 ## Genel Rol Terimleri
 
+- [IC/OOC Mixing](/rules/terminology/ic-ooc-mixing.md)
 - [Meta Gaming](/rules/terminology/meta.md)
 - [Power Gaming](/rules/terminology/power-gaming.md)
-- [NonRP](/rules/terminology/non-rp.md)
-- [SürekliRP](/rules/terminology/sürekli-rp.md)
-- [GhostRP](/rules/terminology/ghost-rp.md)
-- [FearRP](/rules/terminology/fear-rp.md)
-- [AbsurdRP](/rules/terminology/absurd-rp.md)
+- [Non RP](/rules/terminology/non-rp.md)
+- [Sürekli RP](/rules/terminology/sürekli-rp.md)
+- [Ghost RP](/rules/terminology/ghost-rp.md)
+- [Fear RP](/rules/terminology/fear-rp.md)
+- [Absurd RP](/rules/terminology/absurd-rp.md)
 - [DM](/rules/terminology/dm.md)
 - [VDM](/rules/terminology/vdm.md)
-- [NonRP Driving](/rules/terminology/nonrp-driving.md)
-- [IC/OOC Mixing](/rules/terminology/ic-ooc-mixing.md)
+- [Non RP Driving](/rules/terminology/nonrp-driving.md)
 
 ## IC Kurallar
 
@@ -44,8 +48,12 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 ## OOC Kurallar
 
 - [Bug Abuse ve Hile](/rules/cheats.md)
-- [Küfür ve Hakeret](/rules/insult.md)
+- [Küfür ve Hakaret](/rules/insult.md)
 - [Video, Görsel ve Yazı Paylaşımı](/rules/publish.md)
 - [OOC Yalan](/rules/ooc-lie.md)
 - [Rol İçi İletişim](/rules/comms.md)
 - [Yönetim İle İletişim](/rules/admins.md)
+
+## Diğer Kurallar
+
+- [Wallkers Kullanımı](/rules/ic/wallkers.md)

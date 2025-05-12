@@ -1,9 +1,9 @@
 ---
-label: NonRP 
+label: Non RP
 order: 98
 ---
 
-# NonRP :performing_arts:
+# Non RP :performing_arts:
 
 Genel anlamı ile rol yapmadan oyun oynamaktır.
 

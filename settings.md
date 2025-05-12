@@ -19,7 +19,7 @@ Sunucuda herkesin **akışkan ve sorunsuz** bir oyun deneyimi yaşaması için b
 ==- Advanced Graphics Ayarları
 
 - Sisteminizden bağımsız olarak "Extended Distance Scaling" ayarını **en fazla** yarıda yapın. Daha az da yapabilirsiniz.
-- Görseldeki diğer ayarları sisteminizin gücüne göre belirleyebilirsiniz. Buradaki ayarlar performansa çok etki eder.
+- Görseldeki diğer ayarları sisteminizin gücüne göre ayarlayabilirsiniz. Buradaki ayarlar performansa çok etki eder.
 
 ![Advanced Graphics](https://cdn.eightbornv.com/2025/05/11/19-04-54_5805908771.jpg)
 
@@ -27,7 +27,7 @@ Sunucuda herkesin **akışkan ve sorunsuz** bir oyun deneyimi yaşaması için b
 
 - Voice Chat'in açık olduğundan emin olun. Sunucuda voice chat açık olmak zorundadır.
 - Voice Chat Volume etrafınızdaki kişilerin ses seviyesini ayarlar.
-- SFX Volume during Voice Chat ve Music Volume during Voice Chat ayarları birisi konuşurken diğer seslerin düzeyini belirtir. Eğer bu barı düşürürseniz birisi konuşurken diğer sesler azalır. Bu sayede etraftaki konuşmaları duymada kolaylık sağlar. Rahat ettiğiniz bir düzeyde ayarlayabilirsiniz.
+- SFX Volume during Voice Chat ve Music Volume during Voice Chat ayarları birisi konuşurken diğer seslerin düzeyini belirtir. Eğer bu barı düşürürseniz birisi konuşurken diğer sesler azalır. Bu sayede etraftaki konuşmaları duymanızı kolaylaştırır. Rahat ettiğiniz bir düzeyde ayarlayabilirsiniz.
 - Microphone Volume sizin diğer kişilere giden ses düzeyini ayarlar. Eğer sesiniz diğer kişilere kısık geliyorsa buradan arttırabilirsiniz, veya çok fazla geliyorsa buradan kısabilirsiniz.
 
 ![Voice Chat](https://cdn.eightbornv.com/2025/05/11/19-08-12_8521424107.jpg)

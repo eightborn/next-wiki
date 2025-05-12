@@ -1,5 +1,5 @@
 ---
-label: VDM 
+label: VDM
 order: 92
 ---
 
@@ -17,7 +17,7 @@ Anlık tepki vermeniz gereken zamanlarda bu kural **hafif olacak şekilde** esne
 
 - Nedensiz bir şekilde bir kişiyi bilerek ezmek.
 - Bir neden yokken aniden birinin önüne kaza yapması veya sırf eğlence içine kırmak.
-- Araç süreni birinin önünü, seni ezemeyeceğini bildiğin için kasıtlı olarak kesmek.
+- Araç süren birinin önünü, _seni ezemeyeceğini bildiğin_ için kasıtlı olarak kesmek.
 - Alkollü ayağına etkinliklere veya sosyal ortamlara araçla zarar vermek.
 - Kalabalık olması çok olası yerlere hızlı bir şekilde girip sonra kazayla oldu demek.
 - Bir araç sürerken kazayla birine çarpıp hiçbir şey olmamış gibi yoluna devam etmek veya bunun rolünü yapmamak. Bu durum NPC 'lere karşı yapılırsa ayrıca [Ghost RP](/rules/terminology/ghost-rp.md) kuralı da ihlal edilmiş olur.

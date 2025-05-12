@@ -1,9 +1,9 @@
 ---
-label: SürekliRP 
+label: Sürekli RP
 order: 97
 ---
 
-# SürekliRP :dancer:
+# Sürekli RP :dancer:
 
 Sunucu içindeyken rolün kesintisiz bir şekilde devam etmesine denir.
 
@@ -34,7 +34,7 @@ Acil durumlarda oyundan çıkmanız gerekiyorsa veya kısa süreliğine afk kalm
 
 - _"Üzerime sıcak çay döküldü, durun, hemen geliyorum"_ diyemezsiniz. Bunu bir şekilde role yedirmeniz veya bir şekilde yansıtmamanız gerekir.
 - Polisten kaçarken yakalanacağınızı anlayıp üzerinizdeki değerli eşyaları kaybetmemek için oyundan çıkmak.
-- Biri sizi sebepsizce öldürdü ve baygın karakterinizin yanına dururken siz ona _"Bu yaptığın rol hatası"_ diyemezsiniz veya rol hatası olduğu için bunların hiçbiri yaşanmamış gibi davranamazsınız.
+- Biri sizi sebepsizce öldürdü. Siz de; o kişi, baygın karakterinizin yanında dururken _"Bu yaptığın rol hatası"_ diyemezsiniz veya rol hatası olduğu için bunların hiçbiri yaşanmamış gibi davranamazsınız.
 
 !!!warning
 Bir rolün yaşanmamış gibi davranılmasına yani [Rollback](/rules/terminology/rollback.md) veya [Rol İptali](/rules/terminology/rol-iptali.md)ne sadece yönetim ekibi karar verebilir.

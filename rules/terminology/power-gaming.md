@@ -7,7 +7,7 @@ order: 99
 
 Karakterinizin normal hayatta yapamayacağı şeyleri yapmasına denir.
 
-Karakterinizin belirli fiziksel ve mental özellikleri vardır. Her davranışınızda bunlara dikkat etmeniz zorunludur. Karakterinizi yaratırken olağanüstü veya çok üst düzey güçleri veya yetenekleri olamaz.
+Karakterinizin belirli fiziksel ve mental özellikleri vardır. Her davranışınızda bunlara dikkat etmeniz zorunludur. Karakterinizi olağanüstü veya çok üst düzey güçleri, veya yetenekleri olacak şekilde yaratamazsınız.
 
 ## Kural İhlali Örnekleri
 
@@ -24,10 +24,10 @@ Karakterinizin belirli fiziksel ve mental özellikleri vardır. Her davranışı
 Örnek olarak:
 
 - Bir elektirik direğini yerinden söküp fırlatamazsınız.
-- Normalde karakteriniz görüş alanında olmayan bir şeyi görüp buna göre rol yapmanız yasaktır. Arkanızda yavaş yavaş ve sinsice hareket eden birini görmemiş gibi davranmanız gerekir.
-- Kapalı kapılar, camlar ardından veya duvarların içinde normalde duyulmaması gereken konuşmaları veya sesleri sistem teknik olarak izin veriyor diye duymuş gibi yapamazsınız.
+- Normalde karakterinizin görüş alanında olmayan bir şeyi görüp buna göre rol yapmanız yasaktır. Arkanızda yavaş yavaş ve sinsice hareket eden birini görmemiş gibi davranmanız gerekir.
+- Kapalı kapılar, camlar ardından veya duvarların içinden; normalde duyulmaması gereken konuşmaları veya sesleri sistem teknik olarak izin veriyor diye duymuş gibi yapamazsınız.
 
-==- Karakteriniz sahip olmadığı yetenekleri veya bilgileri, siz OOC biliyorsunuz diye kullanamaz.
+==- Karakteriniz, sahip olmadığı yetenekleri veya bilgileri siz OOC biliyorsunuz diye kullanamaz.
 
 Örnek olarak:
 
@@ -37,5 +37,5 @@ Karakterinizin belirli fiziksel ve mental özellikleri vardır. Her davranışı
 ==-
 
 !!!warning
-**Girdiğiniz her rolde kazanmaya oynamayın. Bunun tespiti veya sürekli tekrarı durumunda cezası olur.**
+**Girdiğiniz her rolde kazanmaya oynamayın. Bunun tespiti veya sürekliliği durumunda cezası olur.**
 !!!

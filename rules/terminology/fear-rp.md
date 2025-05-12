@@ -7,7 +7,7 @@ order: 95
 
 Karakterin gerçek dışı cesur olması ve normalde korkutucu veya tedirgin edici durumlara tepki vermemesi durumu için kullanılır.
 
-Karakteriniz, tehlikeli veya korkutucu durumlarda **gerçekçi tepki** vermek zorundadır. Bazı durumlarda karakter, bu kuralı biraz esnetebilir ancak sonuçlarına da katlanması gerekir. Hayati tehlike içeren durumlarda _zaten bana zarar veremez_ kafasıyla hareket edemezsiniz. Hem karşınızdaki kişi size kalıcı zarar verebilir veya rolü CK 'ya kadar sürükleyebilir, hem de bu konuda ceza alabilirsiniz.
+Karakteriniz, tehlikeli veya korkutucu durumlarda **gerçekçi tepki** vermek zorundadır. Bazı durumlarda bu kuralı biraz esnetebilirsiniz ancak sonuçlarına da katlanmanız gerekir. Hayati tehlike içeren durumlarda karşı taraf _zaten bana zarar veremez_ kafasıyla hareket edemezsiniz. Hem karşınızdaki kişi size kalıcı zarar verebilir veya rolü CK 'ya kadar sürükleyebilir, hem de bu konuda ceza alabilirsiniz.
 
 ## Kural İhlali Örnekleri
 

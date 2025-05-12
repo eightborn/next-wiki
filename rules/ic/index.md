@@ -10,4 +10,3 @@ order: 99
 - [Meslek Kuralları](/rules/ic/jobs.md)
 - [Güvenli Bölge Kuralları](/rules/ic/safezones.md)
 - [Polis - İllegal Etkileşim](/rules/ic/cop-interaction.md)
-- [Wallkers Kullanımı](/rules/ic/wallkers.md)
