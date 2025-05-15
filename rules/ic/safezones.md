@@ -2,7 +2,7 @@
 label: Güvenli Bölgeler
 ---
 
-# Güvenli Bölgeler
+# Güvenli Bölgeler :hotel:
 
 Sunucumuzda _"güvenli bölge"_ olarak kabul edilen alanlar vardır. Bu alanlarda herhangi bir illegal aktivite yapmak yasaktır. Sadece özel izinler ile bu kural yoksayılabilir. Ghost RP bu konuda çok önemlidir. Bu kuralın role yedirilmesi bu bölgelerin çok yoğun olması veya çok güvenlikli olması.
 

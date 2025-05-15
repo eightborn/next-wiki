@@ -2,7 +2,7 @@
 label: Banka ve ATM
 ---
 
-# Banka Sistemi
+# Banka Sistemi :bank:
 
 Banka ve ödeme sistemleri `eb_bank` scripti üzerinden çalışır.
 

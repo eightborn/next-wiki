@@ -1,8 +1,9 @@
 ---
 label: Araçlar
+order: 99
 ---
 
-# Araçlar
+# Araçlar :car:
 
 Araçlarla ilgili tüm sistemler `eb_vehicle` üzerinden çalışır.
 
@@ -20,10 +21,14 @@ Sunucuda iki tip yakıt vardır: Beniz ve elektrik. Araçların yakıtını, ben
 
 ## Araç Kullanımı
 
-Aracın kapı kilidini anahtarını kullanarak açıp kapatabilirsiniz. Aracın ön koltuklarından birindeyken `G` tuşu ile motorunu açıp kapatabilirsiniz. Motor açıp kapatmak için aracın anahtarı üzerinizde olmalı. Ayrıca belirli açılardan ve belirli hızla yapılan kazalarda araçtan fırlayabilirsiniz. `K` tuşu ile emniyet kemerini takıp bu durumu engelleyebilirsiniz. **Emniyet kemeri takarken direksiyon kullanamazsınız.** Yön tuşları ile (`<-`, `->`) sağ sol sinyal verebilirsiniz. Ayrıca aşağı yön tuşu (`v`) ile ikaz sinyalinizı açabilirsiniz. `F4` tuşu ile aracın kontrollerini açabilirsiniz. Buradaki menüden; kapıları, camları, ön ve arka kaputu açıp kapatabilirsiniz, ayrıca aracın torpidosuna erişebilir ve oturduğunuz koltuğu değiştirebilirsiniz ve eğer varsa aracın taban ışıklarını açıp kapatabilirsiniz. `H` tuşu ile aracın farlarını kontrol edebilirsiniz.
+Aracın kapı kilidini anahtarını kullanarak açıp kapatabilirsiniz. Aracın ön koltuklarından birindeyken [!badge variant="dark" text="G"] tuşu ile motorunu açıp kapatabilirsiniz. Motor açıp kapatmak için aracın anahtarı üzerinizde olmalı. Ayrıca belirli açılardan ve belirli hızla yapılan kazalarda araçtan fırlayabilirsiniz. [!badge variant="dark" text="K"] tuşu ile emniyet kemerini takıp bu durumu engelleyebilirsiniz. **Emniyet kemeri takarken direksiyon kullanamazsınız.** Yön tuşları ile ([!badge variant="dark" text="<-"], [!badge variant="dark" text="->"]) sağ sol sinyal verebilirsiniz. Ayrıca aşağı yön tuşu ([!badge variant="dark" text="v"]) ile ikaz sinyalinizı açabilirsiniz. [!badge variant="dark" text="F4"] tuşu ile aracın kontrollerini açabilirsiniz. Buradaki menüden; kapıları, camları, ön ve arka kaputu açıp kapatabilirsiniz, ayrıca aracın torpidosuna erişebilir ve oturduğunuz koltuğu değiştirebilirsiniz ve eğer varsa aracın taban ışıklarını açıp kapatabilirsiniz. [!badge variant="dark" text="H"] tuşu ile aracın farlarını kontrol edebilirsiniz.
+
+!!!info
+Araca binerken [!badge variant="dark" text="F"] tuşuna basılı tutarsanız, en yakındaki kapıdan giriş yapabilirsiniz.
+!!!
 
 Off-road uygun olmayan araçlar toprak zemine girince performansı düşer, zaman zaman kontrolü kaybedilir ve uzun süreli sürüşte lastikleri patlar.
 
-Çoğu aracın hızını `B` tuşu ile limitleyebilirsiniz. Ayrıca [`/hs`](/commands/vehicle/hs.md) komutu ile daha detaylı hız limitlemesi yapabilirsiniz.
+Çoğu aracın hızını [!badge variant="dark" text="B"] tuşu ile limitleyebilirsiniz. Ayrıca [`/hs`](/commands/vehicle/hs.md) komutu ile daha detaylı hız limitlemesi yapabilirsiniz.
 
 Sunucuda tüm araçlar otomatik vitesdir. Ancak ilerde bazı araçları manual, bazılarını ise triptonik olacak şekilde değiştirebiliriz. Triptonik araçlar isteğe göre manual ve otomatik vites arasında geçiş yapabilir.
