@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: log
 order: 100
 ---
 
@@ -43,7 +43,6 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 - [Meslek Kuralları](/rules/ic/jobs.md)
 - [Güvenli Bölge Kuralları](/rules/ic/safezones.md)
 - [Polis - İllegal Etkileşim](/rules/ic/cop-interaction.md)
-- [Wallkers Kullanımı](/rules/ic/wallkers.md)
 
 ## OOC Kurallar
 
@@ -56,4 +55,4 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 
 ## Diğer Kurallar
 
-- [Wallkers Kullanımı](/rules/ic/wallkers.md)
+- [Wallkers Kullanımı](/rules/wallkers.md)

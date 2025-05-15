@@ -12,7 +12,7 @@ favicon: /static/logo.png
 links:
   - text: Eightborn Portal
     link: https://eightbornv.com/
-    icon: https://eightbornv.com/_next/image?url=%2Ficons%2Fv-icon-violet.png&w=32&q=75
+    # icon: https://eightbornv.com/_next/image?url=%2Ficons%2Fv-icon-violet.png&w=32&q=75
 
   - text: Discord
     link: https://discord.gg/eightborn
@@ -45,3 +45,6 @@ data:
     HUD: Heads Over Display
     CK: Character Kill
     ERP: Erotic Roleplay
+    EMS: Emergency Medical Service
+    LSPD: Los Santos Police Departmant
+    LSFD: Los Santos Fire Departmant

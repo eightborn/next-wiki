@@ -5,7 +5,7 @@ order: 100
 
 # Emote Kullanımı :speech_balloon:
 
-Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kuralları IC yaptığınız roller ve davranışlar kadar önemlidir. Hatalı emote kullanımı hem etraftaki kişilerin rolüne zarar verebilir hem de kötü veya yanlış görüntüler ortaya çıkartabilir. Lütfen yazılı emotelar kullanırken olabildiğince yazım kurallarına uyunuz.
+Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kuralları, IC yaptığınız roller ve davranışlar kadar önemlidir. Hatalı emote kullanımı hem etraftaki kişilerin rolüne zarar verebilir hem de kötü veya yanlış görüntüler ortaya çıkartabilir. Lütfen emote kullanırken olabildiğince yazım kurallarına uyunuz.
 
 `/me` ve `/do` emotelarını kullanırken gerçek dışı şeyler yazamazsınız. Ayrıca gerçek hayatta yaşanan olaylara, bilgilere, esprilere veya meme olmuş şeylere göndermelerde bulunamazsınız. Gerçek hayattaki kişilerden, markalardan veya lokasyonlardan bahsedemezsiniz.
 
@@ -36,23 +36,25 @@ Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kurallar
 :::medium-text
 
 1. **Etrafta olan biten bir olayı anlatmak veya betimleme yapmak için kullanılır.**
-   1. Kendiniz hakkında önemli bir detayı belirtmek veya betimlemek için kullanılır.
-      - /do Kişi baygındır.
-      - /do Kişinin yüzünde mavi ve beyaz renkte lekeler vardır.
-      - /do Kişinin sol kolunda alçı vardır. Alçının üstüne "Y<3K" yazdığı görülebilir.
-   2. Etraf hakkında önemli bir detayı belirtmek veya betimlemek için kullanılır.
-      - /do Masanın üstünde üç adet boş su bardağı vardır.
-      - /do Masa örtüsünün rengi kırmızıdır.
-      - /do Ortam loş, sarı bir mum ışığı ile aydınlatılmıştır.
-      - /do Kartın üzerinde "Galaxy Nightclub DJ'i Matthew Doe XU-4581" yazmaktadır.
-   3. Etrafınzda olan bir olayı belirtmek veya betimlemek için kullanılır.
-      - /do Görevli kasiyer, uzatılan kartı sağ eliyle almış ve pos cihazına okutmuştur.
-      - /do Garson, üzerinde iki tabak yiyecek ve iki adet kutu kola olan tepsiyi masaya bıramıştır.
-      - /do Rafta duran su bardağı kişinin üstüne düşmüştür.
+   ==- Kendiniz hakkında önemli bir detayı belirtmek veya betimlemek için kullanılır.
+   - /do Kişi baygındır.
+   - /do Kişinin yüzünde mavi ve beyaz renkte lekeler vardır.
+   - /do Kişinin sol kolunda alçı vardır. Alçının üstüne "Y<3K" yazdığı görülebilir.
+     ==- Etraf hakkında önemli bir detayı belirtmek veya betimlemek için kullanılır.
+   - /do Masanın üstünde üç adet boş su bardağı vardır.
+   - /do Masa örtüsünün rengi kırmızıdır.
+   - /do Ortam loş, sarı bir mum ışığı ile aydınlatılmıştır.
+   - /do Kartın üzerinde "Galaxy Nightclub DJ'i Matthew Doe XU-4581" yazmaktadır.
+     ==- Etrafınzda olan bir olayı belirtmek veya betimlemek için kullanılır.
+   - /do Görevli kasiyer, uzatılan kartı sağ eliyle almış ve pos cihazına okutmuştur.
+   - /do Garson, üzerinde iki tabak yiyecek ve iki adet kutu kola olan tepsiyi masaya bıramıştır.
+   - /do Rafta duran su bardağı kişinin üstüne düşmüştür.
+     ==-
 2. **Emote gerektirmeyen animasyonlara daha fazla detay katmak için kullanılır.**
    - Elinzde çiçek tutma animasyonu yaparken; /do Elindeki çiçek buketinde lilyumlar ve orkideler görülmektedir.
    - Bir kutuyu taşıyorken; /do Kollarının titrediği ve yavaş adımlar attığı belli olabilir.
 3. **Oyun dışı (OOC) bir bilginin oyun içinde (IC) verilmesi gereken durumlarda bu emote kullanılır.**
+   ==- Karşı taraftan rol hakkında veya bir durum hakkında bilgi almak için kullanılır.
 
    - Bir dedektif cinayet mahaline gittiğinde yerde yatan baygın veya ölü oyuncuya şu şekilde sorular yöneltebilir:
 
@@ -63,14 +65,16 @@ Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kurallar
 
    Bu örnekte karakteriniz bacaklarına tekme atıldığını ve boğularak bayıltıldığını karşı tarafa gözlemlenebilir şeyler üzerinden betimlemiş oluyorsunuz.
 
-   - Karşı taraftan onay almanız gereken durumlar için ise;
-     - /do CK izni?
-     - /do ERP izni?
-     - /do Elinde tuttuğu bıçağı yanlışlıkla düşürmek için zar?
-   - Aynı şekilde onaylama/reddetme veya cevap durumları için de kullanılır;
-     - /do CK izni verilmiştir.
-     - /do ERP izni onaylanmamıştır.
-     - /do Zar onaylanmıştır. 1-10 arası 5 veya üstü gelirse bıçak düşecektir.
+   ==- Karşı taraftan onay almanız gereken durumlarda kullanılır.
+
+   - /do CK izni?
+   - /do ERP izni?
+   - /do Elinde tuttuğu bıçağı yanlışlıkla düşürmek için zar?
+     ==- Aynı şekilde onaylama/reddetme veya cevap durumları için de kullanılır.
+   - /do CK izni verilmiştir.
+   - /do ERP izni onaylanmamıştır.
+   - /do Zar onaylanmıştır. 1-10 arası 5 veya üstü gelirse bıçak düşecektir.
+     ==-
 
 !!!warning
 Bu tür izinler sadece olay anında veya çok yakın gelecek için alınabilir. Uzak gelecek için veya olası durumlar için önden izin alınamaz.
@@ -107,15 +111,15 @@ Bu komutu kullanırken her şeyi tek seferde yazmamalısınuz. Küçük ve kısa
 :::medium-text
 
 1. **Yapmak üzere olduğunuz bir aksiyonu belirtmek için kullanılır.**
-   1. Bir silahı veya objeyi kullanmadan önce bunu yaptığınız belirtmeniz gerekir.
-      - /me Sırt çantasından palasını sağ eliyle kavrar ve tek hamlede çıkartır.
-      - /me Elini belinin arkasına doğru götürür.
-      - /me Tezgahın üzerindeki tableti eline alır.
-      - /me Poşetteki hırkayı eline alır ve ardından üzerine geçirir.
-   2. Animasyonu olmayan tüm aksiyonlarda kullanılır.
-      - /me Arka cebinden banka kartını çıkartır ve arından pos cihazına okutur.
-      - /me Tezgahta duran tabağı ve kutu kolayı iki eliyle alır.
-      - /me Otopark görevlisinin uzattığı anahtarı sağ eliyle alır.
+   ==- Bir silahı veya objeyi kullanmadan önce bunu yaptığınız belirtmeniz gerekir.
+   - /me Sırt çantasından palasını sağ eliyle kavrar ve tek hamlede çıkartır.
+   - /me Elini belinin arkasına doğru götürür.
+   - /me Tezgahın üzerindeki tableti eline alır.
+   - /me Poşetteki hırkayı eline alır ve ardından üzerine geçirir.
+     ==- Animasyonu olmayan tüm aksiyonlarda kullanılır.
+   - /me Arka cebinden banka kartını çıkartır ve arından pos cihazına okutur.
+   - /me Tezgahta duran tabağı ve kutu kolayı iki eliyle alır.
+   - /me Otopark görevlisinin uzattığı anahtarı sağ eliyle alır.
 2. **Diğer oyuncularla eşya takası yaparken kullanılır.**
    - /me Elindeki Martini şişesini karşısındaki kişiye uzatır.
    - /me Yerde duran çantayı sağ eliyle alır ve kişiye doğru uzatır.

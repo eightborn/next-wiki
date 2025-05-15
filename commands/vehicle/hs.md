@@ -8,9 +8,9 @@ Aracınıza hız limiti belirlemenizi sağlar.
 
 ### Kullanım şekli
 
-/hs `hız`
+`/hs` `hız`
 
 ### Örnekler
 
-- `/hs 25` Aracın hızı **25km/h**'e limitlenir.
+- `/hs` `25` Aracın hızı **25km/h**'e limitlenir.
 - `/hs` Eğer aracın hızı önceden belirlendiyse bu limiti kaldırır.
