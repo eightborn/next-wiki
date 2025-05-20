@@ -1,6 +1,7 @@
 ---
 label: Non RP
 order: 98
+tags: [terimler]
 ---
 
 # Non RP :performing_arts:

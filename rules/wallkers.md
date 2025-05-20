@@ -1,13 +1,14 @@
 ---
 label: Wallkers
 icon: broadcast
+tags: [kurallar]
 ---
 
 # Wallkers
 
 Telefon içinde bulunun Wallkers uygulaması bizim tarafımızdan yapılan bir sosyal medya platformudur. Bu platforumun kendisine ait bir konsepti vardır. Wallkers, IC olarak bir misyona sahiptir. Bu misyon; herkesin özgürce, filtresiz ve anonim bir şekilde kendisini ifade edebilmesidir. Ancak bu özgür ifadenin yanında getirdiği bir yük de vardır; kalıcılık. Paylaştığınız her şey kalıcıdır ve silinemez. Sadece OOC kural ihlali olursa adminler tarafından silinir. Wallkers'ı istediğiniz biçimde kullanabilirsiniz; ünlü olmak, günlük yaşantınızdan kesitler paylaşmak, bir sorunu dile getirmek, arkadaş çevrenizle güncel kalmak, sesinizi kitlelere ulaştırmak ve aklınıza gelebilecek diğer her şey.
 
-## Wallkers OOC Kuralları
+## Wallkers Kullanım Kuralları
 
 - Tüm IC ve OOC kurallar Wallkers gönderileriniz için de geçerlidir.
 - Paylaştıklarınız tamamen IC olmalıdır. Herhangi bir OOC söylem veya OOC göndermelerde bulunamazsınız.

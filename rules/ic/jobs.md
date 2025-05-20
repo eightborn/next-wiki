@@ -1,5 +1,6 @@
 ---
 label: Meslek Kuralları
+tags: [kurallar]
 ---
 
 # Meslek Kuralları :construction_worker:
@@ -29,3 +30,5 @@ Doktorların `/do` ile yaptığı direktiflere uyulmak zorundadır. Kafanıza g�
 !!!danger
 Herhangi bir karakterin, LSFD birimlerine zorla görev yaptırması yasaktır. Zorla hastaya baktırması veya bir yere müdahele ettirmesi rolüne girilemez.
 !!!
+
+## [!ref](/punishments/ic/jobs.md)

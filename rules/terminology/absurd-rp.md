@@ -1,6 +1,7 @@
 ---
 label: Absurd RP
 order: 94
+tags: [terimler]
 ---
 
 # Absurd RP :clown_face:

@@ -1,6 +1,7 @@
 ---
 label: DM
 order: 93
+tags: [terimler]
 ---
 
 # DM (Deathmatch) :crossed_swords:

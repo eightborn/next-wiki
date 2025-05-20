@@ -1,6 +1,7 @@
 ---
 label: Meta Gaming
 order: 100
+tags: [terimler]
 ---
 
 # Meta Gaming :desktop_computer:
@@ -15,7 +16,7 @@ Karakteriniz IC olması gereken her bilgiyi rol içinde edinmesi gerekir. Yayın
 
 ## Kural İhlali Örnekleri
 
-- Bir karakter gizlice kaçırılmış ve siz bunu video kayıtlarından öğrenip, ardından role girip sanki bu infoyu biliyormuş gibi davranamazsınız. *Eğer olay çok büyükse ve manşet haberlere çıkacak düzeydeyse bunu yerel kaynaklardan öğrenmiş gibi davranabilirsiniz. **Ancak buna karar verirken çok dikkatli olmanız gerekir**.*
+- Bir karakter gizlice kaçırılmış ve siz bunu video kayıtlarından öğrenip, ardından role girip sanki bu infoyu biliyormuş gibi davranamazsınız. _Eğer olay çok büyükse ve manşet haberlere çıkacak düzeydeyse bunu yerel kaynaklardan öğrenmiş gibi davranabilirsiniz. **Ancak buna karar verirken çok dikkatli olmanız gerekir**._
 - Bir karakteri canlandıran kişiyi gerçek hayatta tanıyorsunuz diye, sanki yakınmışsınız gibi hemen samimi olamazsınız veya ona hemen güvenemezsiniz. Yaptığı rollere veya karıştığı işlere aşinaymış gibi davranamazsınız.
 
 !!!warning
@@ -28,3 +29,5 @@ Yerel kaynaklardan öğrenilebilecek bilgilerin kararı yönetimin inisiyatifine
 - Bir işletmenin ihaleye çıkması ve detayları
 - Global bir pandemiğin başlaması
 - Şehirde elektriklerin komple kesilmesi
+
+[!ref Meta Gaming Kural İhlali Cezaları](/punishments/terminology/meta.md)

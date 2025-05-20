@@ -1,6 +1,7 @@
 ---
 label: Power Gaming
 order: 99
+tags: [terimler]
 ---
 
 # Power Gaming :muscle:

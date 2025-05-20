@@ -1,6 +1,7 @@
 ---
 label: Fear RP
 order: 95
+tags: [terimler]
 ---
 
 # Fear RP :scream:

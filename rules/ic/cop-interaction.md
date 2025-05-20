@@ -1,5 +1,6 @@
 ---
 label: Polis İle Etkileşim
+tags: [kurallar]
 ---
 
 # Polis İle Etkileşim :cop:
@@ -42,3 +43,5 @@ Bu kurallar her karakter tarafından biliniyor olarak kabul edilir.
 - Telsiz
 - Kimlik ve Rozet
 - Ağır Silahlar (Keskin Nişancı Tüfekleri, RPG, MG ve benzeri)
+
+[!ref Polis - İllegal Etkileşim Kuralları İhlali Cezaları](/punishments/ic/cop-interaction.md)

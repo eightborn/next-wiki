@@ -1,6 +1,7 @@
 ---
 label: Sürekli RP
 order: 97
+tags: [terimler]
 ---
 
 # Sürekli RP :dancer:

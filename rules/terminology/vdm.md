@@ -1,6 +1,7 @@
 ---
 label: VDM
 order: 92
+tags: [terimler]
 ---
 
 # VDM (Vehicle Deathmatch) :construction:

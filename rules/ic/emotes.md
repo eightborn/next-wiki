@@ -1,6 +1,7 @@
 ---
 label: Emote Kullanımı
 order: 100
+tags: [kurallar]
 ---
 
 # Emote Kullanımı :speech_balloon:
@@ -14,8 +15,6 @@ Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kurallar
 !!!warning
 `/me` ve `/do` emotelarında emoji kullanmak yasaktır.
 !!!
-
----
 
 ## `/do` Emote Kuralları ve Kullanım Alanları
 
@@ -154,3 +153,5 @@ Sunucuda zaten sistemsel olarak sağlanan güvenlik kameraları vardır. Siz kaf
 ==- _"Girişte güvenlik görevlisi beklemektedir."_
 Sunucuda zaten sistemsel olarak sağlanan NPC güvenlik görevlileri vardır. Siz kafanıza göre varmış gibi gösteremezsiniz.
 ==-
+
+## [!ref](/punishments/ic/emotes.md)
