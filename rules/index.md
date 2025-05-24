@@ -6,7 +6,7 @@ order: 100
 # Kurallar
 
 !!!danger
-Sunucumuzda oynayan her oyuncu bu kuralları okumuş ve kabul etmiş sayılır. _Bu kuralı bilmiyordum_ tarzında bahaneler kabul edilemez.
+Sunucumuzda oynayan her oyuncu bu kuralları okumuş ve kabul etmiş sayılır. _"Bu kuralı bilmiyordum."_ tarzında bahaneler kabul edilemez.
 !!!
 
 Kurallar kabaca iki ana kategoriden oluşmaktadır. OOC ve IC. Ancak bunlarla limitli değildir.

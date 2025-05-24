@@ -10,6 +10,10 @@ order: 99
 :building_construction: Yapım aşamasında
 :::
 
+!!!danger
+Bazı istisnai veya hiç düşünülmemiş ancak bariz kural ihlali olan durumlarda kararlar, ilgili en yakın ceza üzerinden verilir. Bu tür durumlarda bunun hakkında bir ceza veya kural yoktu gibi bahaneler kabul edilmez. Kural veya cezalarda eksik veya açık bulup bunları suistimal etmek kabul edilemez.
+!!!
+
 ## Rol Kural İhlali Cezaları
 
 - [IC/OOC Mixing](/punishments/terminology/ic-ooc-mixing.md)
