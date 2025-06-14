@@ -1,11 +1,10 @@
 ---
-label: Market Rafı Soygunları
+label: Market Rafı Hırsızlığı
 tags: [kurallar]
 ---
 
-# Market Rafı Soygunları :shopping_trolley:
+# Market Rafı Hırsızlığı :shopping_trolley:
 
-- Market rafı hırsızlığı yapılırken, sistemsel olarak illegal X seviye olmanız gerekir.
 - Market rafı hırsızlığını gerçekleştirirken Ghost RP kuralı gereği market içerisindekileri ve kasiyerin olduğunu bilerek rol yapmalısınız.
 - Market rafı hırsızlığını gerçekleştirirken maksimum 2 kişi olabilirsiniz.
 - Market rafından aldığınız ürünlerin kameralar veya etrafınızdakiler tarafından görülebileceğini bilerek, ürünlerin saklanması rolüne girilmelidir.
