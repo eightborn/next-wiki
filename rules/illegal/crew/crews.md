@@ -9,10 +9,8 @@ Crew, aynı kültürden veya geçmişten gelmeyen, şehirde yolları kesişmiş,
 
 ### Sistemsel Konsept
 - Crewlar üyeleri tamamen konsepte uygun karakterler olmalıdır. Tek tip ırka mensup üyeler olması beklenir. Ancak konseptiniz karma olsa bile ağırlıklı ırkın üyelerinin çoğunlukta olması şartı aranır. 
-- Bütün bölgede minimum 12 ev olmalıdır. (Her bir üyenin üzerine 1 ev olacak şekilde + dekorasyon konsept mantığında lüks olmamalıdır)
-- Para akışı tamamen birliğe ait olan minimum 1 adet bar/pub/yemek işletmesi (Gerçekten işletilmesi gerekir)
-- Para akışı tamamen birliğe ait olan minimum 2 adet işletme (Market, dövmeci, benzinlik vs.)  (Gerçekten işletilmesi gerekir)
-- Crew'ın tamamen vakit geçirdiği ve düzenli olarak buluştukları sistemsel, kendilerine ait bir işletme.
+- Ekibe ait aynı bölgede minimum 2 ev olmalıdır.
+- Crew'ın tamamen vakit geçirdiği ve düzenli olarak buluştukları sistemsel para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
 - Birlik tanıtımının eksiksiz bir şekilde doldurulması (Hiyerarşi belirlenmeli ve görevleri açıklanmalı, misyonları belirtilmelidir)
 - Karakter tanımında karakter gelişimlerinin eksiksiz bir şekilde doldurulması
 
@@ -27,12 +25,3 @@ Herkes her şeyi yapmamalı. Kimisi araba çalar, kimisi bilgi toplar, kimisi so
 - Belirli bir müzik türü veya argosu benimsenmeli. (Trap, drill, reggaeton, sokak ağzı vs.)
 - Crew RP’si, şiddeti öne çıkarmaktan çok “sistemi kandırma” becerisiyle ilerlemelidir.
 - Uyuşturucu ve silah RP’si yapılabilir ama yüksek dozdan ziyade “sokakta satar gibi” doğal olmalı.
-
-### Hood Onaylı Ekip Sürecini Kazanma ve Elinde Tutma
-- Ayda en az 2 kez market soygunu veya 1 kez küçük banka soygunu yapılmalıdır.
-- Ayda en az 1 kez kuyumcu soygunu yaparak para tedariği sağlanmalıdır.
-- Maruj veya diğer tür ürünlerin ÜRETİLEREK satışının yapılmasını sağlama tedariği oluşturulmalıdır.
-- RP'de özgünlük, çete RP’sine dönüşmemesi için daima hikâye odaklı oynanmalı ve hikaye açıkça birlik tanıtımındaki gibi ilerlemelidir.
-- Birliğinizdeki oyuncuların 1 ay içerisinde aldığı toplam 5 ceza, onaylı birlikten normal birlik sürecine düşmenize ve haklarınızın kaybolmasına sebep olur.
-- Oyuncuların sürekli aynı rolü döndürmesi yasaktır. Rol skalası geniş ve detaylı olmalıdır. 
-- Bölgenizde “kontrol” hissi sağlanmalı ama bu korku değil, fark edilmeden ilerleyen bir düzen olarak yansıtılmalı.

@@ -9,10 +9,9 @@ tags: [kurallar]
 
 ### Sistemsel Konsept
 - Çete üyelerinin tek ırktan veya ten renginden gerekir.
-- Bütün hoodta minimum 12 ev olmalıdır. (Her bir üyenin üzerine 1 ev olacak şekilde + dekorasyon çete evi mantığında lüks olmamalıdır)
-- Para akışı tamamen birliğe ait olan minimum 1 adet yeme/içme işletmesi (Gerçekten işletilmesi gerekir)
-- Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Market, dövmeci, özel bir alan vs.)  (Gerçekten işletilmesi gerekir)
-- 12 adet konsept araç (Her bir üyeye 1 adet denk gelecek şekilde)
+- Ekibe ait aynı bölgede minimum 2 ev olmalıdır. (Dekorasyon çete evi mantığında lüks olmamalıdır)
+- Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
+- Her üyeye denk gelecek şekilde kişi başı bir konsept araç olmalıdır.
 - Birlik tanıtımının eksiksiz bir şekilde doldurulması
 - Karakter tanımında karakter gelişimlerinin eksiksiz bir şekilde doldurulması
 
@@ -25,11 +24,3 @@ tags: [kurallar]
 - Bulunulan hoodun, daha sonra da çevre bölgenin sahiplenilme rollerinin yapılması.
 - Çetenin bir kültüre sahip olması ve bu kültürü gözle görülür şekilde yansıtması (Birlik tanıtımlarında istenecek)
 - Çetenin diğerlerinden ayırıcı net bir renginin/logosunun/bandanasının olması (Bandana, bayrak veya araçların tümünde olmasa bile yer yer görebileceğimiz ayrılık)
-
-## Hood Onaylı Ekip Sürecini Kazanma ve Elinde Tutma
-- Konseptinize aykırı davranışlarda bulunulması onaylı birlikten normal birlik sürecine düşmenize ve haklarınızın kaybolmasına sebep olur.
-- Birliğinizdeki oyuncuların 1 ay içerisinde aldığı toplam 5 ceza, onaylı birlikten normal birlik sürecine düşmenize ve haklarınızın kaybolmasına sebep olur.
-- Her iki haftada bir brawl etkinliği düzenlenmelidir (Bu dostça bir karşılaşma veya düşmanca olabilir. Brawl kurallarını inceleyiniz)
-- Her iki haftada bir lowrider/BBQ/Basketbol maçları/freestyle/zar(kumar)/spor etkinlikleri düzenlenmelidir.
-- Konsept araç sayısı her zaman 12 olmalı ve düzenli olarak kullanılmalıdır. (Almış olmak için alınan araçlar tespit edilirse onaylı birlik süreci düşer)
-- Bölgenizde düzenli olarak madde satışı yapılmalı veya buna öncülük edilmelidir. (Aldığınız görev değil, sistemsel maruj)

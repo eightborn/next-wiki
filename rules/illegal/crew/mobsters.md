@@ -10,11 +10,10 @@ Mafya aileleri için güç, sokaktaki adam sayısıyla değil, hangi politikacı
 
 ### Sistemsel Konsept
 - Mobster üyeleri tamamen konsepte uygun karakterler olmalıdır. Tek tip ırka mensup üyeler olması beklenir. Ancak konseptiniz karma olsa bile ağırlıklı ırkın üyelerinin çoğunlukta olması şartı aranır. 
-- Bütün bölgede minimum 12 ev olmalıdır. (Her bir üyenin üzerine 1 ev olacak şekilde + dekorasyon konsept mantığında lüks olmamalıdır)
-- Para akışı tamamen birliğe ait olan minimum 2 adet bar/pub işletmesi (Gerçekten işletilmesi gerekir)
-- Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Market, dövmeci, benzinlik vs.)  (Gerçekten işletilmesi gerekir)
-- 12 adet konsept araç olmalıdır. (dört kapılı mafyavari araç, spor araçlar kabul edilmez) (Her bir üyeye 1 adet denk gelecek şekilde)
-- En az 2 adet zırhsız, siyah veya koyu renkli, klasik stil mafya araçları (Albany Roosevelt, Enus Stafford, Schafter Classic vs. konseptinize uygun olabilir)
+- Ekibe ait aynı bölgede minimum 2 ev olmalıdır. (Dekorasyon konsept mantığında lüks olmamalıdır)
+- Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
+- Ekipteki her kişinin kendine ait uygun bir aracı olmalıdır. (dört kapılı mafyavari araç, spor araçlar kabul edilmez)
+- Bu araçlardan en az 2 adet zırhsız, siyah veya koyu renkli, klasik stil mafya araçları (Albany Roosevelt, Enus Stafford, Schafter Classic vs. konseptinize uygun olabilir) olmalıdır.
 - Birlik tanıtımının eksiksiz bir şekilde doldurulması (Hiyerarşi belirlenmeli ve görevleri açıklanmalı, misyonları belirtilmelidir)
 - Karakter tanımında karakter gelişimlerinin eksiksiz bir şekilde doldurulması
 
@@ -34,13 +33,3 @@ Mafya aileleri için güç, sokaktaki adam sayısıyla değil, hangi politikacı
 - Ailenin lideri "Don", ardından “Consigliere”, “Caporegime”, “Soldato” ve “Associates” şeklinde net bir hiyerarşi olmalı. Bu kültürünüze göre değişiklik gösterebilir.
 - Mobster için bir kültüre sahip olması ve bu kültürü gözle görülür şekilde yansıtması (Birlik tanıtımlarında istenecek)
 - Mobster için diğerlerinden ayırıcı net bir renginin/logosunun/bandanasının olması (Bandana, bayrak veya araçların tümünde olmasa bile yer yer görebileceğimiz ayrılık)
-
-### Hood Onaylı Ekip Sürecini Kazanma ve Elinde Tutma
-- Konseptinize aykırı davranışlarda bulunulması onaylı birlikten normal birlik sürecine düşmenize ve haklarınızın kaybolmasına sebep olur.
-- Birliğinizdeki oyuncuların 1 ay içerisinde aldığı toplam 5 ceza, onaylı birlikten normal birlik sürecine düşmenize ve haklarınızın kaybolmasına sebep olur.
-- Her ay minimum 2 kez dövüş veya kumar etkinliği düzenlenmelidir. (Burada diğer birliklerle olması gerekmektedir)
-- Her ay minimum 2 kez açık tehdit, şantaj, fidye veya dolandırıcılık rolü ve buna ek olarak 1 kez haraç rolü yapılmalıdır.
-- Konsept araç sayısı her zaman minimum 12 olmalı ve düzenli olarak kullanılmalıdır. (Almış olmak için alınan araçlar tespit edilirse onaylı birlik süreci düşer)
-- Bölgenizde düzenli olarak legal işletmeler kontrol altına alınmalı ve her birine üstünlük kurarak güvenlik adı altında ayda 1 kez olmak üzere haraç alınmalıdır. Aksi durumda ise işletmenin zarar görmesi sağlanmalıdır. 
-- Düzenli olarak alacağınız kararlar için toplantılar yapmalı ve oylama yolunu tercih etmelisiniz. (Bireysel alınan kararlar tespit edildiğinde onaylı birlik süreci askıya alınır)
-- Ağırlıklı olarak silah ticaretine ve kumara odaklanmalısınız. (Her konuda baskınlık kurmak rolü doğrudan etkiler ve DoC tarafından zorlanırsınız)

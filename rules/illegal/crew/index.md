@@ -1,6 +1,6 @@
 ---
-label: Hood Onaylı Ekipler
-icon: icon-organization
+label: Onaylı Ekipler
+icon: check-circle
 order: 95
 ---
 
