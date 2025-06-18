@@ -1,6 +1,6 @@
 ---
 label: Hood Onaylı Ekipler
-icon: icon-organization
+icon: organization
 order: 95
 ---
 
