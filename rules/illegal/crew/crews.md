@@ -8,8 +8,7 @@ tags: [kurallar]
 Crew, aynı kültürden veya geçmişten gelmeyen, şehirde yolları kesişmiş, tek ortak noktaları “hayatta kalmak ve para kazanmak” olan bireylerin oluşturduğu gevşek yapılı bir illegal organizasyondur. Bu yapıdaki ekipler genellikle birbiriyle tam olarak güven ilişkisi kuramayan, ama dış tehditlere karşı birlikte hareket eden, zoraki dayanışma içindeki bireylerden oluşur. Bu, onları kaotik ama tahmin edilemez kılar. Liderlik açık değildir, bazen otorite pasif-agresif kurulur, bazen para konuşur. Crew yapısı, oyuncuya özgürlük hissi verir; fakat bu özgürlük, RP’nin kontrolsüzleşmesi anlamına gelmez. Karakterler hem kişisel olarak derinlikli olmalı, hem de grup dinamiği olarak sürekli çatışma-gerilim-ittifak üçgeninde dönmelidir.
 
 ### Sistemsel Konsept
-- Crewlar üyeleri tamamen konsepte uygun karakterler olmalıdır. Tek tip ırka mensup üyeler olması beklenir. Ancak konseptiniz karma olsa bile ağırlıklı ırkın üyelerinin çoğunlukta olması şartı aranır. 
-- Ekibe ait aynı bölgede minimum 2 ev olmalıdır.
+- Crewlar üyeleri tamamen konsepte uygun karakterler olmalıdır. Tek tip ırka mensup üyeler olması beklenir. Ancak konseptiniz karma olsa bile ağırlıklı ırkın üyelerinin çoğunlukta olması şartı aranır.
 - Crew'ın tamamen vakit geçirdiği ve düzenli olarak buluştukları sistemsel para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
 - Birlik tanıtımının eksiksiz bir şekilde doldurulması (Hiyerarşi belirlenmeli ve görevleri açıklanmalı, misyonları belirtilmelidir)
 - Karakter tanımında karakter gelişimlerinin eksiksiz bir şekilde doldurulması

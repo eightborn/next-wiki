@@ -9,7 +9,6 @@ tags: [kurallar]
 
 ### Sistemsel Konsept
 - Çete üyelerinin tek ırktan veya ten renginden gerekir.
-- Ekibe ait aynı bölgede minimum 2 ev olmalıdır. (Dekorasyon çete evi mantığında lüks olmamalıdır)
 - Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
 - Her üyeye denk gelecek şekilde kişi başı bir konsept araç olmalıdır.
 - Birlik tanıtımının eksiksiz bir şekilde doldurulması

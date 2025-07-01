@@ -9,7 +9,6 @@ Motor kulüpleri motor sürmeyi ve özgürlüğü seven insanlar topluluğudur. 
 
 ### Sistemsel Konsept
 - MC üyeleri tamamen konsepte uygun karakterler olmalıdır. Tek tip ırka mensup üyeler olması beklenir. Ancak konseptiniz karma olsa bile ağırlıklı ırkın üyelerinin çoğunlukta olması şartı aranır. 
-- Ekibe ait aynı bölgede minimum 2 ev olmalıdır. (Dekorasyon çete evi mantığında lüks olmamalıdır.)
 - Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
 - Ekipteki her bir kişiye ait bir adet konsept motor (Cruiser veya Touring)
 - En az 2 adet Gang Van olmalıdır.

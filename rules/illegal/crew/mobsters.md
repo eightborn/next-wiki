@@ -10,7 +10,6 @@ Mafya aileleri için güç, sokaktaki adam sayısıyla değil, hangi politikacı
 
 ### Sistemsel Konsept
 - Mobster üyeleri tamamen konsepte uygun karakterler olmalıdır. Tek tip ırka mensup üyeler olması beklenir. Ancak konseptiniz karma olsa bile ağırlıklı ırkın üyelerinin çoğunlukta olması şartı aranır. 
-- Ekibe ait aynı bölgede minimum 2 ev olmalıdır. (Dekorasyon konsept mantığında lüks olmamalıdır)
 - Para akışı tamamen birliğe ait olan minimum 1 adet işletme (Gerçekten işletilmesi gerekir)
 - Ekipteki her kişinin kendine ait uygun bir aracı olmalıdır. (dört kapılı mafyavari araç, spor araçlar kabul edilmez)
 - Bu araçlardan en az 2 adet zırhsız, siyah veya koyu renkli, klasik stil mafya araçları (Albany Roosevelt, Enus Stafford, Schafter Classic vs. konseptinize uygun olabilir) olmalıdır.
