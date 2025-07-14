@@ -44,6 +44,10 @@ Bu kurallar her karakter tarafından biliniyor olarak kabul edilir.
 - Kimlik ve Rozet
 - Ağır Silahlar (Keskin Nişancı Tüfekleri, RPG, MG ve benzeri)
 
+!!!danger
+Kullandığınız araca, ve o an aktif polis sayısına göre polisin müdahalesi değişebilir. Örnek olarak kaçış rollerinde çok hızlı bir arabanız varsa yaptığınız aktiviteden bağımsız Crusier, HSU, AIR unit veya diğer unitler dahil olabilir.
+!!!
+
 !!! Olaylara / İhbarlara Müdahale Sayıları
 Sunucudaki illegal aktivitelere yönetim için belirlenmiş OOC ekip sınırını aşağıda bulabilirsiniz, bu sayıların dışındaki yönelimlerde destek talebi oluşturabilirsiniz. Ancak hatırlatmak gerekir ki bu bilgiye yalnızca **OOC olarak** sahipsiniz.
 
