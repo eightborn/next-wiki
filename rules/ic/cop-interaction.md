@@ -57,23 +57,23 @@ En fazla 4 ekip olabilir (araç ne olursa olsun) kovalanan araç sayısı artars
 
 ### Shots Fired
 
-Basit (tek) shot fire için 2 cruiser, kalabalık olanlarda 5 cruiser, çok fazla art arda geliyorsa herhangi bir sınır bulunmamaktadır.
+Basit (tek) shot fire için 2 cruiser, kalabalık olanlarda 5 cruiser, çok fazla art arda geliyorsa herhangi bir sınır bulunmamaktadır. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 ### İnşaat Malzemesi Hırsızlığı
 
-1 ihbara 1 cruiser/offroad cruiser yönelir.
+1 ihbara 1 cruiser/offroad cruiser yönelir. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 ### Market Rafı Hırsızlığı
 
-1 ihbara 1 cruiser yönelir.
+1 ihbara 1 cruiser yönelir. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 ### Araç Hırsızlığı
 
-1 ihbara 1 cruiser yönelir. Çalınan araca göre HSU veya Hyper Speed araç yönelebilir.
+1 ihbara 1 cruiser yönelir. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 ### Kasiyer Soygunu
 
-2 cruiser yönelir.
+2 cruiser yönelir. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 ### Market Kasası Soygunu
 
@@ -90,7 +90,7 @@ Basit (tek) shot fire için 2 cruiser, kalabalık olanlarda 5 cruiser, çok fazl
 
 ### Köşe Tutma / Uyuşturucu Madde Satışı
 
-1 ihbara 1 cruiser yönelir.
+1 ihbara 1 cruiser yönelir. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 ### Kuyumcu Soygunu
 
@@ -102,7 +102,7 @@ En az 2 AIR birimi, en fazla 3 HSU ve ek olarak sınırsız sayıda cruiser ekip
 
 ### Diğer İhbarlar
 
-Destek talebi istenmediği sürece 1 cruiser yönelir.
+Destek talebi istenmediği sürece 1 cruiser yönelir. (Çağrıya en yakın polis ekibi olay yerine intikal eder. Durumun ciddiyetine ve kaçış ihtimaline göre ya uygun bir destek aracı talep eder ya da takibe bizzat devam eder)
 
 :warning: **Kurala uyulmaması taktirde OOC ceza söz konusudur. Bu kuralın IC biliniyor gibi davranılmasına mütakip yapılan plan ve davranışlar da ceza kapsamında değerlendirilir. Karakterinizin bu bilgiye sahip olması için bu durumu IC deneyimlemiş olması gerekir.**
 !!!
