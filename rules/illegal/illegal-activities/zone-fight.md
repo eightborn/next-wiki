@@ -15,3 +15,4 @@ tags: [kurallar]
 - Alan savaşında yaşananlar ekipler tarafından polise aktarılamaz, bu direkt CK sebebidir. (Rolsel anlamda DoC'e ait bir mekan)
 - Alan savaşında aldığınız yaralanmalarda (yaralanma ne olursa olsun) minimum 1 saat, sistemsel ölümlerde minimum 2 saat tedavi rolünden sonra yaralı rolüne girilmesi zorunludur.
 - Alan savaşında ölen kişi kaçırılamaz.
+- Alanlarda bulunan çalı içersinden ateş etmek yasaktır fakat gözlem yapabilirsiniz.
