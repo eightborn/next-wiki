@@ -43,7 +43,7 @@ data:
     NPC: Non-Player Character
     Ped: Pedestrian (NPC)
     HUD: Heads Over Display
-    CK: Character Kill
+    # CK: Character Kill
     ERP: Erotic Roleplay
     EMS: Emergency Medical Service
     LSPD: Los Santos Police Departmant
