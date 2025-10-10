@@ -5,7 +5,7 @@ tags: [kurallar]
 
 # CK Savaşı :icon-alert-fill:
 
-CK savaşı geçerli bir sebep bulunduran bir karakterin başka bir karaktere yönelik başlatacağı ciddi sonuçları olan bir roldür. Bu tür bir rol illegal allowlist meslek sahibi olan kişilere karşı (doktorlar, polisler, medyacılar, avukatlar) başlatılamaz. CK savaşı başlatmak isteyen kişi geçerli sebep ve kanıtlarını toplayarak portal üzerinden yönetime ulaşmalı ve izin almalıdır. CK savaşı "CK puanı" sistemi üzerinden ilerletilir. 
+CK savaşı geçerli bir sebep bulunduran bir karakterin başka bir karaktere yönelik başlatacağı ciddi sonuçları olan bir roldür. Bu tür bir rol allowlist meslek sahibi olan kişilere karşı (doktorlar, polisler, medyacılar, avukatlar) başlatılamaz. CK savaşı başlatmak isteyen kişi geçerli sebep ve kanıtlarını toplayarak portal üzerinden yönetime ulaşmalı ve izin almalıdır. CK savaşı "CK puanı" sistemi üzerinden ilerletilir. 
 
 !!!warning
 CK savaşı onaylandıktan ve başlatıldıktan sonra iki taraf OOC haberdar edilmiş olmasına rağmen rol içerisinde de herhangi bir iletişim yolu kullanılarak (buluşma, toplantı, telefon görüşmesi vb.) karşı tarafa **CK savaşı izni alan taraf olarak açıkça oyun içinde de** belirtilmelidir.
