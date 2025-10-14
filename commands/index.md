@@ -20,23 +20,25 @@ Yukarı ve aşağı yön tuşları ile son attığınız mesajlar arasında geç
 Mavi renkle yazılan komutların üstüne tıklayarak detaylı açıklama ve örnek kullanım görebilirsiniz.
 !!!
 
-| Komut                                 | Açıklama                                                                                        |
-| :------------------------------------ | :---------------------------------------------------------------------------------------------- |
-| **[/me](/commands/general/me)**       | Aksiyon belirtmek için kullanılır.                                                              |
-| **[/do](/commands/general/do)**       | Durum belirtmek veya bir şeyi betimlemek için kullanılır.                                       |
-| **[/st](/commands/general/st)**       | Statik emote menüsünü açar.                                                                     |
-| **[/e](/commands/general/e)**         | Hızlıca animasyon yapmak için kullanılır.                                                       |
-| **[/ap](/commands/general/ap)**       | Animasyon halindeyken karakterinizi düzgün pozisyonlamanız için kullanılır.                     |
-| **[/zarat](/commands/general/zarat)** | Altı yüzlü zar atmak için kullanılır.                                                           |
-| **[/rs](/commands/general/rs)**       | Rastgele sayı seçmek için kullanılır.                                                           |
-| **/f**                                | Faction menüsünü açar.                                                                          |
-| **/evkurtar**                         | İçinde bulunduğunuz evin eşyalarını ve içeriklerini sıfırlar (bug durumunda kullanabilirsiniz). |
-| **/help**                             | Chat komutlarını listeler.                                                                      |
-| **/yardım**                           | Oyun içindeki anlık buglarda adminlerden yardım istemeniz için kullanılır.                      |
-| **/clear**                            | Chatteki mesaj geçmişinizi siler.                                                               |
-| **/clearHistory**                     | Chatteki mesaj alanına yazdığınız geçmişinizi siler.                                            |
-| **/blips**                            | Haritada gözükmesini istediğiniz blipleri ayarlayabileceğiniz menüyü açar.                      |
-| **/hoparlörgrup**                     | Hoparlör grubuna bağlanmak veya bağlandığınız grubu kontrol etmek için bu komutu kullanılır.    |
+| Komut                                 | Açıklama                                                                                                                                                         |
+| :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[/me](/commands/general/me)**       | Aksiyon belirtmek için kullanılır.                                                                                                                               |
+| **[/do](/commands/general/do)**       | Durum belirtmek veya bir şeyi betimlemek için kullanılır.                                                                                                        |
+| **[/st](/commands/general/st)**       | Statik emote menüsünü açar.                                                                                                                                      |
+| **[/e](/commands/general/e)**         | Hızlıca animasyon yapmak için kullanılır.                                                                                                                        |
+| **[/ap](/commands/general/ap)**       | Animasyon halindeyken karakterinizi düzgün pozisyonlamanız için kullanılır.                                                                                      |
+| **[/zarat](/commands/general/zarat)** | Altı yüzlü zar atmak için kullanılır.                                                                                                                            |
+| **[/rs](/commands/general/rs)**       | Rastgele sayı seçmek için kullanılır.                                                                                                                            |
+| **/f**                                | Faction menüsünü açar.                                                                                                                                           |
+| **/evkurtar**                         | İçinde bulunduğunuz evin eşyalarını ve içeriklerini sıfırlar (bug durumunda kullanabilirsiniz).                                                                  |
+| **/help**                             | Chat komutlarını listeler.                                                                                                                                       |
+| **/yardım**                           | Oyun içindeki anlık buglarda adminlerden yardım istemeniz için kullanılır.                                                                                       |
+| **/clear**                            | Chatteki mesaj geçmişinizi siler.                                                                                                                                |
+| **/clearHistory**                     | Chatteki mesaj alanına yazdığınız geçmişinizi siler.                                                                                                             |
+| **/blips**                            | Haritada gözükmesini istediğiniz blipleri ayarlayabileceğiniz menüyü açar.                                                                                       |
+| **/hoparlörgrup**                     | Hoparlör grubuna bağlanmak veya bağlandığınız grubu kontrol etmek için bu komutu kullanılır.                                                                     |
+| **/kendinitanıt**                     | Kendinizi 8 birim etraftaki herkese tanıtır, bu sayede chatte emote attığınızda isminiz gözükür.                                                                 |
+| **/tanınırlıkdeğiştir**               | Tanınırlık sistemini kapatıp/açar. Kapalıyken attığınız tüm emotelarda isminiz diğer oyunculara gözükür. Açıkken sadece kendinizi tanıttığınız kişilere gözükür. |
 
 ### Araç komutları
 
