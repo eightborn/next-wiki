@@ -7,7 +7,7 @@ tags: [cezalar]
 
 | Kural İhlali                                 | Açıklaması                                                                                         | Cezası (dakika) | Ceza Puanı     |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------- | -------------- |
-| **Hırsızlık/Soygun Yapmak**                  | Güvenli bölgede bu içinde birini soymak veya bir tür hırsızlık yapmak.                             | **1440**        | Yazılı Uyarı   |
+| **Hırsızlık/Soygun Yapmak**                  | Güvenli bölge içinde birini soymak veya bir tür hırsızlık yapmak.                                  | **1440**        | Yazılı Uyarı   |
 | **Araç Çalmak**                              | Güvenli bölge içinde araç çalmak.                                                                  | **1440**        | Yazılı Uyarı   |
 | **Sebepsiz Maske Kullanmak**                 | Güvenli bölge içinde geçerli bir sebep olmadan maske takmak.                                       | **1440**        | Yazılı Uyarı   |
 | **Rehin Almak**                              | Güvenli bölge içindeki birini rehin almak veya tehditle bir şeyler yaptırmak                       | **4320**        | Yazılı Uyarı   |

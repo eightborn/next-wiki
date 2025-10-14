@@ -116,7 +116,7 @@ Bu komutu kullanırken her şeyi tek seferde yazmamalısınuz. Küçük ve kısa
    - /me Tezgahın üzerindeki tableti eline alır.
    - /me Poşetteki hırkayı eline alır ve ardından üzerine geçirir.
      ==- Animasyonu olmayan tüm aksiyonlarda kullanılır.
-   - /me Arka cebinden banka kartını çıkartır ve arından pos cihazına okutur.
+   - /me Arka cebinden banka kartını çıkartır ve ardından pos cihazına okutur.
    - /me Tezgahta duran tabağı ve kutu kolayı iki eliyle alır.
    - /me Otopark görevlisinin uzattığı anahtarı sağ eliyle alır.
 2. **Diğer oyuncularla eşya takası yaparken kullanılır.**
