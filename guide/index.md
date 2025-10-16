@@ -9,5 +9,6 @@ Oyun içi bir sürü sistem, tuş ve komutlar vardır. Burada, bunlar hakkında 
 
 ## Scriptler ve Sistemler Hakkında Bilgiler
 
+- [Envanter Sistemi](/guide/inventory.md)
 - [Banka ve ATM](/guide/bank.md)
 - [Araçlar](/guide/vehicle.md)

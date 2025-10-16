@@ -5,7 +5,7 @@ order: 100
 
 # Envanter Sistemi :package:
 
-Envanter, eyşlar, silahlar ve kıyafetler `eb_inventory` scripti üzerinden çalışır.
+Envanter, eşyalar, silahlar ve kıyafetler `eb_inventory` scripti üzerinden çalışır.
 
 Sunucuda bir sürü çeşit item, silah ve kıyafet vardır. Bazı itemlar eşsiz olup tek bir slotta bir tane olabilir. Bunlar genelde _metalı_ eşyalardır.
 
@@ -15,7 +15,7 @@ Metalı eşylar, içinde çeşit çeşit bilgiler içeren ve yer değişse bile 
 
 ## Envanter Kullanımı
 
-Envanterinizi [!badge variant="dark" text="TAB"] tuşuna basarak açabilirsiniz. Dilerseniz bu kısayolu keybindings ayarlarından değiştirebilirsiniz. Envnaterinizde üzerinizdeki itemları, kıyafetlerinizi, kol ayarlarınızı ve birkaç basit bilgiyi görebilirsiniz.
+Envanterinizi [!badge variant="dark" text="TAB"] tuşuna basarak açabilirsiniz. Dilerseniz bu kısayolu keybindings ayarlarından değiştirebilirsiniz. Envanterinizde; üzerinizdeki itemları, kıyafetlerinizi, kol ayarlarınızı ve birkaç basit bilgiyi görebilirsiniz.
 
 Envanterinizdeki eşyaları, görsellerine basılı tutarak taşıyabilirsiniz. Ayrıca eşyanın üzerine bir kez tıklayarak çeşitli seçeneklere erişebilirsiniz.
 
@@ -44,8 +44,8 @@ Envanterin en üst kısmı `Kontrol Panelidir`. Bu panelden;
 
 +++ ![Hızlı Al](https://cdn.eightbornv.com/2025/05/15/12-19-00_8665668390.jpg)
 Bu ayar aktifken, biri size item vermek istediğine gelen bildirim daha hızlı dolar. Eğer isteği iptal etmezseniz otomatik kabul edilir.
-+++ ![Hızlı Takas](https://cdn.eightbornv.com/2025/05/15/12-20-55_2313704791.jpg)
-Bu ayar aktifken, biri size takas isteği gönderdiğinde, istek otomatik kabul edilir.
++++ ![Boyut Ayarı](https://cdn.eightbornv.com/2025/10/16/22-02-30_4772160568.jpg)
+Bu ayar aktifken, envanterin boyutu artar, özellike 2K ve 4K monitörlerde kullanım kolaylığı sağlar.
 +++ ![Eşya Anahatları](https://cdn.eightbornv.com/2025/05/15/12-21-46_9201725513.jpg)
 Bu ayar ile eşyların görsellerini daha belirgin hale getirebilirsiniz.
 +++ ![Eşya Nadirliği](https://cdn.eightbornv.com/2025/05/15/12-22-37_7877976309.jpg)

@@ -18,7 +18,7 @@ Sunucuda herkesin **akışkan ve sorunsuz** bir oyun deneyimi yaşaması için b
 
 ==- Advanced Graphics Ayarları
 
-- Sisteminizden bağımsız olarak _"Extended Distance Scaling"_ ayarını **en fazla** yarıda yapın. Daha az da yapabilirsiniz.
+- Sisteminize göre _"Extended Distance Scaling"_ ayarını arttırabilirsiniz. **En az yarıya kadar ayarlamanızı öneriyoruz.** Eğer texture veya map yüklenmeme problemleri yaşıyorsanız bu ayarı daha da fazla yükseltmeniz gerekir.
 - Görseldeki diğer ayarları sisteminizin gücüne göre ayarlayabilirsiniz. Buradaki ayarlar performansa çok etki eder.
 
 ![Advanced Graphics](https://cdn.eightbornv.com/2025/05/11/19-04-54_5805908771.jpg)

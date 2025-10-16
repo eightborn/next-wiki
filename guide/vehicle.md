@@ -11,13 +11,13 @@ Sunucuda, Galeri üzerinden veya ikinci el olarak diğer karakterlerden araç sa
 
 Sunucuda ekli olan araç listesine [buradan](/guide/vehicle-list.md) ulaşabilirsiniz.
 
-Sunucumuzda sahipli tüm araçlar bırakıldığı yerde kalır. Bu sistem gerçekçiliği arttırmak ve bir sürü role olanak sağlamak için dizayn edilmiştir. Sunucuda istediğini her aracı çalabilir ve saklayabilirsiniz, ancak sakladığınız araçları lütfen makul yerlere bırakın. Bunun bir oyun ve rol olduğu unutmamanız lazım, araç sahibini de düşünmeniz lazım.
+Sunucumuzda sahipli tüm araçlar bırakıldığı yerde kalır. Bu sistem gerçekçiliği arttırmak ve bir sürü role olanak sağlamak için dizayn edilmiştir. Sunucuda istediğiniz her aracı çalabilir ve saklayabilirsiniz, ancak sakladığınız araçları lütfen makul yerlere bırakın. Bunun bir oyun ve rol olduğu unutmamanız lazım, araç sahibini de düşünmeniz lazım.
 
 Araçların aldığı hasarlar sunucu tarafında sürekli kayıt altında tutulmaktadır. Aracınızı garaja da koysanız, sunucuya restart da atılsa aracınızın hasarları sıfırlanmaz. Aracı tamir ettirmeniz gerekir. Ayrıca araçların yaptığı yol kayıt altına alınır. Bu değer ilerde aracın performansını ve bozulma şansını etkileyecektir. Aracınızın düzenli bakımının yapılmasının kritik bir etkisi vardır.
 
 ## Yakıt Sistemi
 
-Sunucuda iki tip yakıt vardır: Beniz ve elektrik. Araçların yakıtını, benzin istasyonlarında veya benzin bidonları ile doldurabilirsiniz. Her aracın yakıt hacmi ve yakıt tüketimi farklıdır. Yakıt tüketimini en çok etkileyen faktör aracın torkudur. Aracınızın yakıt durumunu HUD'un sol altındaki ibreden öğrenebilirsiniz.
+Sunucuda iki tip yakıt vardır: Benzin ve elektrik. Araçların yakıtını, benzin istasyonlarında veya benzin bidonları ile doldurabilirsiniz. Her aracın yakıt hacmi ve yakıt tüketimi farklıdır. Yakıt tüketimini en çok etkileyen faktör aracın torkudur. Aracınızın yakıt durumunu HUD'un sol altındaki ibreden öğrenebilirsiniz.
 
 ## Araç Kullanımı
 
