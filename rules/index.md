@@ -55,4 +55,5 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 
 ## Diğer Kurallar
 
+- [Canlı Yayın Kuralları](/rules/live-streaming.md)
 - [Wallkers Kullanımı](/rules/wallkers.md)
