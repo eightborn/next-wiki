@@ -1,5 +1,5 @@
 ---
-label: Güvenli Bölgeler
+label: 🌟 Güvenli Bölgeler
 tags: [kurallar]
 ---
 
@@ -15,11 +15,19 @@ Bir illegal rolün içersindeyken kendinizi güvence altına almak için güvenl
 LSPD ana binası dışındaki güvenli bölgelerde `/do` emoteu ile karşı taraftan illegal izni isteyebilirsiniz. Eğer karşı taraf kabul ederse, kişiye karşı illegal aktivite yapabilirsiniz.
 !!!
 
+!!!success
+Oyun içinde F8'e `safezones` yazarak güvenli bölge alanlarını açıp kapatabilirsiniz.
+!!!
+
 ## Güvenli Bölge Listesi
 
 - LSPD'ye ait tüm departmanlar. Bunlar sadece polis oyuncuların kullandığı aktif PD değil, gerçekten polise ait tüm binalar için geçerlidir.
 - LSFD'ye ait tüm departmanlar. Aynı şekilde sadece EMS'e ait tüm binalar için geçerlidir.
 - Belediye Binası ve çevresi.
 - Mesleklerin yapıldığı alanlar. Madenciliğin ve odunculuğun aktif olarak yapıldığı yerlerdir.
+- GYM ve etrafı.
+- İskelenin girişinden itibaren komple etrafı.
+- Tüm yiyecek işletmeleri ve etrafı.
+- Tüm gece kulüpleri, striptiz kulüpleri barlar, restorantlar, kafeler ve etrafları.
 
 ## [!ref](/punishments/ic/safezones.md)
