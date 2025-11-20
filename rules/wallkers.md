@@ -1,6 +1,6 @@
 ---
 label: Wallkers
-icon: broadcast
+icon: globe
 tags: [kurallar]
 ---
 
