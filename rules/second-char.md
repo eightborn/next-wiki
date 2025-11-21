@@ -9,12 +9,12 @@ tags: [kurallar]
 Sunucumuzda ikinci karakter slotunu kullanmak için [Tebex Sayfamızdan](https://eightnext.tebex.io/) satın almanız gerekmektedir.
 
 !!!warning
-İkinci karakterinizi de aynı yeni karakter açıyormuş gibi [#al-yeni-karakter](https://discord.com/channels/575395142517915668/1281666855576277002) kanalındaa başvuru ile açmanız gerekmektedir.
+İkinci karakterinizi de, aynı yeni karakter açıyormuş gibi [#al-yeni-karakter](https://discord.com/channels/575395142517915668/1281666855576277002) kanalı üzerinden başvuru ile açmanız gerekmektedir.
 !!!
 
 ## Kurallar
 
-- İkinci karakter açabilmeniz için birinci karakterinizin minumum **5** seviye olması gerekir.
+- İkinci karakter açabilmeniz için birinci karakterinizin minumum **5 seviye** olması gerekir.
 - Yeni açacağınız karakterlerin hikayesi olmak zorundadır.
 - Karakterleriniz arasında item, para, bilgi vb. aktarımlar kesinlikle yapılamaz. Cezası **PERMA** bandır.
 - İkinci karakter açmak size herhangi bir WL mesleğe kabul garantisi vermez.
