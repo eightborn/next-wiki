@@ -1,5 +1,5 @@
 ---
-label: 🌟 İkinci Karakter Kuralları
+label: ✨ İkinci Karakter Kuralları
 icon: people
 tags: [kurallar]
 ---

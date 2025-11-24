@@ -8,7 +8,7 @@ title: EightbornV Next Wiki
 # :zap: EightbornV Next Hızlı Başlangıç
 
 !!!warning
-**Wiki sürekli güncellenmektedir. Özellikle kurallar kısmında ekleme, çıkarma veya düzenleme olabilir. Eğer oyuncuysanız problem yaşamamak için lütfen burayı günlük kontrol ediniz. Değişiklik olan kurallarda :star2: etiketini görebilirsiniz.**
+**Wiki sürekli güncellenmektedir. Özellikle kurallar kısmında ekleme, çıkarma veya düzenleme olabilir. Eğer oyuncuysanız problem yaşamamak için lütfen burayı günlük kontrol ediniz. Değişiklik olan kurallarda ✨ etiketini görebilirsiniz.**
 !!!
 
 Merhaba, sunucumuzun wiki sayfasına hoş geldiniz! Sunucu içindeki ve dışındaki sistemleri, kuralları, mekanizmaları ve oluşumları anlamak için doğru yerdesiniz. **Hemen başlayalım!**

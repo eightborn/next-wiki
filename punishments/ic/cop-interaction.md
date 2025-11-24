@@ -1,5 +1,5 @@
 ---
-label: 🌟 Polis - İllegal Etkileşim İhlali Cezaları
+label: ✨ Polis - İllegal Etkileşim İhlali Cezaları
 tags: [cezalar]
 ---
 
