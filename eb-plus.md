@@ -9,6 +9,7 @@ EB+ kozmetik aboneliği ile sunucuda bir takım **kozmetik** ayrıcalıklara eri
 
 ### Ayrıcalıklar
 
+- EB+ Discord Rolü
 - [VIP Mobilya](/eb-plus#vip-mobilya)
 - [Özel Araç Plakası](/eb-plus#özel-araç-plakası)
 - [Özel Araç Motor Sesleri](/eb-plus#özel-araç-motor-sesleri)
