@@ -19,9 +19,11 @@ EB+ kozmetik aboneliği ile sunucuda bir takım **kozmetik** ayrıcalıklara eri
 Zamanla daha fazla ayrıcalık ekleme planımız ve çalışmalarımız var. Bu sayafadan ve duyurulardan gelişmeleri takip edebilirsiniz.
 !!!
 
+Ayrıcalıkların ve UI'ın kullanımı hakkında kısa rehber videoumuzu [buradan](https://www.youtube.com/watch?v=neAeDMovo7E) izleyebilirsiniz.
+
 ### VIP Mobilya
 
-Karakterlerinze ait tüm evlerin VIP eşya seçenkeleri erişlebilir olur. Bu ayrıcalık eve bağlı bir şekilde çalışır yani; bu eve eklediğiniz arkadaşlarınız da bu evin içini dizayn ederken VIP eşya seçeneklerinden yararlanabilirsiniz.
+Karakterlerinze ait tüm evlerin VIP eşya seçenkeleri erişlebilir olur. Bu ayrıcalık eve bağlı bir şekilde çalışır yani; bu eve eklediğiniz arkadaşlarınız da bu evin içini dizayn ederken VIP eşya seçeneklerinden yararlanabilirsiniz. Ayrıca evinizin eşya slotu **100** adet artar.
 
 Bu eşyaları satın alırken IC ücretlerini ödemeniz gerekir. Bu ayrıcalık eşyalara tamamen ücretsiz erişmenizi sağlamaz. Eğer aboneliğinizi bitirirseniz veya iptal ederseniz, bu eşyalar gözükmez. Eşyalar, ev listesinde gözükmeye devam eder ve isterseniz satıp IC ücretlerini iade alabilirsiniz. Ayrıca eğer aboneliğinizi tekrar aktif ederseniz, eşyalar tekrar görünmeye devam eder.
 
