@@ -5,7 +5,7 @@ icon: star
 
 # EB+ Kozmetik Aboneliği :star:
 
-EB+ kozmetik aboneliği ile sunucuda bir takım **kozmetik** ayrıcalıklara erişim sağlayabilirsiniz. Bu ayrıcalıklar her zaman sadece kozmetik olacaktır. EightbornV Next roleplay, hiçbir zaman P2W (Pay to Win) mantığını benimsemeyecektir. Abone olmak için [Tebex sayfamızı](https://eightnext.tebex.io/packages/eb-plus) ziyaret edebilirsiniz. Bu paketin ismi [!badge variant="primary" text="EB+ Kozmetik"] dir.
+EB+ kozmetik aboneliği ile sunucuda bir takım **kozmetik** ayrıcalıklara erişim sağlayabilirsiniz. Bu ayrıcalıklar her zaman sadece kozmetik olacaktır. EightbornV Next roleplay, hiçbir zaman P2W (Pay to Win) mantığını benimsemeyecektir. Abone olmak için [Tebex sayfamızı](https://eightnext.tebex.io/package/eb-plus) ziyaret edebilirsiniz. Bu paketin ismi [!badge variant="primary" text="EB+ Kozmetik"] dir.
 
 ### Ayrıcalıklar
 
