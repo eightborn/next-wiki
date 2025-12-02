@@ -1,5 +1,5 @@
 ---
-label: ✨ Güvenli Bölge İhlali Cezaları
+label: Güvenli Bölge İhlali Cezaları
 tags: [cezalar]
 ---
 

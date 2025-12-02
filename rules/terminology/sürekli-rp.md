@@ -27,7 +27,7 @@ Acil durumlarda oyundan çıkmanız gerekiyorsa veya kısa süreliğine afk kalm
 - Karşınızdaki kişinin ses kalitesi çok kötüyse veya kısıksa; _"Burası çok rüzgarlı seni hiç duyamıyorum"_ veya iç mekandaysanız; _"Buranın havalandırma sistemi çok gürültülü"_ gibi söylemlerde bulunabilirsiniz.
 - Birisi animasyon bugı nedeni ile ışınlanıyormuş gibi yürüyorsa; _"Bak, ayakkabın leke olmuş bir temizle istersen"_ gibi söylemlerde bulunabilirsiniz.
 - Birisinin sync nedeni ile yüz veya saçı bozulduysa; _"Makyajın biraz akmış gibi, bir kontrol et istersen"_ veya erkek ise; _"Dişinde bir şey var"_ ya da _"Ağızın leke olmuş"_ gibi söylemlerde bulunabilirsiniz.
-- Restart geleceği zaman _"Deprem olacak birazdan"_ tarzında söylemler yasaktır. Bunun yerine restart süresi yaklaşınca _"Karnım kazındı biraz bir şeyler atıştırıp geliyorum hemen"_ diyebilirisin.
+- Restart geleceği zaman _"Deprem olacak birazdan"_ tarzında söylemler yasaktır. Bunun yerine restart süresi yaklaşınca _"Karnım kazındı biraz bir şeyler atıştırıp geliyorum hemen"_ diyebilirisiniz.
 - Crash yeme, internet kopması veya elektriklerin gitmesi gibi kontrolünüz olmadığı durumlarda rol sanki siz ordaymışsınız gibi devam eder. Etraftaki kişilerin /st ile bilgi verici emotelar bırakması beklenir.
 - Bugdan veya bilmediğiniz bir nedenden dolayı NPC 'ler agresifleşip size saldırabilir. Bu durumlarda rolü bozmadan tepki vermeniz gerekir.
 

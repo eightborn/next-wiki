@@ -1,5 +1,5 @@
 ---
-label: ✨ EB+ Aboneliği
+label: EB+ Aboneliği
 icon: star
 ---
 

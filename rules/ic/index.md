@@ -1,6 +1,6 @@
 ---
 label: IC Kurallar
-icon: people
+icon: comment-discussion
 order: 99
 ---
 
