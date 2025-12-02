@@ -11,7 +11,7 @@ Bir karakter oluşturuken uymanız gereken bir takım kurallar ve kalite standar
 
 ## Kurallar
 
-- Karakterinizin 18 yaşından büyük olması gerekir.
+- Karakteriniz 18 yaşından büyük olması gerekir.
 - Karakterinizin, Los Santos şehrine gelmeden önce belirgin bir illegal geçmişi olamaz.
 - Karakterinizin, Los Santos şehrine gelmeden önce AL meslek gruplarına özgü yüksek seviyede bilgi birikimi olamaz. Polis, asker, doktor gibi geçmişi olamaz. Bunları, rol içinde, bu kurumlara başvurarak ve eğitimlerini alarak öğrenebilir.
 - Karakterinizin doğaüstü güçleri veya ekstrem yetenekleri olamaz. Karakteriniz, yetenek gerektiren bir spor veya mesleğin en üst noktasında olamaz. Örnek olarak; karakteriniz, olimpik seviyede bir atlet veya profesyonel bir futbolcu olamaz.
