@@ -27,4 +27,4 @@ Sunucumuzda ikinci karakter slotunu kullanmak için [Tebex Sayfamızdan](https:/
 
 ### Birinci karakteri illegal olanlar:
 
-- İllegal oyuncular ikinci karakterlerini polis, doktor veya medya gibi WL Meslek kategorisinde açmak istediklerinde, var olan illegal karakterlerinin yine 15 level altı `greenzone` illegali olmaası ve herhangi bir ekip bağı olmaması gerekmektedir.
+- İllegal oyuncular ikinci karakterlerini polis, doktor veya medya gibi WL Meslek kategorisinde açmak istediklerinde, var olan illegal karakterlerinin yine 15 level altı `greenzone` illegali olması ve herhangi bir ekip bağı olmaması gerekmektedir.

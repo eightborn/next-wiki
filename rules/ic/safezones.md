@@ -1,5 +1,5 @@
 ---
-label: ✨ Güvenli Bölgeler
+label: Güvenli Bölgeler
 tags: [kurallar]
 ---
 

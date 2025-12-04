@@ -23,9 +23,11 @@ Ayrıcalıkların ve UI'ın kullanımı hakkında kısa rehber videoumuzu [burad
 
 ### VIP Mobilya
 
-Karakterlerinze ait tüm evlerin VIP eşya seçenkeleri erişlebilir olur. Bu ayrıcalık eve bağlı bir şekilde çalışır yani; bu eve eklediğiniz arkadaşlarınız da bu evin içini dizayn ederken VIP eşya seçeneklerinden yararlanabilirsiniz. Ayrıca evinizin eşya slotu **100** adet artar.
+Karakterlerinize ait tüm evlerin VIP eşya seçenkeleri erişlebilir olur. Bu ayrıcalık, eve bağlı bir şekilde çalışır. Yani; bu eve eklediğiniz arkadaşlarınız da, bu evin içini dizayn ederken VIP eşya seçeneklerinden yararlanabilir. Ayrıca evinizin eşya slotu **100** adet artar.
 
-Bu eşyaları satın alırken IC ücretlerini ödemeniz gerekir. Bu ayrıcalık eşyalara tamamen ücretsiz erişmenizi sağlamaz. Eğer aboneliğinizi bitirirseniz veya iptal ederseniz, bu eşyalar gözükmez. Eşyalar, ev listesinde gözükmeye devam eder ve isterseniz satıp IC ücretlerini iade alabilirsiniz. Ayrıca eğer aboneliğinizi tekrar aktif ederseniz, eşyalar tekrar görünmeye devam eder.
+Bu eşyaları satın alırken IC ücretlerini ödemeniz gerekir. Bu ayrıcalık, eşyalara tamamen ücretsiz erişmenizi sağlamaz. Eğer aboneliğinizi bitirirseniz veya iptal ederseniz, bu eşyalar evin içinde gözükmez. Eşyalar, ev listesinde gözükmeye devam eder ve isterseniz satıp IC ücretlerini iade alabilirsiniz. Eğer aboneliğinizi tekrar aktif ederseniz, eşyalar tekrar görünmeye başlar.
+
+Ayrıca bahçe sistemindeki VIP eşyalar da erişilebilir olur.
 
 ### Özel Araç Plakası
 
