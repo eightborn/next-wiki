@@ -1,5 +1,5 @@
 ---
-label: İllegal Aktiviteler
+label: ✨ İllegal Aktiviteler
 icon: info
 order: 95
 ---

@@ -1,5 +1,5 @@
 ---
-label: Market Soygunları
+label: ✨ Market Soygunları
 tags: [kurallar]
 ---
 
@@ -13,3 +13,7 @@ tags: [kurallar]
 - Market soygunundaki yapılırken hardrp mantığı gereği polis faktörünü unutmamak adına, tanınmayı zorlaştıracak kıyafetler ve iz bırakmamak adına eldiven kullanılmalıdır. (Aksi durumda sözlü uyarı)
 - Market soygununda, market içerisindeki hırsızlığı yapan ve teçhizatları taşıyan karakterler zorunlu olarak çanta kullanmalıdır.
 - Market içerisindeki 4 oyuncu da sistemsel 15 level illegal şöhrete sahip olmalıdır ancak dışarıdaki oyuncular için bu geçerli değildir.
+
+!!!info
+Yukarıda yer alan kuralların izin vermediği ancak yaratıcı bir planınız varsa illegal ekip kanalınızdan bir yetkili ile iletişime geçerek planınız için onay başvurusu yapabilirsiniz.
+!!!

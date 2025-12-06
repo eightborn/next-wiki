@@ -1,5 +1,5 @@
 ---
-label: ✨ Karakter Kuralları
+label: Karakter Kuralları
 icon: person
 tags: [kurallar]
 order: 90
