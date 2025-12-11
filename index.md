@@ -10,7 +10,7 @@ title: EightbornV Next Wiki
 !!!warning
 **Wiki sürekli güncellenmektedir. Özellikle kurallar kısmında ekleme, çıkarma veya düzenleme olabilir. Eğer oyuncuysanız problem yaşamamak için lütfen burayı günlük kontrol ediniz. Değişiklik olan kurallarda ✨ etiketini görebilirsiniz.**
 
-Son güncellenme tarihi: 11.12.2025 15:30
+Son güncellenme tarihi: 11.12.2025 18:00
 !!!
 
 Merhaba, sunucumuzun wiki sayfasına hoş geldiniz! Sunucu içindeki ve dışındaki sistemleri, kuralları, mekanizmaları ve oluşumları anlamak için doğru yerdesiniz. **Hemen başlayalım!**

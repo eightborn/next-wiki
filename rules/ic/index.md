@@ -1,5 +1,5 @@
 ---
-label: IC Kurallar
+label: ✨ IC Kurallar
 icon: comment-discussion
 order: 99
 ---

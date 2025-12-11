@@ -1,5 +1,5 @@
 ---
-label: Polis ile Etkileşim
+label: ✨ Polis ile Etkileşim
 tags: [kurallar]
 ---
 
@@ -43,6 +43,7 @@ Bu kurallar her karakter tarafından biliniyor olarak kabul edilir.
 - Telsiz
 - Kimlik ve Rozet
 - Ağır Silahlar (Keskin Nişancı Tüfekleri, RPG, MG ve benzeri)
+- ✨ Herhangi tür çelik yelek
 
 !!!danger
 Kullandığınız araca, ve o an aktif polis sayısına göre polisin müdahalesi değişebilir. Örnek olarak kaçış rollerinde çok hızlı bir arabanız varsa yaptığınız aktiviteden bağımsız Crusier, HSU, AIR unit veya diğer unitler dahil olabilir.
