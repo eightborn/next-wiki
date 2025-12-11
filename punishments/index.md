@@ -1,5 +1,5 @@
 ---
-label: Cezalar
+label: ✨ Cezalar
 icon: alert
 order: 99
 ---
@@ -11,7 +11,7 @@ order: 99
 :::
 
 !!!danger
-Bazı istisnai veya hiç düşünülmemiş ancak bariz kural ihlali olan durumlarda kararlar, ilgili en yakın ceza üzerinden verilir. Bu tür durumlarda bunun hakkında bir ceza veya kural yoktu gibi bahaneler kabul edilmez. Kural veya cezalarda eksik veya açık bulup bunları suistimal etmek kabul edilemez.
+Bazı istisnai veya hiç düşünülmemiş ancak bariz kural ihlali olan durumlarda kararlar, ilgili en yakın ceza üzerinden verilir. Bu tür durumlarda; "_Bunun hakkında bir ceza veya kural yoktu_" gibi bahaneler kabul edilmez. Kural veya cezalarda eksik veya açık bulup bunları suistimal etmek kabul edilemez.
 !!!
 
 ## Rol Kural İhlali Cezaları
