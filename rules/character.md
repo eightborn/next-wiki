@@ -1,5 +1,5 @@
 ---
-label: ✨ Karakter Kuralları
+label: Karakter Kuralları
 icon: person
 tags: [kurallar]
 order: 90
@@ -15,14 +15,14 @@ Bir karakter oluşturuken uymanız gereken bir takım kurallar ve kalite standar
 - Karakterinizin, Los Santos şehrine gelmeden önce belirgin bir illegal geçmişi olamaz.
 - Karakterinizin, Los Santos şehrine gelmeden önce AL meslek gruplarına özgü yüksek seviyede bilgi birikimi olamaz. Polis, asker, doktor gibi geçmişi olamaz. Bunları, rol içinde, bu kurumlara başvurarak ve eğitimlerini alarak öğrenebilir.
 - Karakterinizin doğaüstü güçleri veya ekstrem yetenekleri olamaz. Karakteriniz, yetenek gerektiren bir spor veya mesleğin en üst noktasında olamaz. Örnek olarak; karakteriniz, olimpik seviyede bir atlet veya profesyonel bir futbolcu olamaz.
-- ✨ Karakterinizin, önceden oynadığınız bir karakterle herhangi bir bağı olamaz.
+- Karakterinizin, önceden oynadığınız bir karakterle herhangi bir bağı olamaz.
 
 !!!info
 Polis bir oyuncunun; CK attıktan sonra, **sadece bir kereye mahsus**, yeni karakterini benzer rütbe ve birimde başlayacak şekilde yaratma hakkı vardır. Yalnız bu CK yaptığı bir hatadan dolayı ihraç şeklindeyse (bilgi sızdırma, badcop vs.) bu hakkı kullanamaz.
 !!!
 
 !!!info
-✨ Yönetimin özel onayı ile bu tür kuralların dışında olan karakterler yaratılabilir. Aklınızda eğer böyle bir karakter varsa gönül rahatlığıyla yönetime başvurabilirsiniz. Onay verilmesindeki en önemli husus yaratacağınız karakterin, ihlal ettiği kurallarda; geçerli ve role gerçekten katkı sağlayacak bir nedeni olmasıdır. Kısaca; "_Benim canım Batman oynamak istiyor._" demeyin.
+Yönetimin özel onayı ile bu tür kuralların dışında olan karakterler yaratılabilir. Aklınızda eğer böyle bir karakter varsa gönül rahatlığıyla yönetime başvurabilirsiniz. Onay verilmesindeki en önemli husus yaratacağınız karakterin, ihlal ettiği kurallarda; geçerli ve role gerçekten katkı sağlayacak bir nedeni olmasıdır. Kısaca; "_Benim canım Batman oynamak istiyor._" demeyin.
 !!!
 
 ## Mate RP Kuralları

@@ -1,5 +1,5 @@
 ---
-label: ✨ Terimler
+label: Terimler
 icon: rows
 order: 100
 ---

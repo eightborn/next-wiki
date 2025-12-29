@@ -1,5 +1,5 @@
 ---
-label: ✨ Power Gaming
+label: Power Gaming
 order: 99
 tags: [terimler]
 ---
@@ -35,7 +35,7 @@ Karakterinizin belirli fiziksel ve mental özellikleri vardır. Her davranışı
 - Karakteriniz şehre helikopter sürmeyi biliyor olarak gelemez.
 - Karakteriniz her mesleğe anında adapte olup takır takır yapamaz. Kısa da olsa bir alışma süreci olması lazım.
 
-==- ✨ Karakterinizin sahip olduklarını düzgün bir biçimde yansıtmamak.
+==- Karakterinizin sahip olduklarını düzgün bir biçimde yansıtmamak.
 
 Örnek olarak:
 

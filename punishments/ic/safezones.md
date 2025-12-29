@@ -12,7 +12,7 @@ tags: [cezalar]
 | **Sebepsiz Maske Kullanmak**                 | Güvenli bölge içinde geçerli bir sebep olmadan maske takmak.                                       | **1440**                                            | Yazılı Uyarı |
 | **Rehin Almak**                              | Güvenli bölge içindeki birini rehin almak veya tehditle bir şeyler yaptırmak                       | **4320**                                            | Yazılı Uyarı |
 | **İllegal Bir Rolü Güvenli Bölgeye Taşımak** | Vatandaş olarak güvenliğiniz için LSPD'nin ana binasına kaçmak dışında yasaktır.                   | **4320**                                            | Yazılı Uyarı |
-| ✨ **İzinsiz İllegal Yapmak**                | Karşı taraftan veya yetkililerden izin almadan illegal bir rol yapmak.                             | **4320** (yapılan rolün büyüklüğüne göre artabilir) | Yazılı Uyarı |
+| **İzinsiz İllegal Yapmak**                   | Karşı taraftan veya yetkililerden izin almadan illegal bir rol yapmak.                             | **4320** (yapılan rolün büyüklüğüne göre artabilir) | Yazılı Uyarı |
 | **Baskın Rolüne Girmek**                     | Yönetim izni olmadan hastane, PD gibi güvenli bölgeleri basmak, drive by yapmak veya ele geçirmek. | **PERMA**                                           | -            |
 
 ## [!ref](/rules/ic/safezones.md)

@@ -2,6 +2,7 @@
 label: İkinci Karakter Kuralları
 icon: people
 tags: [kurallar]
+order: 89
 ---
 
 # İkinci Karakter Kuralları

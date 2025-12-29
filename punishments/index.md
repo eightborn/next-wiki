@@ -1,5 +1,5 @@
 ---
-label: ✨ Cezalar
+label: Cezalar
 icon: alert
 order: 99
 ---

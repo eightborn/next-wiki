@@ -1,5 +1,5 @@
 ---
-label: ✨ Kurallar
+label: Kurallar
 icon: log
 order: 100
 ---
