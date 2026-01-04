@@ -52,7 +52,8 @@ Mavi renkle yazılan komutların üstüne tıklayarak detaylı açıklama ve ör
 | **/tanınırlıkdeğiştir**               | Tanınırlık sistemini kapatıp/açar. Kapalıyken attığınız tüm emotelarda isminiz diğer oyunculara gözükür. Açıkken sadece kendinizi tanıttığınız kişilere gözükür. |
 | **/propduzelt**                       | Üzerinizde kalan propları siler.                                                                                                                                 |
 | **/zırhçıkar**                        | Üzerinizdeki zırhı çıkartır.                                                                                                                                     |
-| **/otobak**                           | ✨ Karakterinizin, konuşan diğer karakterlere doğru otomatik bakmasını açıp kapatır.                                                                             |
+| **/otobak**                           | Karakterinizin, konuşan diğer karakterlere doğru otomatik bakmasını açıp kapatır.                                                                                |
+| **/çuvalçıkart**                      | ✨ Kafanızda çuval varsa ve elleriniz bağlı değilse çuvalı çıkartır.                                                                                             |
 
 ### Araç komutları
 
