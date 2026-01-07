@@ -1,6 +1,7 @@
 ---
 label: Kaçırma - Alıkoyma
 tags: [kurallar]
+order: 92
 ---
 
 # Kaçırma - Alıkoyma :motorway:

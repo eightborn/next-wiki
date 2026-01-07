@@ -1,6 +1,7 @@
 ---
 label: Çatışma - Drive By
 tags: [kurallar]
+order: 92
 ---
 
 # Çatışma - Drive By :oncoming_automobile:

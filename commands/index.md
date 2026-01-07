@@ -1,6 +1,6 @@
 ---
 icon: terminal
-label: ✨ Komutlar
+label: Komutlar
 ---
 
 # Komutlar
@@ -53,7 +53,7 @@ Mavi renkle yazılan komutların üstüne tıklayarak detaylı açıklama ve ör
 | **/propduzelt**                       | Üzerinizde kalan propları siler.                                                                                                                                 |
 | **/zırhçıkar**                        | Üzerinizdeki zırhı çıkartır.                                                                                                                                     |
 | **/otobak**                           | Karakterinizin, konuşan diğer karakterlere doğru otomatik bakmasını açıp kapatır.                                                                                |
-| **/çuvalçıkart**                      | ✨ Kafanızda çuval varsa ve elleriniz bağlı değilse çuvalı çıkartır.                                                                                             |
+| **/çuvalçıkart**                      | Kafanızda çuval varsa ve elleriniz bağlı değilse çuvalı çıkartır.                                                                                             |
 
 ### Araç komutları
 

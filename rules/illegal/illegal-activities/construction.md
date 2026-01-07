@@ -1,6 +1,7 @@
 ---
 label: İnşaat Malzemesi Hırsızlığı
 tags: [kurallar]
+order: 93
 ---
 
 # İnşaat Malzemesi Hırsızlığı :hammer:

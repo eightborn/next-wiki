@@ -1,6 +1,7 @@
 ---
 label: Market Rafı Hırsızlığı
 tags: [kurallar]
+order: 98
 ---
 
 # Market Rafı Hırsızlığı :shopping_trolley:

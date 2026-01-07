@@ -1,6 +1,7 @@
 ---
 label: Kavga - Brawl
 tags: [kurallar]
+order: 91
 ---
 
 # Kavga - Brawl :facepunch:

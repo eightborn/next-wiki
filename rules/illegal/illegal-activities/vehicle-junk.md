@@ -1,6 +1,7 @@
 ---
 label: Araç Parçalama
 tags: [kurallar]
+order: 97
 ---
 
 # Araç Parçalama :wrench:

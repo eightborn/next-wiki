@@ -1,6 +1,7 @@
 ---
 label: Araç Hırsızlığı (Gerçek Oyuncu)
 tags: [kurallar]
+order: 94
 ---
 
 # Araç Hırsızlığı (Gerçek Oyuncu) :car:

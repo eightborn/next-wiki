@@ -1,6 +1,7 @@
 ---
 label: Araç Hırsızlığı (NPC)
 tags: [kurallar]
+order: 95
 ---
 
 # Araç Hırsızlığı (NPC) :car:
