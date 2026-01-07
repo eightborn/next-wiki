@@ -21,9 +21,17 @@ Yukarıda yer alan kuralların izin vermediği ancak yaratıcı bir planınız v
 
 # Gerçekçilik, Strateji ve Rehine
 
-Soygun rollerinde istediğimiz şey klasik soy-kaç mantığı değildir. Soygunu yapmak isteyen oyuncular; bu aktivitenin; ciddi, riskli ve bir o kadar da korkutucu bir iş olduğu gerçeğini kabul etmelidir. Soygun planı basit bir parayı al - rehineyi bırak mantığında **olmamalıdır**. Soygun yapan oyunculardan stratejik planlar, farklı roller ve gerçekçi davranışlar bekliyoruz. _Hoparlörden şarkı açıp dans ederseniz, kafanızdan vurulabilirsiniz._ Elinizde rehine olması size büyük bir üstünlük sağlar ancak her istediğinizin olacağı anlamına da gelmez. Örnek olarak; _"Rehinem var, hiçbir ekip bizi takip etmeyecek yoksa rehineyi öldürürüm."_ gibi söylemler PD tarafından kabul edilmez. Çünkü şöyle bir karşılık alabilirsiniz: _"Rehineyi öldürürsen buradan sağ çıkamazsın. Rehineyle beraber sen de ölürsün."_. Anlaşılacağı üzere burada bir hayat dengesi vardır. Rehineyi kullanarak size ölümcül müdahale uygulanmasını engelleyebilir veya bir süre erteletebilirsiniz.
+Soygun rollerinde istediğimiz şey klasik soy-kaç mantığı değildir. Soygunu yapmak isteyen oyuncular; bu aktivitenin; ciddi, riskli ve bir o kadar da korkutucu bir iş olduğu gerçeğini kabul etmelidir. Soygun planı basit bir parayı al - rehineyi bırak mantığında **olmamalıdır**. Soygun yapan oyunculardan stratejik planlar, farklı roller ve gerçekçi davranışlar bekliyoruz. Elinizde rehine olması size büyük bir üstünlük sağlar ancak her istediğinizin olacağı anlamına da gelmez. Örnek olarak; _"Rehinem var, hiçbir ekip bizi takip etmeyecek yoksa rehineyi öldürürüm."_ gibi söylemler PD tarafından kabul edilmez. Çünkü şöyle bir karşılık alabilirsiniz: _"Rehineyi öldürürsen buradan sağ çıkamazsın. Rehineyle beraber sen de ölürsün."_. Anlaşılacağı üzere burada bir hayat dengesi vardır. Rehineyi kullanarak size ölümcül müdahale uygulanmasını engelleyebilir veya bir süre erteletebilirsiniz.
 
-PD ekipleri, soygunlara müdahale ederken gerçekçi davranmalıdır. Amaçları soyguncuların başarılı olmasını engellemek ve hiçbir sivile veya rehineye katiyen zarar gelmemesini sağlamaktır. Özellikle rehine konusunda PD ekibi risk alamaz. Risk alırsa IC ciddi sonuçları olur. Soyguncuların ne yapacağı belli olmaz, bu tür büyük riskli bir işe kalkışan kişiler, çok daha beter şeyler de yapabilir. Bu yüzden PD'nin bu tür kriz anlarında aşırı dikkatli olması ve belirlenen prosedürlere tamamen sağdık haraket etmeleri gerekir. _Soygun, telefondan Wallkers açıp karı kız bakacağınız bir olay değildir._
+!!!success
+_Hoparlörden şarkı açıp dans ederseniz, kafanızdan vurulabilirsiniz._
+!!!
+
+PD ekipleri, soygunlara müdahale ederken gerçekçi davranmalıdır. Amaçları soyguncuların başarılı olmasını engellemek ve hiçbir sivile veya rehineye katiyen zarar gelmemesini sağlamaktır. Özellikle rehine konusunda PD ekibi risk alamaz. Risk alırsa IC ciddi sonuçları olur. Soyguncuların ne yapacağı belli olmaz, bu tür büyük riskli bir işe kalkışan kişiler, çok daha beter şeyler de yapabilir. Bu yüzden PD'nin bu tür kriz anlarında aşırı dikkatli olması ve belirlenen prosedürlere tamamen sağdık haraket etmeleri gerekir.
+
+!!!success
+_Soygun, telefondan Wallkers açıp karı kız bakacağınız bir olay değildir._
+!!!
 
 # SWAT Ekibi, Müdahale ve Operasyon Limitleri
 
