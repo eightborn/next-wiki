@@ -29,10 +29,6 @@ _Hoparlörden şarkı açıp dans ederseniz, kafanızdan vurulabilirsiniz._
 
 PD ekipleri, soygunlara müdahale ederken gerçekçi davranmalıdır. Amaçları soyguncuların başarılı olmasını engellemek ve hiçbir sivile veya rehineye katiyen zarar gelmemesini sağlamaktır. Özellikle rehine konusunda PD ekibi risk alamaz. Risk alırsa IC ciddi sonuçları olur. Soyguncuların ne yapacağı belli olmaz, bu tür büyük riskli bir işe kalkışan kişiler, çok daha beter şeyler de yapabilir. Bu yüzden PD'nin bu tür kriz anlarında aşırı dikkatli olması ve belirlenen prosedürlere tamamen sağdık haraket etmeleri gerekir.
 
-!!!success
-_Soygun, telefondan Wallkers açıp karı kız bakacağınız bir olay değildir._
-!!!
-
 # SWAT Ekibi, Müdahale ve Operasyon Limitleri
 
 - PD ekipleri, rehinenin uzun süreli (+30 saniye) ölümcül tehdit altında olmadığı durumları takip edip gerekli müdahaleyi yapabilir. Soygunun tehlike derecesine göre bu müdahale ölümcül bile olabilir.
