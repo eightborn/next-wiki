@@ -1,6 +1,7 @@
 ---
 label: Absurd RP
 tags: [cezalar]
+order: 93
 ---
 
 # Absurd RP Kural İhlali Cezaları

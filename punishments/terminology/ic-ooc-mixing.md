@@ -1,6 +1,7 @@
 ---
 label: IC - OOC Mixing
 tags: [cezalar]
+order: 100
 ---
 
 # IC - OOC Mixing Kural İhlali Cezaları

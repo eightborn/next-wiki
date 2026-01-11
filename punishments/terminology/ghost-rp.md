@@ -1,6 +1,7 @@
 ---
 label: Ghost RP
 tags: [cezalar]
+order: 95
 ---
 
 # Ghost RP Kural İhlali Cezaları

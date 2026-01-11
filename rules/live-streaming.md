@@ -1,5 +1,5 @@
 ---
-label: Canlı Yayın Kuralları
+label: ✨ Canlı Yayın Kuralları
 icon: broadcast
 tags: [kurallar]
 ---
@@ -14,7 +14,7 @@ tags: [kurallar]
 - Yayıncı, rolünü kesintiye uğratmadan, karakter bütünlüğünü koruyarak yayın yapmalıdır.
 - Tüm yayınların en az 14 gün süreyle erişilebilir şekilde kayıtları saklanmalıdır. Yönetim, gerekli gördüğünde bu kayıtları isteyebilir.
 - Yayınlardaki sunucu içeriği veya olaylar delil niteliği taşır (OOC yaptırımlar) ve gerekirse yönetim tarafından incelemeye alınabilir.
-- Yayın kayıtları IC kanıt olarak kullanılamaz.
+- ✨ Yayın kayıtları IC kanıt olarak kullanılamaz. Ancak kayıt alan CCTV kameraların olduğu yerde sistemin hatası sebebiyle kayıt almadıysa, yönetimin izni ile IC kanıt olarak kullanılabilir.
 - Yönetimden gelen özel yazışmalar, DM kayıtları veya gizli planlar yayın konusu yapılamaz.
 - Yayıncı, aldığı bağışların ve sponsorlukların meşru ve şeffaf olmasından sorumludur. Bu kuralların ihlali yalnızca sunucu yasağıyla değil, yasal sonuçlarla da karşılaşılabilir.
 

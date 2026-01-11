@@ -1,6 +1,7 @@
 ---
 label: Non RP
 tags: [cezalar]
+order: 97
 ---
 
 # Non RP Kural İhlali Cezaları

@@ -1,6 +1,7 @@
 ---
 label: Meta Gaming
 tags: [cezalar]
+order: 99
 ---
 
 # Meta Gaming Kural İhlali Cezaları

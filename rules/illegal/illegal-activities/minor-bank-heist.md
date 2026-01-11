@@ -1,5 +1,5 @@
 ---
-label: ✨ Küçük Banka Soygunu
+label: Küçük Banka Soygunu
 tags: [kurallar]
 order: 100
 ---

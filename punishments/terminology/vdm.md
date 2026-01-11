@@ -1,6 +1,7 @@
 ---
 label: VDM
 tags: [cezalar]
+order: 91
 ---
 
 # VDM Kural İhlali Cezaları

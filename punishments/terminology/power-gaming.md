@@ -1,6 +1,7 @@
 ---
 label: Power Gaming
 tags: [cezalar]
+order: 98
 ---
 
 # Power Gaming Kural İhlali Cezaları

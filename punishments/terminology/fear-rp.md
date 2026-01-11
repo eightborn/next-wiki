@@ -1,6 +1,7 @@
 ---
 label: Fear RP
 tags: [cezalar]
+order: 94
 ---
 
 # Fear RP Kural İhlali Cezaları

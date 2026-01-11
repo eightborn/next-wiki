@@ -1,13 +1,13 @@
 ---
-label: ✨ İllegal Aktiviteler
+label: İllegal Aktiviteler
 icon: info
 order: 95
 ---
 
 # İllegal Aktivite Kuralları
 
-- [✨ Küçük Banka Soygunu](/rules/illegal/illegal-activities/minor-bank-heist.md)
-- [✨ Market Kasa Soygunu](/rules/illegal/illegal-activities/market-heist.md)
+- [Küçük Banka Soygunu](/rules/illegal/illegal-activities/minor-bank-heist.md)
+- [Market Kasa Soygunu](/rules/illegal/illegal-activities/market-heist.md)
 - [Market Rafı Hırsızlığı](/rules/illegal/illegal-activities/market-counters.md)
 - [Araç Parçalama](/rules/illegal/illegal-activities/vehicle-junk.md)
 - [Araç Bagaj Patlatma](/rules/illegal/illegal-activities/vehicle-trunk.md)

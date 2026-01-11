@@ -1,6 +1,7 @@
 ---
 label: Sürekli RP
 tags: [cezalar]
+order: 96
 ---
 
 # Sürekli RP Kural İhlali Cezaları

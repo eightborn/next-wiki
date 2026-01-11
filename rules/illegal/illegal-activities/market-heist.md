@@ -1,5 +1,5 @@
 ---
-label: ✨ Market Soygunları
+label: Market Soygunları
 tags: [kurallar]
 order: 99
 ---

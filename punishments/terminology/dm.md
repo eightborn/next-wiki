@@ -1,6 +1,7 @@
 ---
 label: DM
 tags: [cezalar]
+order: 92
 ---
 
 # DM Kural İhlali Cezaları
