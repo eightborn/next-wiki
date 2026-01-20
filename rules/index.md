@@ -24,6 +24,20 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 **Özellikle dikkat etmeniz gereken bir diğer konu ise kafanızdan bir şeyler uydurmamanızdır. Sistemin size izin vermediği ve rolde ciddi sonuçlar doğurabilecek şeyler uyduramazsınız.**
 !!!
 
+## ✨ Sakatlanam ve Yaralanma Rolleri
+
+Sistemsel olarak öldüğünüzde en az 1 tane kurşun yaranız varsa minimum 24 saat boyunca sakat veya yaralı rolü yapmak zorundasınız. Doktorların direktiflerine uymak zorundasınız ve gerekiyorsa 24 saatten daha fazla sakatlık yaşamanız gerekebilir. Bunları doktorlar ve yaşadığınız sakatlıklar belirler.
+
+Bu süre boyunca:
+- Birkaç saniyeden fazla koşamazsınız.
+- Herhangi bir meslek yapamazsınız. Buna polislik, doktorluk da dahildir.
+- Sadece özellikle sizi hedef alan durumlarda çatışmalara veya kavgalara dahil olabilirsiniz. Aksi taktirde hiçbir nedenle çatışma veya kavgalara dahil olamazsınız.
+- Spor yapamazsınız.
+
+!!!danger
+Bu kurala uymama durumunda **OOC ceza**, **kalıcı yara** ve hatta ihlalin büyüklüğüne göre **force CK** alabilirsiniz.
+!!!
+
 ## Genel Rol Terimleri
 
 - [IC/OOC Mixing](/rules/terminology/ic-ooc-mixing.md)
