@@ -1,5 +1,5 @@
 ---
-label: ✨ Non RP Driving
+label: Non RP Driving
 tags: [cezalar]
 order: 90
 ---

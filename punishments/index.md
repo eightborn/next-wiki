@@ -1,5 +1,5 @@
 ---
-label: ✨ Cezalar
+label: Cezalar
 icon: alert
 order: 99
 ---
@@ -26,7 +26,7 @@ Bazı istisnai veya hiç düşünülmemiş ancak bariz kural ihlali olan durumla
 - [Absurd RP](/punishments/terminology/absurd-rp.md)
 - [DM](/punishments/terminology/dm.md)
 - [VDM](/punishments/terminology/vdm.md)
-- [✨ Non RP Driving](/punishments/terminology/nonrp-driving.md)
+- [Non RP Driving](/punishments/terminology/nonrp-driving.md)
 
 
 ## IC Kural İhlali Cezaları

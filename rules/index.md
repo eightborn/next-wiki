@@ -72,5 +72,5 @@ Bu kurala uymama durumunda **OOC ceza**, **kalıcı yara** ve hatta ihlalin büy
 
 - [Karakter Kuralları](/rules/character.md)
 - [İkinci Karakter Kuralları](/rules/second-char.md)
-- [✨ Canlı Yayın Kuralları](/rules/live-streaming.md)
+- [Canlı Yayın Kuralları](/rules/live-streaming.md)
 - [Wallkers Kullanımı](/rules/wallkers.md)
