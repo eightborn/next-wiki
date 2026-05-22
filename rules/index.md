@@ -24,7 +24,7 @@ Sunucu, hayali bir evrendeki kozmopolit Los Santos şehrinde yaşanmaktadır. Bu
 **Özellikle dikkat etmeniz gereken bir diğer konu ise kafanızdan bir şeyler uydurmamanızdır. Sistemin size izin vermediği ve rolde ciddi sonuçlar doğurabilecek şeyler uyduramazsınız.**
 !!!
 
-## ✨ Sakatlanam ve Yaralanma Rolleri
+## ✨ Sakatlanma ve Yaralanma Rolleri
 
 Sistemsel olarak öldüğünüzde en az 1 tane kurşun yaranız varsa minimum 24 saat boyunca sakat veya yaralı rolü yapmak zorundasınız. Doktorların direktiflerine uymak zorundasınız ve gerekiyorsa 24 saatten daha fazla sakatlık yaşamanız gerekebilir. Bunları doktorlar ve yaşadığınız sakatlıklar belirler.
 
