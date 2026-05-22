@@ -71,7 +71,7 @@ Mavi renkle yazılan komutların üstüne tıklayarak detaylı açıklama ve ör
 | **/dk**       | Destek isteyen kişiyi haritada işaretler ve takip başlatır. |
 | **/da**       | Takipteyseniz takipten çıkar.                               |
 | **/d0 - /d3** | Kod 0 - 3 arası destek talebi yollar.                       |
-| **/de - /dd** | EMS destek talebi yollar.                                   |
+| **/de - /dd** | Ambulans destek talebi yollar.                              |
 | **/dp**       | Polis destek talebi yollar.                                 |
 | **/ds**       | Takip edilen tüm GPS sinyallerini kapatır.                  |
 | **/ptakip**   | Takip edilen kişiyi takip etmeyi başlatır.                  |
