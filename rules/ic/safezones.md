@@ -1,5 +1,5 @@
 ---
-label: Güvenli Bölgeler
+label: ✨ Güvenli Bölgeler
 tags: [kurallar]
 ---
 
@@ -8,7 +8,7 @@ tags: [kurallar]
 Sunucumuzda _"güvenli bölge"_ olarak kabul edilen alanlar vardır. Bu alanlarda herhangi bir illegal aktivite yapmak yasaktır. Sadece özel izinler ile bu kural yoksayılabilir. Ghost RP bu konuda çok önemlidir. Bu kuralın role yedirilmesi bu bölgelerin çok yoğun olması veya çok güvenlikli olması.
 
 !!!warning
-Bir illegal rolün içersindeyken kendinizi güvence altına almak için güvenli bölgelere kaçmak yasaktır. **Vatandaş hakkınız olarak, LSPD'ye güvenlik için kaçabilirsiniz. Ancak bu sadece aktif olarak kullanılan PD binası için geçerlidir.**
+Bir illegal rolün içersindeyken kendinizi güvence altına almak için güvenli bölgelere kaçmak yasaktır. **Vatandaş hakkınız olarak, LSPD'ye güvenlik için kaçabilirsiniz. Ancak bu sadece aktif olarak kullanılan PD binası için geçerlidir. İki illegal grup birbiriyle savaşırken PD binasına sığınamaz.**
 !!!
 
 !!!success
@@ -27,7 +27,5 @@ Oyun içinde F8'e `safezones` yazarak güvenli bölge alanlarını açıp kapata
 - Mesleklerin yapıldığı alanlar. Madenciliğin ve odunculuğun aktif olarak yapıldığı yerlerdir.
 - GYM ve etrafı.
 - İskelenin girişinden itibaren komple etrafı.
-- Tüm yiyecek işletmeleri ve etrafı.
-- Tüm gece kulüpleri, striptiz kulüpleri, barlar, restorantlar, kafeler ve etrafları.
 
 ## [!ref](/punishments/ic/safezones.md)

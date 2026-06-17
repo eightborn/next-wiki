@@ -5,13 +5,12 @@ tags: [cezalar]
 
 # Meslek Kuralları İhlali Cezaları
 
-| Kural İhlali                                                 | Açıklaması                                                                                                     | Cezası (dakika) | Ceza Puanı     |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | --------------- | -------------- |
-| **Meslek Aletlerinin Araç Torpidosunda Taşınması**           | Sistem bunu mümkün kılsa bile yapması yasaktır.                                                                | **120**         | Sözlü Uyarı    |
-| **Meslek Yaparken Uygun Kıyafet Giyilmemesi**                | Rol içinde meslek yaparkan o mesleğe uygun kıyafet giymemeniz durumu                                           | **240**         | Sözlü Uyarı    |
-| **Meslek Arabasının Amacı Dışında Kullanılması**             | Seyahat etmek, mal taşımak, taksilik yapmak veya rota dışı kullanmak                                           | **360**         | Sözlü Uyarı    |
-| **Meslek Aletlerinin Amacı Dışında Kullanılması**            | Balta, kazma gibi aletler ile etrafa veya birilerine zarar vermek gibi                                         | **480**         | Sözlü Uyarı    |
-| **Emote Kullanmadan Meslek Yapılması**                       | Hiç emote vermeden veya çok detaysız/kısa emote kullanımı ile meslek yapmak                                    | **600**         | Sözlü Uyarı    |
-| **Meslek Sırasında Bug Abuse veya Açık İle Avantaj Sağlama** | Avantaj sağlayacak bir bug veya açıktan yararlanmak, tespit edip yetkililere haber vermemek veya bunu öğretmek | **4320**        | 2 Yazılı Uyarı |
+| Madde No | Kural İhlali                                          | Açıklaması                                                                                                                                                                                                                | Cezası (dakika)   | Ceza Puanı        |
+| -------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
+| **1**    | **Meslek Araç ve Gereçlerinin Araç Torpidosunda Taşınması** | Meslek araç ve gereçlerinin araç torpidosunda taşınması bu kapsamda değerlendirilir. Sistemsel olarak araç torpidoları bu eşyaları taşımaya izin verse bile gerçekçi bir durum olmadığından ötürü yasaktır.            | **120**           |                   |
+| **2**    | **Meslek Yaparken Uygun Kıyafet Giyilmemesi**             | Rol içerisinde meslek yaparken o mesleğe ve ortama uygun bir kıyafet giymemeniz durumu bu kapsamda değerlendirilir.                                                                                                       | **240**           |                   |
+| **3**    | **Meslek Aracının Amacı Dışında Kullanılması**             | Meslek aracınızı amacı dışında kullanmanız yasaktır, tespiti halinde ceza yaptırımı uygulanır. Meslek araçlarıyla şehirde gezmek, taksi niyetine kullanmak yasaktır. Meslek araçları meslek rotaları dışında görülmemelidir. | **720**           | Sözlü Uyarı Puanı |
+| **4**    | **Meslek Araç Gereçlerinin Amacı Dışında Kullanılması**   | Meslek araç gereçlerini belirtilen amaçlar dışında kullanmak bu kapsamda değerlendirilir. Kazma/balta ile araçlara veya etrafa zarar vermek                                                                              | **Meslekten men** | Sözlü Uyarı Puanı |
+| **5**    | **Mesai Dışında Polis Faaliyeti Sürdürmek**                | Mesai dışındayken ve görevli değilken polis faaliyetlerini sürdürmek. (Araç çektirmek vb.)                                                                                                                                | **720**           | Sözlü Uyarı Puanı |
 
 ## [!ref](/rules/ic/jobs.md)

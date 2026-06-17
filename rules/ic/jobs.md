@@ -1,5 +1,5 @@
 ---
-label: Meslek Kuralları
+label: ✨ Meslek Kuralları
 tags: [kurallar]
 ---
 
@@ -9,11 +9,21 @@ Sunucumuzda AL Meslek olarak geçen meslekler ve normal meslekler vardır. Norma
 
 ## AL Meslekler
 
-AL Mesleker arası geçiş yapılması yasaktır. Polisten doktorluğa, doktorluktan mekanikliğe, medyacılıktan taksiciliğe gibi geçişler yapamazsınız.
+Meslekler arası geçiş yapılması serbesttir; ancak mesleğinden istifa eden bir oyuncu eski mesleğine geri dönemez.
+
+Avukatlar ve gazeteciler herhangi bir şart olmaksızın istifa edebilirler.
+
+Polisler ve doktorlar istedikleri zaman mesleklerinden ayrılabilir, ayrıldıktan sonra farklı bir legal mesleğe geçiş yapabilirler. Ancak dolaylı yoldan, ima ederek, bilgi sızdırarak ya da doğrudan hiçbir şekilde illegal faaliyette bulunamaz ve illegal bir ekibin üyesi olamazlar.
+
+Ayrıca önceki mesleklerinde edindikleri bilgileri kullanamaz, bu mesleklere ait herhangi bir bilgiyi paylaşamaz ve önceki mesleklerinde elde ettikleri lisansları kullanamazlar.
+
+Polisler ve doktorlar, istifa etmeden en az 2 hafta önce bağlı oldukları yönetime bilgi vermek zorundadır.
 
 ### :male-police-officer: Polislik LSPD
 
 Bu mesleğe zaman zaman açılan LSPD Akademi başvurusu ile girebilirsiniz. Önce yazılı sonra da fiziksel sınavdan geçmeniz gerekir. Yazılı sınavdan başarılı olursanız kısa bir eğitim sürecine girmeye hak kazanırsınız.
+
+LSPD rolü yaparken başka bir karakteriniz ile diğer AL Mesleklerde rol yapamazsınız.
 
 Polis ve vatandaşlar arası etkileşim kurallarına [buradan](/rules/ic/cop-interaction.md) ulaşabilirsiniz.
 
@@ -23,7 +33,7 @@ Bu mesleğe karakter başvuru kısmında belirterek başlayabilirsiniz. Karakter
 
 Bu departmanda rol yaptığınız süre boyunca, hiyerarşik yapıya ve hastane hukukuna uymak zorundasınız. Özellikle rol düzenini bozacak davranışlar yaparsanız direkt olarak cezalandırılırsınız. Kafanıza göre fiyatlandırma veya faturalandırma yapmanız yasaktır. Elden ödeme, banka transferleri, iyilik borcu gibi yöntemlerle ekstra kazanç sağlamak yasaktır, sonucu **sunucudan kalıcı uzaklaştırmadır**. Ayrıca departmanın size sağladığı araçları amacı dışında kullanamazsınız. Size temin edilen ekipmanların ticaretini yapamazsınız veya birilerine hediye edemezsiniz.
 
-LSDF herhangi bir birimden uzaklaştırılırsanız veya işinizi bırakırsanız, o karakter ile illegal bir role giremezsiniz. LSFD rolü yaparken başka bir karakteriniz ile diğer AL Mesleklerde rol yapamazsınız. Ayrıca bu karakteriniz ana karakteriniz olmalıdır. İllegal doktor rolleri yapmak yasaktır. İllegal doktor rolü sadece yönetim onaylı yapılabilir, rolün nasıl geliştiğinin hiçbir önemi yoktur.
+LSFD herhangi bir birimden uzaklaştırılırsanız veya işinizi bırakırsanız, o karakter ile illegal bir role giremezsiniz. LSFD rolü yaparken başka bir karakteriniz ile diğer AL Mesleklerde rol yapamazsınız. Ayrıca bu karakteriniz ana karakteriniz olmalıdır. İllegal doktor rolleri yapmak yasaktır. İllegal doktor rolü sadece yönetim onaylı yapılabilir, rolün nasıl geliştiğinin hiçbir önemi yoktur.
 
 Doktorların `/do` ile yaptığı direktiflere uyulmak zorundadır. Kafanıza göre iyileştim, bacağımda sorun yok, yürüyebilirim tarzında rollere girmek **kesinlikle yasaktır.**
 

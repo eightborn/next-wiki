@@ -5,14 +5,13 @@ tags: [cezalar]
 
 # Güvenli Bölge İhlali Cezaları
 
-| Kural İhlali                                 | Açıklaması                                                                                         | Cezası (dakika)                                     | Ceza Puanı   |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------ |
-| **Hırsızlık/Soygun Yapmak**                  | Güvenli bölge içinde birini soymak veya bir tür hırsızlık yapmak.                                  | **1440**                                            | Yazılı Uyarı |
-| **Araç Çalmak**                              | Güvenli bölge içinde araç çalmak.                                                                  | **1440**                                            | Yazılı Uyarı |
-| **Sebepsiz Maske Kullanmak**                 | Güvenli bölge içinde geçerli bir sebep olmadan maske takmak.                                       | **1440**                                            | Yazılı Uyarı |
-| **Rehin Almak**                              | Güvenli bölge içindeki birini rehin almak veya tehditle bir şeyler yaptırmak                       | **4320**                                            | Yazılı Uyarı |
-| **İllegal Bir Rolü Güvenli Bölgeye Taşımak** | Vatandaş olarak güvenliğiniz için LSPD'nin ana binasına kaçmak dışında yasaktır.                   | **4320**                                            | Yazılı Uyarı |
-| **İzinsiz İllegal Yapmak**                   | Karşı taraftan veya yetkililerden izin almadan illegal bir rol yapmak.                             | **4320** (yapılan rolün büyüklüğüne göre artabilir) | Yazılı Uyarı |
-| **Baskın Rolüne Girmek**                     | Yönetim izni olmadan hastane, PD gibi güvenli bölgeleri basmak, drive by yapmak veya ele geçirmek. | **PERMA**                                           | -            |
+| Madde No | Kural İhlali                                | Açıklaması                                                                                                | Cezası (dakika)              | Ceza Puanı               |
+| -------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------ |
+| **1**    | **Hırsızlık / Soygun**                      | Güvenli bölgelerde soygun/hırsızlık yapmak bu kapsamda değerlendirilir.                                   | **1440**                    | Yazılı Uyarı Puanı       |
+| **2**    | **Sebepsiz Maske Kullanımı**                | Güvenli bölge çevrelerinde sebepsiz şekilde maske kullanmak bu kapsamda değerlendirilir.                  | **1440**                    | Yazılı Uyarı Puanı       |
+| **3**    | **Rehin Alma / Alıkoyma-Kaçırma**           | Güvenli bölgelerden izin almadan rehine almak/kişiyi alıkoymak-kaçırmak bu kapsamda değerlendirilir.       | **4320**                    | 2 Yazılı Uyarı Puanı     |
+| **4**    | **İllegal Rolü Güvenli Bölgeye Taşımak**    | Güvenli bölge dışında başlamış bir rolü güvenli bölgeye taşımak bu kapsamda değerlendirilir. (Rol güvenli bölgede devam eder fakat sömürüsü yasaktır.) | **4320**                    | 2 Yazılı Uyarı Puanı     |
+| **5**    | **İzinsiz İllegal Role Girişmek**           | Güvenli bölgeler içerisinde karşıdaki kişiden izin almadan illegal bir role girişmek bu kapsamda değerlendirilir. | **4320**                    | 2 Yazılı Uyarı Puanı     |
+| **6**    | **Baskın / Ele Geçirme Rolü**               | Güvenli bölgeler içerisinde baskın/ele geçirme gibi roller yapmak bu kapsamda değerlendirilir. (Departman binasını basmak, hastaneyi basmak) | **Sınırsız Uzaklaştırma**   | 3 Yazılı Uyarı Puanı     |
 
 ## [!ref](/rules/ic/safezones.md)

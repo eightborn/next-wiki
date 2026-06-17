@@ -1,5 +1,5 @@
 ---
-label: Karakter Kuralları
+label: ✨ Karakter Kuralları
 icon: person
 tags: [kurallar]
 order: 90
@@ -18,7 +18,7 @@ Bir karakter oluşturuken uymanız gereken bir takım kurallar ve kalite standar
 - Karakterinizin, önceden oynadığınız bir karakterle herhangi bir bağı olamaz.
 
 !!!info
-Polis bir oyuncunun; CK attıktan sonra, **sadece bir kereye mahsus**, yeni karakterini benzer rütbe ve birimde başlayacak şekilde yaratma hakkı vardır. Yalnız bu CK yaptığı bir hatadan dolayı ihraç şeklindeyse (bilgi sızdırma, badcop vs.) bu hakkı kullanamaz.
+Polis bir oyuncunun; CK attıktan sonra, **sadece bir kereye mahsus**, yeni karakterini memur 2 rütbesinde ve aynı birimde başlayacak şekilde yaratma hakkı vardır. Yalnız bu CK yaptığı bir hatadan dolayı ihraç şeklindeyse (bilgi sızdırma, badcop vs.) bu hakkı kullanamaz.
 !!!
 
 !!!info

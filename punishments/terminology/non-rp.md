@@ -8,11 +8,12 @@ order: 97
 
 Kısaca rolsüz bir şekilde karakteri canlandırmaktır.
 
-| Kural İhlali                                                                                                  | Açıklaması                                                                                                                                                                                                                              | Cezası (dakika) | Ceza Puanı |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------- |
-| **Avantaj sağlamak için hızlı aksiyon almak**                                                                 | Rolün hızlıca ilerlemesi için rolsüz veya çok hızlı rol yapmak. Örnek olarak hızlıca kıyafet değiştirmek.                                                                                                                               | **2880**        | 1 Yazılı   |
-| **Rolsüz gelişim sağlamak**                                                                                   | Sebepsiz bir şekilde birilerini yönlendirmek veya absürt bir şekilde rollere dahil olarak karakteri geliştirmek, hikayesini hızlandırmak.                                                                                               | **2880**        | 2 Sözlü    |
-| **Yapılması imkansız veya aşırı güç bir şeyi yapmak**                                                         | Rolde avantaj sağlamak için imkansız veya güç bir şeyi yapmak. Mesela arabanın altında kalan birini arabayı kaldırıp kurtarmak. Ceza verilirken [Power Gaming](/punishments/terminology/power-gaming.md) ile beraber birleştirilebilir. | **4320**        | 2 Yazılı   |
-| **[Önemli Bilgiler](/rules/#sunucu-ve-rp-hakk%C4%B1nda-%C3%B6nemli-bilgiler)** metnindeki kuralları yoksaymak | Bu paragrafta yazılan önemli uyarı ve kuralları yoksayarak rol yapmak.                                                                                                                                                                  | **1440**        | 1 Sözlü    |
+| Madde No | Kural İhlali | Açıklaması | Cezası (dakika) | Ceza Puanı |
+| -------- | ------------ | ---------- | --------------- | ---------- |
+| **1** | **Fiziksel sınırları aşan eylemler** | Karakterin fiziksel sınırlarını aşan eylemler yapmak (tek elle araba kaldırmak, patlayan araçtan hiç etkilenmeden kaçmak) | **4320** | 2 Yazılı Uyarı Puanı |
+| **2** | **Orta düzeyli NonRP** | Orta düzeyli NonRP. ( Hızlıca kıyafetleri rolsüz şekilde değiştirmek / Koşarken veya yürürken kıyafet değiştirmek vb. ) | **2880** | Yazılı Uyarı Puanı |
+| **3** | **Bunny Hop yapmak** | Bunny Hop gerçek dışı bir eylemdir ve bunun yapılması yasaktır. | **1440** | Yazılı Uyarı Puanı |
+| **4** | **Rolü görmezden gelme (Refuse)** | Rolü görmezden gelme ve yok sayma (Refuse) | **1440** | Yazılı Uyarı Puanı |
+| **5** | **ForceRP** | ForceRP (OOC farkındalık ile başkalarının rolünü engellemek ve bozmak için IC bilinçle hareket etmek.) | **4320** | 2 Yazılı Uyarı Puanı |
 
 ## [!ref](/rules/terminology/non-rp.md)

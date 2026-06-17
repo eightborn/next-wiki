@@ -1,7 +1,7 @@
 ---
 label: Araç Bagaj Patlatma
 tags: [kurallar]
-order: 96
+order: 111
 ---
 
 # Araç Bagaj Patlatma :hammer:

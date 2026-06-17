@@ -1,16 +1,16 @@
 ---
-label: Absurd RP
+label: ✨ Absurd RP
 order: 94
 tags: [terimler]
 ---
 
 # Absurd RP :clown_face:
 
-> Eski adılya Retarded RP. Ofansif veya kırıcı olmaması adına ismini değiştirdik.
+> Eski adıyla Retarded RP. Ofansif veya kırıcı olmaması adına ismini değiştirdik.
 
 Karakterinizin akıl dışı veya absürt şeyler yapmasına denir.
 
-Karakteriniz, başka karakterler ile etkileşime geçerken akla mantığa uymayan, aşırı saçma, aşırı komik veya hiçbir anlam ifade etmeyen davranışlarda bulunamaz. Zorla fiziksel tacizde veya tecavüzde bulunamaz.
+Karakteriniz, başka karakterler ile etkileşime geçerken akla mantığa uymayan, aşırı saçma, aşırı komik veya hiçbir anlam ifade etmeyen davranışlarda bulunamaz.
 
 ## Kural İhlali Örnekleri
 
@@ -19,6 +19,6 @@ Karakteriniz, başka karakterler ile etkileşime geçerken akla mantığa uymaya
 - Gerçek hayattaki olaylardan veya esprilerden bahsetmek. **_Bazı durumlarda bunlar zararsız veya komik olabilir, ancak bunun inisiyatifi adminlere kalmıştır._**
 - Karakteriniz deliymiş veya hastane raporu varmış gibi davranıp avantaj sağlamak.
 - Onaysız hafıza kaybı rolü yaşamak.
-- Yaşanan şeylerin ciddiyetini role yansıtmamak. Örnek olarak polisi vurup sonra hastaneyi ziyaret etmek.
+- Yaşanan şeylerin ciddiyetini role yansıtmamak. Örnek olarak polisi vurduktan sonra alaycı hareketlerle hastaneyi ziyaret etmek ve polislerle bu tavırla diyaloga girmek.
 - Tehlikeli olayların yaşandığı yerlere sanki bir şey olmamış gibi gitmek. Örnek olarak çatışma olan bir yere gidip rahat rahat takılmak.
-- Karşı tarafın izni olmadan fiziksel tacizde bulunmak. Örnek olarak meme ellemek veya göt avuçlamak.
+

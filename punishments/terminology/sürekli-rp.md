@@ -6,11 +6,11 @@ order: 96
 
 # Sürekli RP Kural İhlali Cezaları
 
-| Kural İhlali                                               | Açıklaması                                                                                             | Cezası (dakika) | Ceza Puanı |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ---------- |
-| **Aktif rol esnasında AFK kalmak**                         | AFK kalarak diğer rolleri kötü etkilemek, rollerin devamlılığını bozmak.                               | **360**         | 1 Sözlü    |
-| **OOC bir durumu doğru şekilde IC'ye aktarmamak**          | OOC bir olayı IC'ye aktarmadan direkt rolü bitirmek veya direkt bu OOC durumu IC'de belirtmek.         | **720**         | 1 Sözlü    |
-| **Grafik paketi veya filtreler yüzünden rolü değiştirmek** | Herhangi bir görsel efekt yüzünden normalde olandan farklı şekilde görmek ve buna göre rolü etkilemek. | **720**         | 1 Sözlü    |
-| **Avantaj sağlamak için oyundan çıkmak veya AFK kalmak**   | Karakterinizin başına bir şey geleceğini anlayıp oyundan çıkmak veya AFK kalmak.                       | **10080**       | 2 Yazılı   |
+| Madde No | Kural İhlali                                  | Açıklaması                                                                                                                                                                                              | Cezası (dakika) | Ceza Puanı             |
+| -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------- |
+| **1**    | **Paket yüzünden rolü reddetmek**             | Kişinin kendi yüklediği bir grafik paketi, ses paketi vs. yüzünden karşılaşılan bir rolde sürekli rp kuralına uymamak, rolü reddetmek. Kişi kendi yüklediği etmenlerden sorumludur. Diğer oyuncuları bu durum etkilemez ve role devam edilir. | **240**         |                        |
+| **2**    | **Kritik rol anında oyundan quitlemek**       | Yakalanma riski altındayken (kovalamaca anı, çatışma, sorgu veya benzeri kritik rol anları) oyundan quitlemek.                                                                                          | **10080**       | 2 Yazılı Uyarı Puanı   |
+| **3**    | **Aktif rolde Role Check yapmak**             | Aktif rol ortamında rolün nasıl geliştiğini sorgulamak (Role Check)                                                                                                                                     | **1440**        | Yazılı Uyarı Puanı     |
+| **4**    | **OOC sıkıntıyı aktif role taşımak**          | OOC yaşanılan bir sıkıntıdan dolayı aktif rol ortamında OOC konuşmalar/davranışlar sergilemek                                                                                                            | **10080**       | 2 Yazılı Uyarı Puanı   |
 
 ## [!ref](/rules/terminology/sürekli-rp.md)

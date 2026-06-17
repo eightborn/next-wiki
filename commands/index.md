@@ -1,6 +1,6 @@
 ---
 icon: terminal
-label: Komutlar
+label: ✨ Komutlar
 ---
 
 # Komutlar
@@ -25,6 +25,7 @@ Mavi renkle yazılan komutların üstüne tıklayarak detaylı açıklama ve ör
 | :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[/me](/commands/general/me)**       | Aksiyon belirtmek için kullanılır.                                                                                                                               |
 | **[/do](/commands/general/do)**       | Durum belirtmek veya bir şeyi betimlemek için kullanılır.                                                                                                        |
+| **[/sdo](/commands/general/sdo)**     | `/do` mesajını uzun süre karakterinizin üzerinde göstermek için kullanılır.                                                                                       |
 | **[/st](/commands/general/st)**       | Statik emote menüsünü açar.                                                                                                                                      |
 | **[/e](/commands/general/e)**         | Hızlıca animasyon yapmak için kullanılır.                                                                                                                        |
 | **[/ap](/commands/general/ap)**       | Animasyon halindeyken karakterinizi düzgün pozisyonlamanız için kullanılır.                                                                                      |

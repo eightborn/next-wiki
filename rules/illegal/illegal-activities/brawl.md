@@ -1,5 +1,5 @@
 ---
-label: Kavga - Brawl
+label: ✨ Kavga - Brawl
 tags: [kurallar]
 order: 91
 ---
@@ -8,7 +8,7 @@ order: 91
 
 **AÇIKLAMA:** Kavga ve Brawl farklı şeylerdir. Kavga iki kişi veya toplu bir şekilde plansız şekilde yapılır. Brawl ise iki grubun anlaşmalı olarak yaptıkları dövüş rolleridir.
 ### Kavga Rolü
-- Kavga eyleminde bulunmanız için herhangi bir illegal veya karakter seviyesi aranmaz.
+- Kavga eyleminde bulunmanız için herhangi bir karakter seviyesi aranmaz.
 - Kavga rollerinde sonradan başka oyuncular dahil olabilirler.
 - Kavga rollerinde silah veya bıçak kullanılabilir. (Burada rolün akışının bozulmaması için kullanılmaması önerilir)
 - Kavga rollerinde oyuncu sınırı bulunmaz.
@@ -20,5 +20,4 @@ order: 91
 - Brawl rollerinde yumruk, sopa veya muşta harici hiçbir illegal materyal kullanılmaz.
 - Brawl rollerinde *anlaşan iki ekip* haricinde bireysel veya toplu şekilde kimse bu rollere karışamaz.
 - Brawl rollerinden sonra gasp işlemi yapılması yasaklanmıştır.
-- Brawl rollerinden sonra kazan/kaybet farketmeksizin ticket üzerinden kanıtlandığı takdirde kişi başı 1500 illegal şöhret expi verilir. (Ekipler için bu 2 günde maksimum 1 kez olduğu takdirde exp verilir, sık olması durumunda gözardı edilir.)  
 - Brawl rollerinde iki tarafın eşit sayıda olması iki ekip tarafından sağlanmalıdır. Dışarıda kalan ekip üyeleri bu dövüşe dahil olamaz ancak yaralıların toplanmasına yardımcı olabilirler.

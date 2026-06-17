@@ -10,6 +10,10 @@ order: 100
 Sunucumuzda oynayan her oyuncu bu kuralları okumuş ve kabul etmiş sayılır. _"Bu kuralı bilmiyordum."_ tarzında bahaneler kabul edilemez.
 !!!
 
+!!!warning
+Sunucuya **1 ay veya daha uzun süre boyunca aralıksız olarak giriş yapmayan** oyuncuların whitelist'i alınır.
+!!!
+
 Kurallar kabaca iki ana kategoriden oluşmaktadır. OOC ve IC. Ancak bunlarla limitli değildir.
 
 ## Sunucu ve RP Hakkında Önemli Bilgiler
@@ -73,4 +77,4 @@ Bu kurala uymama durumunda **OOC ceza**, **kalıcı yara** ve hatta ihlalin büy
 - [Karakter Kuralları](/rules/character.md)
 - [İkinci Karakter Kuralları](/rules/second-char.md)
 - [Canlı Yayın Kuralları](/rules/live-streaming.md)
-- [Wallkers Kullanımı](/rules/wallkers.md)
+- [Vibeshot Kullanımı](/rules/vibeshot.md)

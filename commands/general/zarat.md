@@ -2,12 +2,12 @@
 order: 95
 ---
 
-# `/zarat`
+# ✨ `/zarat`
 
 Zar atmak istediğiniz zaman kullanılır.
 
 !!!warning
-Bu komut sadece fiziksel yani **gerçek anlamda** zar atmak istediğiniz zaman kullanılmalıdır. Şans durumlarında [/rs](/commands/general/rs.md) komutunu kullanmanız gerekir.
+Bu komut sadece fiziksel yani **gerçek anlamda** zar atmak istediğiniz zaman kullanılmalıdır. /zarat komutunu kumar dışında kullanmamanızı öneririz. Şans durumlarında [/rs](/commands/general/rs.md) komutunu kullanmanız gerekir.
 !!!
 
 ### Kullanım şekli

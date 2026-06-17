@@ -3,3 +3,12 @@ public/*
 
 .manifest
 .nixpacks.toml
+
+# Ceza Kanunu alt içerikleri şimdilik yayınlanmayacak.
+criminal-code/*
+!criminal-code/index.md
+!criminal-code/prosecutor-rules.md
+
+# Yerel Codex/agent çalışma talimatları yayınlanmayacak.
+AGENTS.md
+.agents/

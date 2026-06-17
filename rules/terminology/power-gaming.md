@@ -1,5 +1,5 @@
 ---
-label: Power Gaming
+label: ✨ Power Gaming
 order: 99
 tags: [terimler]
 ---
@@ -41,6 +41,7 @@ Karakterinizin belirli fiziksel ve mental özellikleri vardır. Her davranışı
 
 - Orta veya ağır zırh kuşanmışken, kıyafet olarak zırh giymemiş olmak.
 - Ağır silah taşırken, içine sığabilecek uygun çantayı kıyafet olarak giymemiş olmak.
+- Ağır silah taşırken, uygun kılıf takmamak ve envanterde gezdirmek.
 
 ==
 

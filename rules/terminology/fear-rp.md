@@ -1,5 +1,5 @@
 ---
-label: Fear RP
+label: ✨ Fear RP
 order: 95
 tags: [terimler]
 ---
@@ -13,6 +13,10 @@ Karakteriniz, tehlikeli veya korkutucu durumlarda **gerçekçi tepki** vermek zo
 ## Kural İhlali Örnekleri
 
 - Karakterinizin herhangi illegal bir tecrübesi yokken veya daha yolun çok başındayken, karşısına çıkan korkutucu veya nam salmış kişilere karşı asarım keserim tarzında diklenmesi.
-- Karakterinizin boğazında bıçak varken veya kafasına silah doğrultulmuşken istenilen şeyleri yapmaması; durumun yarattığı dehşeti hareket, ses ve emotelar ile yansıtmaması.
-- Acemi bir sürücü arkadaşınız sizi bir yolculuğa çıkardığında çok sakin olmanız veya hiç panik olmamanız.
+- Karakterinizin boğazında bıçak varken veya kafasına silah doğrultulmuşken istenilen şeyleri yapmaması; durumun yarattığı dehşeti hareket, ses ve emotelar ile yansıtmaması ve ruhsuz gibi davranması.
 - Sevdiğiniz bir kişinin kaçırılması durumunda, bunun korkusunu ve paniğini yaşamamanız ve buna uygun roller yapmamanız.
+- Karşınızda silahlı bir kişi varken, silahlı kişiye karşı bıçak ile saldırmak.
+
+!!!danger
+Bazı ağır psikolojik, duygusal ve özel rollerde fear rp kuralına karşı yönetim inisiyatif kullanabilir.
+!!!

@@ -1,5 +1,5 @@
 ---
-label: İllegal Aktivite Kuralları
+label: ✨ İllegal Aktivite Kuralları
 icon: eye
 order: 95
 ---
@@ -11,5 +11,4 @@ Sunucumuzda onaylı motorsiklet (MC) çeteleri ve o kültüre ait motorsikletler
 !!!
 
 - [İllegal Aktiviteler](/rules/illegal/illegal-activities/index.md)
-- [Onaylı Ekipler](/rules/illegal/crew/index.md)
-- [Hood Onaylı Ekipler](/rules/illegal/gangs/index.md)
+- [Onaylı Ekipler](/rules/illegal/gangs/index.md)

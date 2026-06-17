@@ -1,5 +1,5 @@
 ---
-label: Meta Gaming
+label: ✨ Meta Gaming
 order: 100
 tags: [terimler]
 ---
@@ -27,7 +27,8 @@ Yerel kaynaklardan öğrenilebilecek bilgilerin kararı yönetimin inisiyatifine
 
 - Venice Beach yakınlarına meteor düşmesi
 - Bir işletmenin ihaleye çıkması ve detayları
-- Global bir pandemiğin başlaması
+- Global bir pandeminin başlaması
 - Şehirde elektriklerin komple kesilmesi
+- Discord sunucumuzdaki haberler kanalında görülen bir paylaşımın IC'de yerel bir kaynaktan öğrenilmesi
 
 [!ref Meta Gaming Kural İhlali Cezaları](/punishments/terminology/meta.md)

@@ -1,5 +1,5 @@
 ---
-label: Hood Onaylı Ekipler
+label: Onaylı Ekipler
 icon: organization
 order: 95
 ---

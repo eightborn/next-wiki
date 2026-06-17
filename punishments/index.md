@@ -35,7 +35,14 @@ Bazı istisnai veya hiç düşünülmemiş ancak bariz kural ihlali olan durumla
 - [Meslek Kuralları Cezaları](/punishments/ic/jobs.md)
 - [Güvenli Bölgeler Cezaları](/punishments/ic/safezones.md)
 - [Polis - İllegal Etkileşim Cezaları](/punishments/ic/cop-interaction.md)
+- [İllegal - Polis Etkileşim Cezaları](/punishments/ic/illegal-cop-interaction.md)
+- [İllegal Etkileşim Cezaları](/punishments/ic/illegal-interaction.md)
 
 ## OOC Kural İhlali Cezaları
 
-- [OOC Hakaret Cezaları](/punishments/ooc/ooc-harassment.md)
+- [Küfür / Hakaret / OOC Söylem Cezaları](/punishments/ooc/ooc-harassment.md)
+- [Bug Abuse ve 3. Parti Yazılım Cezaları](/punishments/ooc/cheats.md)
+- [Mal Varlığı Aktarımı Cezaları](/punishments/ooc/asset-transfer.md)
+- [Paylaşım Kuralları Cezaları](/punishments/ooc/publish.md)
+- [Vibeshot Kullanımı Cezaları](/punishments/ooc/vibeshot.md)
+- [OOC Yalan Cezaları](/punishments/ooc/ooc-lie.md)

@@ -1,5 +1,5 @@
 ---
-label: İkinci Karakter Kuralları
+label: ✨ İkinci Karakter Kuralları
 icon: people
 tags: [kurallar]
 order: 89
@@ -15,7 +15,7 @@ Sunucumuzda ikinci karakter slotunu kullanmak için [Tebex Sayfamızdan](https:/
 
 ## Kurallar
 
-- İkinci karakter açabilmeniz için birinci karakterinizin minumum **5 seviye** olması gerekir.
+- İkinci karakter açabilmeniz için birinci karakterinizin minimum **5 seviye** olması gerekir.
 - Yeni açacağınız karakterlerin hikayesi olmak zorundadır.
 - Karakterleriniz arasında item, para, bilgi vb. aktarımlar kesinlikle yapılamaz. Cezası **PERMA** bandır.
 - İkinci karakter açmak size herhangi bir WL mesleğe kabul garantisi vermez.
@@ -23,9 +23,17 @@ Sunucumuzda ikinci karakter slotunu kullanmak için [Tebex Sayfamızdan](https:/
 
 ### Birinci karakteri polis olanlar:
 
-- İllegal ve legal rollerin güç dengeleri bozulmaması adına polis karakteri olan oyuncularımızın ikinci karakterlerinde yalnızca basit illegal yani `greenzone` adını verdiğimiz level 15'e kadarki illegal eylemleri yapabilmesi mümkündür. Ayrıca herhangi bir şekilde birlik **kuramaz** veya herhangi bir birliğe **dahil olamazlar**.
+- İllegal ve legal rollerin güç dengeleri bozulmaması adına polis karakteri olan oyuncularımızın ikinci karakterlerinde yalnızca basit illegal adını verdiğimiz illegal eylemleri yapabilmesi mümkündür. Ayrıca herhangi bir şekilde birlik **kuramaz** veya herhangi bir birliğe **dahil olamazlar**.
 - İkinci karakterlerini kapsamlı bir illegal karaktere çevirmek istedikleri taktirde polis karakterlerini göndermeleri gerekmektedir.
 
 ### Birinci karakteri illegal olanlar:
 
-- İllegal oyuncular ikinci karakterlerini polis, doktor veya medya gibi WL Meslek kategorisinde açmak istediklerinde, var olan illegal karakterlerinin yine 15 level altı `greenzone` illegali olması ve herhangi bir ekip bağı olmaması gerekmektedir.
+- İllegal oyuncular ikinci karakterlerini polis, doktor veya medya gibi WL Meslek kategorisinde açmak istediklerinde, var olan illegal karakterlerinin herhangi bir ekip bağı olmaması gerekmektedir.
+
+### Basit İllegaller
+
+- [Liman Hırsızlığı](/rules/illegal/illegal-activities/port-heist.md)
+- [Market Rafı Hırsızlığı](/rules/illegal/illegal-activities/market-counters.md)
+- [Araç Bagaj Patlatma](/rules/illegal/illegal-activities/vehicle-trunk.md)
+- [Gasp](/rules/illegal/illegal-activities/seizure.md)
+- [Kavga - Brawl](/rules/illegal/illegal-activities/brawl.md)

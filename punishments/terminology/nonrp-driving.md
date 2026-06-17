@@ -6,13 +6,12 @@ order: 90
 
 # Non RP Driving Kural İhlali Cezaları
 
-| Kural İhlali                                          | Açıklaması                                                                                                                                    | Cezası (dakika) | Ceza Puanı |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------- |
-| **Nedensizce absürt araç sürüşü**           | Hiçbir neden yokken etrafa çarparak, kaldırımlara çıkarak araç sürmek. Sürekli ters şeritten gitmek, yol üzerinde saçma hareketler sergilemek veya sürekli 360 spin atarak sürüş yapmak.                                                                            | **300**         | 1 Sözlü    |
-| **Lastiği patlak araç sürüşü** | İki veya daha fazla patlak lastik ile uzun süreli araç kullanmak, lastiklerin patlak olmasının araç kontrolüne yapması gereken etkiyi role dökmemek.                                                                    | **600**        | 1 Sözlü   |
-| **Role dökülmesi gereken kazaları yoksaymak**               | Gerçekte sizi etkilemesi gereken bir kaza sanki olmamış gibi role devam etmek. | **1440**        | 1 Yazılı   |
-| **Gerçek dışı araç kullanımı** | Arazinin yol şartlarına uymayan aracı agresif şekilde kullanmak. (Spor araç ile dağa tırmanmak, dağın engebelerine rağmen zıplayarak sürüş sergilemek vs.).                           | **1440**        | 1 Yazılı   |
-| **İnsanları ezerek araç sürmek** | Hiçbir neden yokken insanları ezerek araç sürmek veya bunu sürekli tekrar etmek. (Gerçek oyuncu veya NPC farketmez.)                           | **4320**        | 1 Yazılı   |
-| **Absürt derecede gerçek dışı araç kullanımı** | Araç ile yüksek bir yerden uçmak, gerçekte imkansız olan stunt hareketleri yapmak ve sanki sorun yokmuş gibi devam etmek, taklalı kaza yapıp devam etmek.                           | **10080**        | 2 Yazılı   |
+| Madde No | Kural İhlali | Açıklaması | Cezası (dakika) | Ceza Puanı |
+| -------- | ------------ | ---------- | --------------- | ---------- |
+| **1** | **Patlak lastikli araçla sürüşe devam etmek** | İki veya daha fazla lastiği patlak bir araç ile sürüş yapmaya devam etmek bu kapsamda değerlendirilir. | **2880** | Yazılı Uyarı Puanı |
+| **2** | **Kazayı umursamadan role devam etmek** | Araç ile kaza yapmak ve umursamadan role devam etmek bu kapsamda değerlendirilir. | **1440** | Yazılı Uyarı Puanı |
+| **3** | **Araziye uygun olmayan araçla agresif sürüş** | Aracın arazinin yol şartlarına uymamasına rağmen agresif şekilde kullanılması bu kapsamda değerlendirilir. (Spor araç ile dağa tırmanmak, Dağın engebelerine rağmen zıplayarak sürüş sergilemek vb.) | **1440** | Yazılı Uyarı Puanı |
+| **4** | **Yüksekten uçup rolsüz şekilde devam etmek** | Kullanılan araçla yüksek bir yerden uçmak ve devamında rolsüz şekilde bir şey olmamış gibi ilerlemek bu kapsamda değerlendirilir. (Köprüden uçup devam etmek, taklalar atıp devam etmek vb.) | **7200** | 2 Yazılı Uyarı Puanı |
+| **5** | **Uygun olmayan araçla extrem hareketler denemek** | Kullandığınız uygun olmayan araçlar ile  extrem hareketler denemek. Örnek: Otoban üzerinden ilerlerken kırmızı otoparkın içerisine uçmak | **2880** | Yazılı Uyarı Puanı |
 
 ## [!ref](/rules/terminology/nonrp-driving.md)

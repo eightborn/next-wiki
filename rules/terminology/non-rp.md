@@ -1,5 +1,5 @@
 ---
-label: Non RP
+label: ✨ Non RP
 order: 98
 tags: [terimler]
 ---
@@ -12,7 +12,6 @@ Sunucunun en önemli noktası yaptığınız her şeyde rol içinde olmanızdır
 
 ## Kural İhlali Örnekleri
 
-- Gym'de çalışırken hiç emote atmadan sadece [!badge variant="dark" text="E"] basarak zaman geçirmek.
 - Etrafınızda olan bitene tepki vermemek.
 - Kimseyle konuşmamak veya size bir şey denildiğinde sürekli yoksaymak.
 - Sadece sistemsel olarak gelişme kafasında oynamak ve diğer karakterler ile etkileşime geçmemek.
