@@ -1,0 +1,169 @@
+﻿# EightbornV Next Wiki
+
+> Wiki sürekli güncellenmektedir. Özellikle kurallar kısmında ekleme, çıkarma veya düzenleme olabilir. Eğer oyuncuysanız problem yaşamamak için lütfen burayı günlük kontrol ediniz.
+
+- [EightbornV Next Wiki](https://wiki.eightbornv.com/index.md): EightbornV Next Wiki
+- [Kurallar](https://wiki.eightbornv.com/rules/index.md): Sunucumuzda oynayan her oyuncu bu kuralları okumuş ve kabul etmiş sayılır. "Bu kuralı bilmiyordum." tarzında bahaneler kabul edilemez.
+- [Cezalar](https://wiki.eightbornv.com/punishments/index.md): 🏗️ Yapım aşamasında
+- [Ticket Kuralları](https://wiki.eightbornv.com/ticket.md): Ticketların yetkililer tarafından sağlıklı ve hızlı şekilde incelenebilmesi için aşağıdaki kurallara uyulmalıdır.
+- [Ceza Kanunu](https://wiki.eightbornv.com/criminal-code/index.md): Ceza Kanunu içeriği hazırlanıyor.
+- [Komutlar](https://wiki.eightbornv.com/commands/index.md): Komutlar tuşuna basarak açılan chat kanalına yazılarak kullanılır. Komut kullanmak için başına / eklemeniz gerekir. Yazmaya başladıkça sistem size yardımcı olmak için otomatik doldurma yapar.
+- [Oyun İçi Rehber](https://wiki.eightbornv.com/guide/index.md): Oyun içi bir sürü sistem, tuş ve komutlar vardır. Burada, bunlar hakkında bilgi alabilirsiniz.
+- [EB+ Kozmetik Aboneliği ⭐](https://wiki.eightbornv.com/eb-plus.md): EB+ kozmetik aboneliği ile sunucuda bir takım kozmetik ayrıcalıklara erişim sağlayabilirsiniz. Bu ayrıcalıklar her zaman sadece kozmetik olacaktır. EightbornV Next roleplay, hiçbir zaman P2W (Pay to Win) mantığını benimsemeyecektir.
+- [Oyun İçi Ayarlar](https://wiki.eightbornv.com/settings.md): Sunucuda herkesin akışkan ve sorunsuz bir oyun deneyimi yaşaması için bu ayarlar çok önemlidir.
+- [Repository Agent Instructions](https://wiki.eightbornv.com/agents.md): Ceza Kanunu, suç maddeleri, yaptırımlar, para cezaları, hapis süreleri, silah mevzuatı veya criminal-code/ altındaki içerikler üzerinde çalışmadan önce .agents/AGENTS.md dosyasını oku ve uygula.
+
+## ✨ Kurallar
+
+
+### ✨ Terimler
+
+- [Terimler](https://wiki.eightbornv.com/rules/terminology/index.md): IC/OOC Mixing
+- [IC - OOC Mixing 🧬](https://wiki.eightbornv.com/rules/terminology/ic-ooc-mixing.md): Gerçek hayat ve rol hayatını birbirine karıştırmaya denir. Bunlar arasındaki ayrımı ihlal edemezsiniz.
+- [Meta Gaming 🖥️](https://wiki.eightbornv.com/rules/terminology/meta.md): Karakterinizin normalde bilmediği bir bilgiyi oyun dışı yollarla veya ekstrem çıkarımlarla bulunup edinmesi.
+- [Power Gaming 💪](https://wiki.eightbornv.com/rules/terminology/power-gaming.md): Karakterinizin normal hayatta yapamayacağı şeyleri yapmasına denir.
+- [Non RP 🎭](https://wiki.eightbornv.com/rules/terminology/non-rp.md): Genel anlamı ile rol yapmadan oyun oynamaktır.
+- [Sürekli RP 💃](https://wiki.eightbornv.com/rules/terminology/s%C3%BCrekli-rp.md): Sunucu içindeyken rolün kesintisiz bir şekilde devam etmesine denir.
+- [Ghost RP 🏙️](https://wiki.eightbornv.com/rules/terminology/ghost-rp.md): Etrafınızdaki kişilerin veya NPC 'lerin orada olması ve orada fiziksel olarak gözükmese bile oradaymış gibi davranılmasına denir.
+- [Fear RP 😱](https://wiki.eightbornv.com/rules/terminology/fear-rp.md): Karakterin gerçek dışı cesur olması ve normalde korkutucu veya tedirgin edici durumlara tepki vermemesi durumu için kullanılır.
+- [Absurd RP 🤡](https://wiki.eightbornv.com/rules/terminology/absurd-rp.md): Eski adıyla Retarded RP. Ofansif veya kırıcı olmaması adına ismini değiştirdik.
+- [DM (Deathmatch) ⚔️](https://wiki.eightbornv.com/rules/terminology/dm.md): Ortada geçerli bir sebep olmadan birini öldürmek veya fiziksel zarar vermek.
+- [VDM (Vehicle Deathmatch) 🚧](https://wiki.eightbornv.com/rules/terminology/vdm.md): Ortada geçerli bir sebep olmadan birine araçla fiziksel zarar vermeye denir. Kısaca DM kuralının araçlı olan halidir.
+- [Non RP Driving 🚘](https://wiki.eightbornv.com/rules/terminology/nonrp-driving.md): Gerçek dışı araç kullanımını ifade eder.
+
+### ✨ IC Kurallar
+
+- [IC Kurallar](https://wiki.eightbornv.com/rules/ic/index.md): Emote Kullanımı
+- [Emote Kullanımı 💬](https://wiki.eightbornv.com/rules/ic/emotes.md): Sunucumuzda emote atarken uymanız gereken birkaç kural vardır. Emote kuralları, IC yaptığınız roller ve davranışlar kadar önemlidir. Hatalı emote kullanımı hem etraftaki kişilerin rolüne zarar verebilir hem de kötü veya yanlış görüntüler ortaya çıkartabilir.
+- [Güvenli Bölge 🏨](https://wiki.eightbornv.com/rules/ic/safezones.md): Sunucumuzda "güvenli bölge" olarak kabul edilen alanlar vardır. Bu alanlarda herhangi bir illegal aktivite yapmak yasaktır. Sadece özel izinler ile bu kural yoksayılabilir.
+- [Meslek Kuralları 👷](https://wiki.eightbornv.com/rules/ic/jobs.md): Sunucumuzda AL Meslek olarak geçen meslekler ve normal meslekler vardır. Normal meslekler her vatandaşın para kazanma imkanı olması için eklenmiştir.
+- [Polis ile Etkileşim 👮](https://wiki.eightbornv.com/rules/ic/cop-interaction.md): Sunucu içerisinde polis karakterle etkileşime geçerken uymanız gereken bazı kurallar vardır. Bu kurallar; her iki tarafın rol zevkini, gerçekçiliği ve rol akışını korumak için vardır.
+- [CK Savaşı 💀](https://wiki.eightbornv.com/rules/ic/ckfight.md): CK savaşı geçerli bir sebep bulunduran bir karakterin başka bir karaktere yönelik başlatacağı ciddi sonuçları olan bir roldür. Bu tür bir rol allowlist meslek sahibi olan kişilere karşı (doktorlar, polisler, medyacılar, avukatlar) başlatılamaz.
+
+### ✨ İllegal Aktivite Kuralları
+
+- [İllegal Aktivite Kuralları](https://wiki.eightbornv.com/rules/illegal/index.md): Sunucumuzda onaylı motorsiklet (MC) çeteleri ve o kültüre ait motorsikletler dışında; motorsikletler ile illegal aktivite yapmak yasaktır.
+
+#### ✨ İllegal Aktiviteler
+
+- [İllegal Aktivite Kuralları](https://wiki.eightbornv.com/rules/illegal/illegal-activities/index.md): İnşaat Malzemesi Hırsızlığı
+- [İnşaat Malzemesi Hırsızlığı 🔨](https://wiki.eightbornv.com/rules/illegal/illegal-activities/construction.md): İnşaat soygunu için beraber yapacak minimum ya da maksimum kişi sayısı aranmaz.
+- [Liman Hırsızlığı ⚓](https://wiki.eightbornv.com/rules/illegal/illegal-activities/port-heist.md): Liman soygunu için beraber yapacak minimum ya da maksimum kişi sayısı aranmaz.
+- [Market Rafı Hırsızlığı 🛒](https://wiki.eightbornv.com/rules/illegal/illegal-activities/market-counters.md): Market rafı hırsızlığını gerçekleştirirken Ghost RP kuralı gereği market içerisindekileri ve kasiyerin olduğunu bilerek rol yapmalısınız.
+- [Araç Bagaj Patlatma 🔨](https://wiki.eightbornv.com/rules/illegal/illegal-activities/vehicle-trunk.md): Bagaj patlatma işi yapılırken mutlaka bagajı açma kısmında "levye" geçen emote verilmelidir.
+- [Gasp 🗡️](https://wiki.eightbornv.com/rules/illegal/illegal-activities/seizure.md): Gaspta bir oyuncudan nakit olarak X dolardan fazla alamazsınız.
+- [Araç Hırsızlığı (NPC) 🚗](https://wiki.eightbornv.com/rules/illegal/illegal-activities/vehicle-steal.md): Araç çalma işlemi yapılırken mutlaka en az 1 adet detaylı ve içinde "maymuncuk kullanımı ile alakalı" emote verilmesi gerekmektedir.
+- [Araç Parçalama 🔧](https://wiki.eightbornv.com/rules/illegal/illegal-activities/vehicle-junk.md): Araç parçalama eyleminde eylem yarıda kesilip bırakılabilir.
+- [Ev Soygunu 🏠](https://wiki.eightbornv.com/rules/illegal/illegal-activities/home-heist.md): Ev soygunu içerisinde gördüğünüz rehine NPC ile ghostrp yapmanız gerekmektedir. NPC yokmuş gibi davranılamaz.
+- [Market Kasiyer Soygunu 🏪](https://wiki.eightbornv.com/rules/illegal/illegal-activities/market-cashier-heist.md): Market kasiyer soygunu içerisinde gördüğünüz rehine NPC ile ghostrp yapmanız gerekmektedir. NPC yokmuş gibi davranılamaz.
+- [Araç Hırsızlığı (Gerçek Oyuncu) 🚗](https://wiki.eightbornv.com/rules/illegal/illegal-activities/vehicle-steal-real.md): Araç çalma işlemi yapılırken mutlaka en az 1 adet detaylı ve içinde "maymuncuk kullanımı ile alakalı" emote verilmesi gerekmektedir.
+- [Market Soygunları 🛒](https://wiki.eightbornv.com/rules/illegal/illegal-activities/market-heist.md): Market soygunu eylemini; marketin içinde min 2 max 4 kişi olacak şekilde, dışarıda gözlemci olarakta max 2 kişi olacak şekilde yapabilirsiniz.
+- [Küçük Banka Soygunu 💰](https://wiki.eightbornv.com/rules/illegal/illegal-activities/minor-bank-heist.md): Küçük banka soygunu eylemini; içeride minimum 3 kişi, dışarıda maksimum 3 kişi olmak üzere maksimum 6 oyuncu olarak yapabilirsiniz.
+- [Kuyumcu Soygunu 💎](https://wiki.eightbornv.com/rules/illegal/illegal-activities/jewelry-heist.md): Kuyumcu soygunu eylemini; içeride minimum 3 kişi, dışarıda maksimum 3 kişi olmak üzere maksimum 6 oyuncu olarak yapabilirsiniz.
+- [Büyük Banka Soygunu 🏦](https://wiki.eightbornv.com/rules/illegal/illegal-activities/major-bank-heist.md): Kurallar eklenecektir.
+- [Çatışma - Drive By 🚘](https://wiki.eightbornv.com/rules/illegal/illegal-activities/drive-by.md): Çatışma rollerinde tarafların çatışma adı altında DM yapması yönetim tarafından kabul edilmeyen bir durumdur. Çatışma rollerinden önce mutlaka tarafların bir kez bile olsa konuşması rol pası için önemlidir.
+- [Kaçırma - Alıkoyma 🛣️](https://wiki.eightbornv.com/rules/illegal/illegal-activities/abduction.md): Kaçırma eylemi bir kişinin konuşmadığı konuları konuşmasını sağlamak veya zarar vermek amacıyla yapılması gerekir.
+- [Kavga - Brawl 👊](https://wiki.eightbornv.com/rules/illegal/illegal-activities/brawl.md): AÇIKLAMA: Kavga ve Brawl farklı şeylerdir. Kavga iki kişi veya toplu bir şekilde plansız şekilde yapılır. Brawl ise iki grubun anlaşmalı olarak yaptıkları dövüş rolleridir.
+
+#### Onaylı Ekipler
+
+- [İllegal Aktivite Kuralları](https://wiki.eightbornv.com/rules/illegal/gangs/index.md): Araç Hırsızlığı
+- [Çeteler 🔫](https://wiki.eightbornv.com/rules/illegal/gangs/requirements.md): Çeteler ghetto mahalle kültürünü yansıtmak üzere kurulu agresif tutumda olan gruplardır. Bu grupların temel amacı para kazanmak ve büyük bir ateşli silah gücüne sahip olmaktır.
+- [Ekipler (Crew) 👥](https://wiki.eightbornv.com/rules/illegal/gangs/crews.md): Crew, aynı kültürden veya geçmişten gelmeyen, şehirde yolları kesişmiş, tek ortak noktaları “hayatta kalmak ve para kazanmak” olan bireylerin oluşturduğu gevşek yapılı bir illegal organizasyondur.
+- [Mobsterlar 🎩](https://wiki.eightbornv.com/rules/illegal/gangs/mobsters.md): Aile, sadakat ve kontrol üzerine kurulu bir organize suç yapısını temsil eder. Yüksek saygı, düşük görünürlük esastır. Sokakta değil, arka odalarda konuşulur.
+- [İllegal Yarışçılar 🚗](https://wiki.eightbornv.com/rules/illegal/gangs/racers.md): Yarışçılar genel anlamda sosyal karakterlerdir ve eğlenme odaklı, adrenalin bağımlısı olurlar. Dolayısı ile araçları ile yapabileceklerinin sınırlarını zorlamayı severler.
+- [Motor Kulüpleri 🏍️](https://wiki.eightbornv.com/rules/illegal/gangs/motor-club.md): Motor kulüpleri motor sürmeyi ve özgürlüğü seven insanlar topluluğudur. Motor onlar için kutsal ve dokunulmazdır. Dolayısı ile yapacağınız TÜM eylemler cruiser veya touring tarzı motorlar üzerinden olmalıdır.
+- [Karakter Kuralları](https://wiki.eightbornv.com/rules/character.md): Bir karakter oluşturuken uymanız gereken bir takım kurallar ve kalite standartımız vardır. Genel anlamda karakter oluştururken yaratıcı olmanız istenir. "Araba tamiriden anlayan sokak yarışçısı" gibi klişe karakterler sunucuya rol ve kalite anlamında pek de katkı sağlamaz.
+- [İkinci Karakter Kuralları](https://wiki.eightbornv.com/rules/second-char.md): Sunucumuzda ikinci karakter slotunu kullanmak için Tebex Sayfamızdan satın almanız gerekmektedir.
+- [Canlı Yayın Kuralları](https://wiki.eightbornv.com/rules/live-streaming.md): Yayıncı, yayın sohbetinde gerçekleşen her türlü mesajdan, alertten ve görüntüden sorumludur. Bu tarz durumlarda kayıtsız kalmamak ve işlem uygulamak ile yükümlüsünüz.
+- [Vibeshot](https://wiki.eightbornv.com/rules/vibeshot.md): Telefon içinde bulunun Vibeshot uygulaması bizim tarafımızdan yapılan bir sosyal medya platformudur. Bu platforumun kendisine ait bir konsepti vardır. Vibeshot, IC olarak bir misyona sahiptir.
+
+## Cezalar
+
+
+### Rol Kural İhlali Cezaları
+
+- [IC - OOC Mixing Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/ic-ooc-mixing.md): Madde No
+- [Meta Gaming Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/meta.md): Madde No
+- [Power Gaming Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/power-gaming.md): Madde No
+- [Non RP Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/non-rp.md): Kısaca rolsüz bir şekilde karakteri canlandırmaktır.
+- [Sürekli RP Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/s%C3%BCrekli-rp.md): Madde No
+- [Ghost RP Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/ghost-rp.md): Madde No
+- [Fear RP Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/fear-rp.md): Madde No
+- [Absurd RP Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/absurd-rp.md): Eski adıyla Retard RP.
+- [DM Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/dm.md): Madde No
+- [VDM Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/vdm.md): Madde No
+- [Non RP Driving Kural İhlali Cezaları](https://wiki.eightbornv.com/punishments/terminology/nonrp-driving.md): Madde No
+
+### IC Kural İhlali Cezaları
+
+- [Emote Kullanımı İhlali Cezaları](https://wiki.eightbornv.com/punishments/ic/emotes.md): Madde No
+- [Güvenli Bölge İhlali Cezaları](https://wiki.eightbornv.com/punishments/ic/safezones.md): Madde No
+- [İllegal - Polis Etkileşim İhlali Cezaları](https://wiki.eightbornv.com/punishments/ic/illegal-cop-interaction.md): Madde No
+- [İllegal Etkileşim İhlali Cezaları](https://wiki.eightbornv.com/punishments/ic/illegal-interaction.md): Madde No
+- [Meslek Kuralları İhlali Cezaları](https://wiki.eightbornv.com/punishments/ic/jobs.md): Madde No
+- [Polis - İllegal Etkileşim İhlali Cezaları](https://wiki.eightbornv.com/punishments/ic/cop-interaction.md): Madde No
+
+### OOC
+
+- [Bug Abuse ve 3. Parti Yazılım Cezaları](https://wiki.eightbornv.com/punishments/ooc/cheats.md): Madde No
+- [Küfür / Hakaret / OOC Söylem Cezaları](https://wiki.eightbornv.com/punishments/ooc/ooc-harassment.md): Madde No
+- [Mal Varlığı Aktarımı Cezaları](https://wiki.eightbornv.com/punishments/ooc/asset-transfer.md): Madde No
+- [OOC Yalan Cezaları](https://wiki.eightbornv.com/punishments/ooc/ooc-lie.md): Madde No
+- [Paylaşım Kuralları Cezaları](https://wiki.eightbornv.com/punishments/ooc/publish.md): Madde No
+- [Vibeshot Kullanımı Cezaları](https://wiki.eightbornv.com/punishments/ooc/vibeshot.md): Madde No
+
+## Ceza Kanunu
+
+- [Genel Hükümler](https://wiki.eightbornv.com/criminal-code/general-provisions.md): Ceza Kanunu geniş kapsamlı görünse de, kuralların ve bazı sistemlerin önemli bir kısmı oyuncu deneyimini kolaylaştırmak için MDT üzerinde seçeneğe bağlı veya otomatik olarak uygulanır.
+- [Yakalama, Gözaltı ve Şüpheli Hakları](https://wiki.eightbornv.com/criminal-code/arrest-custody-and-suspect-rights.md): Bu bölümde:
+- [Ceza İndirimi](https://wiki.eightbornv.com/criminal-code/sentencing-adjustments.md): İlgili suç maddesinde yazılı sabit ceza yalnızca bu bölümde veya başka bir özel hükümde açıkça belirtilen sebeple indirilebilir ya da uygulanmayabilir.
+- [Yargılama, El Koyma ve Ek Yaptırımlar](https://wiki.eightbornv.com/criminal-code/procedure-seizure-and-sanctions.md): Bu bölümde, aksi açıkça belirtilmedikçe:
+
+### Cezalar
+
+- [Cezalar](https://wiki.eightbornv.com/criminal-code/penalties/index.md): Ceza yaptırımı içeren suç kategorileri ve hızlı ceza tablosu bu bölümde yer alır.
+- [Hızlı Ceza Tablosu](https://wiki.eightbornv.com/criminal-code/penalties/quick-reference.md): Bu tablo yalnızca hızlı erişim içindir. Suçun kapsamı, istisnaları ve birlikte uygulanma kuralları için madde başlığına tıklayın.
+- [Hayata Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/offenses-against-life.md): Bir kişiyi öldürme kastıyla hareket ederek ölümüne sebep olan kişi kasten öldürme suçunu işler.
+- [Vücut Dokunulmazlığına Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/offenses-against-bodily-integrity.md): Bir kişiye karşı hukuka aykırı fiziksel kuvvet kullanmaya doğrudan yönelen ve o anda gerçekleştirilmesi mümkün olan bir harekette bulunan kişi saldırı girişimi suçunu işler.
+- [Kişi Özgürlüğüne Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/offenses-against-personal-liberty.md): Bir kişinin ayrılma veya hareket etme özgürlüğünü, hukuka uygun bir neden bulunmaksızın bilerek engelleyen kişi bu suçu işler.
+- [Cinsel Dokunulmazlığa Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/offenses-against-sexual-integrity.md): Cinsel nitelikte bir fiile rıza, kişinin fiilin niteliğini bilerek, baskı altında olmadan ve özgür iradesiyle açık biçimde katılmasıdır.
+- [Çocuklara Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/child-protection-offenses.md): Bu Kanunda çocuk, 18 yaşını doldurmamış kişidir.
+- [Aile İçi Şiddet ve Özel Koruma Hükümleri](https://wiki.eightbornv.com/criminal-code/penalties/domestic-violence-and-protection-offenses.md): Bu bölümde yakın ilişki; eş, eski eş, aynı konutta yaşayan veya daha önce yaşamış kişi, nişanlı, eski nişanlı, düzenli duygusal ilişki içinde olunan veya daha önce olunmuş kişi ile ortak çocuk sahibi olunan kişiyi ifade eder.
+- [Tehdit, Baskı ve Israrlı Takip Suçları](https://wiki.eightbornv.com/criminal-code/penalties/threat-coercion-and-stalking.md): Bir kişiye veya o kişinin yakınında bulunan bir kişiye karşı ölüm, ağır yaralanma, kaçırma veya cinsel saldırı sonucunu doğurabilecek bir fiili gerçekleştireceğini bilerek ve tehdidin ciddiye alınmasını isteyerek bildiren kişi ciddi şiddet tehdidi suçunu işler.
+- [Malvarlığına Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/property-offenses.md): Malvarlığına karşı suçlarda eşya, para, hizmet veya ekonomik değerin değeri, fiilin işlendiği andaki olağan piyasa değeri esas alınarak belirlenir.
+- [Grand Malvarlığı Suçları](https://wiki.eightbornv.com/criminal-code/penalties/grand-property-offenses.md): Bu bölümdeki maddeler, sistemsel ve önceden tanımlanmış malvarlığı faaliyetleri için tek paket ceza düzenler. Paket kapsamına açıkça alınan doğal fiiller için ayrıca hırsızlık, tehdit, geçici alıkoyma, ruhsatsız silah taşıma veya benzer genel hükümler uygulanmaz.
+- [Kundaklama ve Geniş Tehlike Yaratan Malvarlığı Suçları](https://wiki.eightbornv.com/criminal-code/penalties/arson-and-dangerous-property-offenses.md): Bu bölümde yangın; açık alev, yanıcı madde, hızlandırıcı madde, ateşleme düzeneği veya benzeri yöntemlerle eşya, yapı, taşıt, arazi ya da çevrede yanma tehlikesi oluşturulmasını ifade eder.
+- [Kamu Düzenine Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/public-order-offenses.md): Bu bölümde, aksi açıkça belirtilmedikçe:
+- [Devlete ve Adalete Karşı Suçlar](https://wiki.eightbornv.com/criminal-code/penalties/offenses-against-state-and-justice.md): Bu bölümde, aksi açıkça belirtilmedikçe:
+- [Silah ve Tehlikeli Maddeler](https://wiki.eightbornv.com/criminal-code/penalties/weapons-and-dangerous-materials.md): Bu bölümde, aksi açıkça belirtilmedikçe:
+- [Melisa Suçları](https://wiki.eightbornv.com/criminal-code/penalties/melisa-offenses.md): Bu Kanunda Melisa; kullanıldığında kişinin algısını, dikkatini veya davranışlarını etkileyebilen ve bu bölümde özel olarak düzenlenen maddeyi ifade eder.
+- [Trafik ve Taşıt Suçları](https://wiki.eightbornv.com/criminal-code/penalties/traffic-and-vehicle-offenses.md): Bu bölümde, aksi açıkça belirtilmedikçe:
+- [Ticaret, Ruhsat ve Meslek Suçları](https://wiki.eightbornv.com/criminal-code/penalties/trade-license-and-profession-offenses.md): Bu bölümde, aksi açıkça belirtilmedikçe:
+- [Savcı Rolü Kuralları](https://wiki.eightbornv.com/criminal-code/prosecutor-rules.md): Savcı rolü, EightbornV hukuk düzeninin en kritik rollerinden biridir. Bu sayfa, bir savcı karakterinin IC olarak nasıl davranması gerektiğini, yetki ve sınırlarını ve rolü oynayan oyuncunun dikkat etmesi gereken OOC çerçeveyi açıklar.
+
+## ✨ Komutlar
+
+
+### ✨ Genel Komutlar
+
+- [✨ /sdo](https://wiki.eightbornv.com/commands/general/sdo.md): Durum belirtmek veya bir şeyi betimlemek istediğinizde do'nun uzun süre karakterinizin üzerinde kalmasını istiyorsanız bu komutu kullanabilirsiniz.
+- [/me](https://wiki.eightbornv.com/commands/general/me.md): Aksiyon belirtmek istediğiniz durumlarda bu komutu kullanabilirsiniz.
+- [/do](https://wiki.eightbornv.com/commands/general/do.md): Durum belirtmek veya bir şeyi betimlemek için kullanılır. Ayrıca bazı durumlarda izin almak için kullanılanbilir.
+- [/st](https://wiki.eightbornv.com/commands/general/st.md): Dünya üzerine veya kendi üzerinize emote bırakmak için kullanılır.
+- [/e](https://wiki.eightbornv.com/commands/general/e.md): Hızlıca animasyon yapmak için kullanılır. Animasyonların id leri vardır. Bu idleri kullanarak hızlı animasyon yapabilirsiniz.
+- [/ap](https://wiki.eightbornv.com/commands/general/ap.md): Animasyon halindeyken karakterinizi düzgün pozisyonlandırmanızı sağlar.
+- [✨ /zarat](https://wiki.eightbornv.com/commands/general/zarat.md): Zar atmak istediğiniz zaman kullanılır.
+- [/rs](https://wiki.eightbornv.com/commands/general/rs.md): Rastgele sayı seçimi yapmak için kullanılır. Oyunda rastgele durumlarda karar vermek için bu sistemi kullanabilirsiniz.
+
+### Araç Komutları
+
+- [/fixmyplate](https://wiki.eightbornv.com/commands/vehicle/fixmyplate.md): Bug durumlarında aracınızı kurtarmanızı sağlar. Araç eğer spawnlanmaması gerekiyorsa bu komutla ile spawnlanması sağlanamaz. Örneğin araç hurdalıktaysa veya garajdaysa bu komut bir işe yaramaz.
+- [/hs](https://wiki.eightbornv.com/commands/vehicle/hs.md): Aracınıza hız limiti belirlemenizi sağlar.
+
+## Oyun İçi Rehber
+
+- [Discord FiveM Bağlantı Sorunu Çözümü](https://wiki.eightbornv.com/guide/discord-integration.md): Tarayacıdan veya FiveM ayarlarından Discord bağlantınız varsa kesin. Ardından FiveM içinden CFX hesabınızdan çıkış yapın.
+- [Envanter Sistemi 📦](https://wiki.eightbornv.com/guide/inventory.md): Envanter, eşyalar, silahlar ve kıyafetler eb_inventory scripti üzerinden çalışır.
+- [Araçlar 🚗](https://wiki.eightbornv.com/guide/vehicle.md): Araçlarla ilgili tüm sistemler eb_vehicle üzerinden çalışır.
+- [Banka Sistemi 🏦](https://wiki.eightbornv.com/guide/bank.md): Banka ve ödeme sistemleri eb_bank scripti üzerinden çalışır.

@@ -1,0 +1,26 @@
+# Meta Gaming Kural İhlali Cezaları
+
+| Madde No | Kural İhlali                                       | Açıklaması                                                                                                                                                                                                                                                                                                                  | Cezası (dakika)        | Ceza Puanı           |
+| -------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------- |
+| **3**    | **3. Parti platform üzerinden rol planlamak**      | 3. Parti bir platform üzerinden rol hakkında sorular sormak ve rolünüzü ona göre şekillendirmek/plan yapmak bu kapsamda değerlendirilir.                                                                                                                                                                                    | **1440**              | Yazılı Uyarı Puanı   |
+| **4**    | **OOC iletişimle rolü yönlendirmek**               | Oyuncuların başka bir oyuncuyla konuşmalarına göre olaylara yön vermesi/rolü planlaması,  ( “Şu kişilerde silah var", "Şu kişinin arabası şurada", "Şunu rolde şu şekilde anlattım sen de şekilde devam ettir" ) bu kapsamda değerlendirilir. Örnek: 2 arkadaşın sesli iletişim kanalında bulunarak rol yapması veya yazarak iletişim kurması | **10080**             | 3 Yazılı Uyarı Puanı |
+| **5**    | **OOC bilgiyle rol akışını baltalamak**            | Oyun dışı yöntemlerle bilgiyi elde edip, rolde bu bilgiyle hareket edip rol akışını bozmak. Alakasız şekilde rolün içerisine dahil olup rol baltalamak bu kapsamda değerlendirilir.                                                                                                                                       | **10080**             | 3 Yazılı Uyarı Puanı |
+| **6**    | **Tespit edilemez durumlar için çıkarımda bulunmak** | Bir dedektif gibi çıkarımlarda bulunmak veya rolsel anlamda tespit edilemez durumlar için (maskeli kişiler) bu kapsamda değerlendirilir.                                                                                                                                                                                  | **4320**              | 2 Yazılı Uyarı Puanı |
+| **7**    | **POV video kanıtı sunamamak**                    | Yetkili ekibinin sorması durumunda kendi POV videonuzu kanıt olarak sunamamanız bu kapsamda değerlendirilir.                                                                                                                                                                                                                | **4320**              | 2 Yazılı Uyarı Puanı |
+| **8**    | **Oyuncu kimliğini şantaj/tehdit aracı olarak kullanmak** | Bir oyuncunun gerçek kimliğini, sosyal medya hesabını vs. bulup IC/OOC olarak şantaj veya tehdit amaçlı kullanmak bu kapsamda değerlendirilir.                                                                                                                                                                              | **Sınırsız Uzaklaştırma** | 3 Yazılı Uyarı Puanı |
+
+## [!ref](/rules/terminology/meta.md)
+
+*[AL]: Allowlist
+*[DM]: Deathmatch
+*[EMS]: Emergency Medical Service
+*[ERP]: Erotic Roleplay
+*[HUD]: Heads Over Display
+*[IC]: In Character
+*[LSFD]: Los Santos Fire Departmant
+*[LSPD]: Los Santos Police Departmant
+*[NPC]: Non-Player Character
+*[OOC]: Out Of Character
+*[Ped]: Pedestrian (NPC)
+*[RP]: Roleplay
+*[VDM]: Vehicle Deathmatch

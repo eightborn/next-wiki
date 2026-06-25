@@ -7,7 +7,7 @@ order: 98
 Dünya üzerine veya kendi üzerinize emote bırakmak için kullanılır.
 
 !!!warning
-Sunucuda **statik** ve **yapışkan** emote kullanımı çok önemlidir. [/me](me.md) ve [/do](do.md) emotelarındaki kurallar burası için de geçerlidir. Lütfen [kuralları](/rules/emotes) dikkatlice okuyun.
+Sunucuda **statik** ve **yapışkan** emote kullanımı çok önemlidir. [/me](me.md) ve [/do](do.md) emotelarındaki kurallar burası için de geçerlidir. Lütfen [kuralları](/rules/ic/emotes.md) dikkatlice okuyun.
 !!!
 
 ### Örnekler

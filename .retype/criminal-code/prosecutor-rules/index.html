@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="tr" class="h-full">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJZM2S4JG9"></script>
+    <script data-cfasync="false">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-ZJZM2S4JG9');</script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.835714048385">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 4.6.0">
+
+    <!-- Primary Meta Tags -->
+    <title>Savcı Rol&#252; Kuralları</title>
+    <meta name="title" content="Savcı Rolü Kuralları">
+    <meta name="description" content="Savcı rolü, EightbornV hukuk düzeninin en kritik rollerinden biridir. Bu sayfa, bir savcı karakterinin IC olarak nasıl davranması gerektiğini, yetki ve sınırlarını ve rolü oynayan oyuncunun dikkat etmesi gereken OOC çerçeveyi açıklar.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wiki.eightbornv.com/criminal-code/prosecutor-rules/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://wiki.eightbornv.com/sitemap.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wiki.eightbornv.com/criminal-code/prosecutor-rules/">
+    <meta property="og:title" content="Savcı Rolü Kuralları">
+    <meta property="og:description" content="Savcı rolü, EightbornV hukuk düzeninin en kritik rollerinden biridir. Bu sayfa, bir savcı karakterinin IC olarak nasıl davranması gerektiğini, yetki ve sınırlarını ve rolü oynayan oyuncunun dikkat etmesi gereken OOC çerçeveyi açıklar.">
+    <meta property="og:site_name" content="EightbornV Wiki">
+    <meta property="og:locale" content="tr_TR">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://wiki.eightbornv.com/criminal-code/prosecutor-rules/">
+    <meta name="twitter:title" content="Savcı Rolü Kuralları">
+    <meta name="twitter:description" content="Savcı rolü, EightbornV hukuk düzeninin en kritik rollerinden biridir. Bu sayfa, bir savcı karakterinin IC olarak nasıl davranması gerektiğini, yetki ve sınırlarını ve rolü oynayan oyuncunun dikkat etmesi gereken OOC çerçeveyi açıklar.">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://wiki.eightbornv.com/criminal-code/prosecutor-rules.md">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link id="retype-favicon" rel="icon" href="../../static/logo.png" />
+    <link href="../../resources/css/retype.css?v=4.6.0.835714048385" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.6.0.835714048385" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=4.6.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.6.0.835714048385" data-turbo-eval="false" defer></script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+        * {
+            font-family: 'Hanken Grotesk', sans-serif;
+        }
+
+        .default {
+            border-radius: 10px;
+            border: 1px solid #1956AF;
+            padding: 20px 20px 0 20px;
+            margin-bottom: 20px;
+            font-size: 1.2rem;
+            line-height: 1.5;
+        }
+
+        .dialog {
+            border: 1px solid #1956AF;
+            padding: 20px 20px 0 20px;
+            margin-bottom: 20px;
+            font-size: 1.2rem;
+            line-height: 1.5;
+        }
+
+        .big-text {
+            font-size: 3rem;
+        }
+
+        .medium-text {
+            font-size: 1.3rem;
+            line-height: 1.4;
+        }
+
+        .penal-badge {
+            display: inline-flex;
+            align-items: center;
+            border-radius: 0.35rem;
+            padding: 0.14rem 0.45rem;
+            font-size: 0.82em;
+            font-weight: 600;
+            line-height: 1.25;
+            white-space: nowrap;
+        }
+
+        .penal-badge-record {
+            background: rgba(139, 92, 246, 0.18);
+            color: #c4b5fd;
+        }
+
+        body.quick-reference-page table th[data-sortable] {
+            cursor: pointer;
+            position: relative;
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        body.quick-reference-page table th[data-sortable]::after {
+            content: "↕";
+            display: inline-block;
+            margin-left: 0.35rem;
+            color: currentColor;
+            font-size: 0.68em;
+            font-weight: 400;
+            line-height: 1;
+            opacity: 0.35;
+        }
+
+        body.quick-reference-page table th[data-sort-direction="asc"]::after {
+            content: "↑";
+            opacity: 0.75;
+        }
+
+        body.quick-reference-page table th[data-sort-direction="desc"]::after {
+            content: "↓";
+            opacity: 0.75;
+        }
+    </style>
+    <script src="/static/quick-reference-sort.js" defer data-turbo-eval="false"></script>
+
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+    <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+
+    <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+        <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+            <!-- Mobile menu button skeleton -->
+            <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-hidden rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+            <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+    
+            <!-- Logo -->
+            <div class="flex items-center justify-between h-full py-2 md:w-75">
+                <div class="flex items-center px-2 md:px-6">
+                    <a id="retype-branding-logo" href="https://wiki.eightbornv.com/" class="flex items-center leading-snug text-xl">
+                        <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                            <img class="max-h-10 md:inline-block" src="../../static/logo.png" alt="" width="40" height="40">
+                        </span>
+                        <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">EightbornV Wiki</span>
+                    </a>
+                </div>
+    
+                <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+            </div>
+    
+            <div class="flex justify-between md:grow">
+                <!-- Top Nav -->
+                <nav id="retype-header-nav" class="hidden md:flex">
+                    <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://eightbornv.com/">Eightborn Portal</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.gg/eightborn">
+                                <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/discord-icon.svg">
+                                <span>Discord</span>
+                            </a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://www.instagram.com/eightbornvofficial/">
+                                <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/instagram-icon.svg">
+                                <span>Instagram</span>
+                            </a>
+                        </li>
+    
+                    </ul>
+                </nav>
+    
+                <div v-cloak class="flex justify-end grow">
+                    <div id="retype-mobile-search-button"></div>
+                    <doc-search-desktop></doc-search-desktop>
+    
+                    <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                    <doc-history></doc-history>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div id="retype-container" class="container relative flex bg-white">
+        <!-- Sidebar Skeleton -->
+        <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+        
+        
+            <div class="pl-6 mt-1 mb-4">
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            </div>
+        
+            <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                    <span class="text-xs whitespace-nowrap">Powered by</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Sidebar component -->
+        <doc-sidebar v-cloak>
+            <template #sidebar-footer>
+                <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+        
+                    <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                        <nav>
+                            <ul class="flex flex-wrap justify-center items-center">
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://eightbornv.com/">Eightborn Portal</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.gg/eightborn">
+                                        <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/discord-icon.svg">
+                                        <span>Discord</span>
+                                    </a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://www.instagram.com/eightbornvofficial/">
+                                        <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/instagram-icon.svg">
+                                        <span>Instagram</span>
+                                    </a>
+                                </li>
+        
+                            </ul>
+                        </nav>
+                    </div>
+        
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </template>
+        </doc-sidebar>
+
+        <div class="grow min-w-0 bg-body-bg">
+            <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+<div class="flex">
+    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+        <main class="relative pb-12 lg:pt-2">
+            <div class="relative retype-markdown" id="retype-content">
+                <!-- Rendered if sidebar right is enabled -->
+                <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
+                <!-- Page content  -->
+<h1 id="savcı-rolü-kuralları">Savcı Rolü Kuralları</h1>
+<p>Savcı rolü, EightbornV hukuk düzeninin en kritik rollerinden biridir. Bu sayfa, bir savcı karakterinin <abbr title="In Character">IC</abbr> olarak nasıl davranması gerektiğini, yetki ve sınırlarını ve rolü oynayan oyuncunun dikkat etmesi gereken <abbr title="Out Of Character">OOC</abbr> çerçeveyi açıklar.</p>
+<h2 id="ic-rol-kuralları"><abbr title="In Character">IC</abbr> Rol Kuralları</h2>
+<p>Aşağıdaki kurallar, savcı karakterinin <abbr title="In Character">IC</abbr> olarak uyması gereken davranış standartlarıdır.</p>
+<h3 id="1-el-ense-olmama-ve-saygılı-davranış">1. El Ense Olmama ve Saygılı Davranış</h3>
+<p>Savcı karakteri, konumunu kullanarak vatandaşlara, şüphelilere, avukatlara veya diğer resmî kişilere karşı <strong>el ense</strong> davranamaz.</p>
+<ul>
+<li>Haksız yere tehdit, aşağılama, küçümseme veya baskı yapamaz.</li>
+<li>Susma hakkını kullanan, avukat talep eden veya itirazda bulunan kişilere saygılı davranır.</li>
+<li><abbr title="Los Santos Police Departmant">LSPD</abbr> görevlilerine veya avukatlara üstten bakamaz; herkes kendi görevi çerçevesinde hareket eder.</li>
+<li><abbr title="In Character">IC</abbr> olarak sinirli veya sert bir karakter oynanabilir; ancak bu, sürekli hakaret, aşağılama veya rolleri zorlayan davranışlara dönüşemez.</li>
+</ul>
+<h3 id="2-ağır-başlılık-ve-profesyonellik">2. Ağır Başlılık ve Profesyonellik</h3>
+<p>Savcı, adalet sisteminin temsilcisidir. Karakteri her zaman ağır başlı ve profesyonel tutulmalıdır.</p>
+<ul>
+<li>Mahkeme salonu, savcılık ofisi, <abbr title="Los Santos Police Departmant">LSPD</abbr> veya toplu alanlarda komik, abartılı veya ciddiyetsiz davranışlar sergileyemez.</li>
+<li>Dosyaları şahsi duygularına göre değil, kanıt ve kanuna göre değerlendirir.</li>
+<li>Şahsi kin, nefret veya çıkar gözeterek isnat yapamaz veya ceza indirimi veremez.</li>
+<li>Rütbesi, maaşı veya konumuyla <strong>ölçüsüz biçimde</strong> övünen ya da bu övünçü başkalarını küçümsemeye dönüştüren bir karakter profili oluşturulamaz; makul ve mesleki duruş sınırı aşılamaz.</li>
+</ul>
+<h3 id="3-ana-veya-İkinci-karakter-olarak-oynanabilir">3. Ana veya İkinci Karakter Olarak Oynanabilir</h3>
+<p>Savcı rolü hem ana karakter hem de ikinci karakter olarak oynanabilir. Ancak ikinci karakterde savcı rolü üstlenen oyuncu, aynı hesaptaki diğer karakterlerden edindiği bilgileri bu karaktere aktaramaz ve bu karakterden diğerlerine bilgi sızdıramaz.</p>
+<h3 id="4-ceza-kanununa-hakimiyet">4. Ceza Kanunu&#x27;na Hakimiyet</h3>
+<p>Savcı karakteri <abbr title="In Character">IC</abbr> olarak hukukun uygulayıcısıdır. Bu nedenle:</p>
+<ul>
+<li>Ceza Kanunu maddelerini, suç sınıflarını, ceza birleşmesini (Madde 120), iştirak ve teşebbüs hükümlerini bilmelidir.</li>
+<li>İsnat edeceği maddeleri seçerken madde metnini ve oluşum şartlarını dikkate almalıdır.</li>
+<li>Ağır Sicil, Nitelikli Suç, iyi hâl indirimi ve denetimli serbestlik kurallarını doğru uygulamalıdır.</li>
+<li>Emin olmadığında başsavcıya (ghostRP) danışabilir; ancak temel hukuku bilmek onun mesleki sorumluluğudur.</li>
+</ul>
+<h3 id="5-avukat-ve-savcı-aynı-anda-oynanamaz">5. Avukat ve Savcı Aynı Anda Oynanamaz</h3>
+<p>Bir oyuncu, aynı anda farklı karakterlerle hem <strong>avukat</strong> hem <strong>savcı</strong> rolü oynayamaz. Ancak:</p>
+<ul>
+<li>Daha önce avukat rolü oynamış bir karakter, belirli sınavlar, deneyim şartları ve yönetim onayı ile savcılığa yükseltilebilir.</li>
+<li>Bu geçiş <abbr title="In Character">IC</abbr> olarak hukuk kariyerinin devamı şeklinde yansıtılır.</li>
+<li>Geçiş sonrası ilgili karakter artık avukatlık yapamaz; savcı kimliğine uyum sağlamalıdır.</li>
+</ul>
+<h3 id="6-çevre-ve-İlişkiler">6. Çevre ve İlişkiler</h3>
+<p>Savcı karakterinin <abbr title="In Character">IC</abbr> sosyal çevresi ağırlıklı olarak şu kişilerden oluşur:</p>
+<ul>
+<li>Diğer savcılar ve adliye personeli,</li>
+<li>Avukatlar (meslektaş veya karşı taraf olarak),</li>
+<li><abbr title="Los Santos Police Departmant">LSPD</abbr> görevlileri (soruşturma ve dosya işbirliği),</li>
+<li>Legal vatandaşlar ve kurumlar,</li>
+<li>Hakim / Başsavcı (ghostRP merciler).</li>
+</ul>
+<p>Savcı karakterinin illegal oyuncularla yakın dostluk, aile bağı veya düzenli iş ilişkisi kurması <abbr title="In Character">IC</abbr> olarak beklenmez ve mesleki itibarını zedeleyebilir.</p>
+<h3 id="7-illegal-oyuncularla-İlişkiler">7. Illegal Oyuncularla İlişkiler</h3>
+<p>Savcı karakteri, illegal oyuncularla <strong>doğrudan yakın ilişki kuramaz</strong>. Bu kapsamda:</p>
+<ul>
+<li>Bir illegal oyuncuyla <strong>yakın arkadaşlık</strong>, <strong>aile/kan bağı</strong>, <strong>romantik ilişki</strong> veya <strong>devam eden özel bir ilişki</strong> <abbr title="In Character">IC</abbr> olarak sürdürülemez.</li>
+<li>Rüşvet, bilgi sızdırma, ortaklık veya mesleki tarafsızlığı zedeleyecek herhangi bir ilişki kurulamaz.</li>
+<li>İletişim yalnızca <strong>sınırlı ve mesleki</strong> olabilir: şüpheli sorgusu, savunma alma, tanık ifadesi alma veya dosya kapsamındaki resmî işlemler gibi durumlarda diyalog kurulabilir; bu temas sürekli veya kişisel bir ilişkiye dönüştürülemez.</li>
+<li>Bu yasağa aykırı bir ilişki tespit edilirse savcı, ilgili kişinin dosyalarından çekilmek ve durumu üst mercie (başsavcı/ghostRP) bildirmekle yükümlüdür.</li>
+</ul>
+<h3 id="8-birden-fazla-savcı-olacaktır">8. Birden Fazla Savcı Olacaktır</h3>
+<p>Sunucuda tek bir savcı değil, <strong>birden fazla savcı karakteri</strong> bulunur. Bu nedenle:</p>
+<ul>
+<li>Her savcı kendi dosyalarına odaklanır.</li>
+<li>Başka savcıların dosyalarına müdahale etmez.</li>
+<li>Dosya atama, yetki paylaşımı veya ihtilaf durumlarında başsavcı (ghostRP) devreye girer.</li>
+</ul>
+<p>Savcı sayısı, avukat sayısıyla <strong>orantılı</strong> biçimde belirlenir:</p>
+<ul>
+<li>Savcılar avukatlarla <strong>bire bir</strong> eşleşmez; sayıları daima avukatlardan <strong>orantılı biçimde az</strong> tutulur.</li>
+<li>Örnek oran: sunucuda <strong>2 avukat</strong> varsa yalnızca <strong>1 savcı</strong> görev alabilir.</li>
+<li>Avukat sayısı arttıkça savcı sayısı kademeli olarak artırılabilir; ancak her durumda savcı/avukat dengesinin avukat lehine korunması esastır.</li>
+<li>Bu oran, savcıların dosya yükünün anlamlı kalmasını ve savcılık rolünün istismar edilmemesini sağlar.</li>
+</ul>
+<h3 id="9-ego-mütevazilik-ve-güç-zehirlenmesi">9. Ego, Mütevazilik ve Güç Zehirlenmesi</h3>
+<p>Savcı karakteri <abbr title="In Character">IC</abbr> olarak kariyerini, statüsünü ve yetkisini <strong>uygun ve ölçülü biçimde</strong> yansıtabilir. Bu çerçevede:</p>
+<ul>
+<li>Savcı, görevini iyi yaptığı sürece konumunun haklı gururunu <strong>makul ölçüde</strong> taşıyabilir; deneyimini ve birikimini <abbr title="In Character">IC</abbr> olarak yansıtabilir.</li>
+<li>Bu özgüven ve mesleki duruş, <strong>güç zehirlenmesine</strong>, aşağılamaya veya keyfi davranışa dönüştürülemez: Savcı rolü, başkalarını sürekli tehdit etmek, haksız işlem yapmak, küçümsemek veya &quot;her şeyi ben bilirim&quot; tavrıyla hareket etmek için kullanılamaz.</li>
+<li>Hukuk emreder gibi değil, uygular gibi davranılmalıdır; <abbr title="In Character">IC</abbr> otorite başka oyuncuların karakterlerine veya rol zevkine zarar verecek şekilde kullanılamaz.</li>
+</ul>
+<h3 id="10-ic-yetki-ve-sorumluluklar">10. <abbr title="In Character">IC</abbr> Yetki ve Sorumluluklar</h3>
+<p>Savcı, Ceza Kanunu ve yargı süreçleri çerçevesinde şu yetkilere sahiptir:</p>
+<ul>
+<li><strong>Dosya inceleme:</strong> <abbr title="Los Santos Police Departmant">LSPD</abbr> tarafından iletilen olay raporlarını ve delilleri inceleyebilir.</li>
+<li><strong>İsnat kararı:</strong> Kişiye hangi maddelerden isnat edileceğine karar verebilir (Madde 108, 120).</li>
+<li><strong>Savcılık sevki:</strong> Doğrudan işlem yerine dosyanın savcılık incelemesine alınmasını sağlayabilir.</li>
+<li><strong>İyi hâl indirimi:</strong> Madde 924 şartları oluştuğunda <strong>%25 indirim</strong> uygulayabilir.</li>
+<li><strong>Denetimli serbestlik:</strong> Madde 917-921 kapsamında denetimli serbestlik kararı verebilir.</li>
+<li><strong>Mahkeme sevki:</strong> Ağır veya özel durumları hakim (ghostRP) önüne sevk edebilir.</li>
+</ul>
+<p>Savcı, LSPD&#x27;nin <strong>operasyonel komutanı değildir</strong>; doğrudan &quot;şunu yap, bunu yap&quot; şeklinde emir veremez. Bunun yerine:</p>
+<ul>
+<li>Savcı, yetkisi kapsamındaki hukuki işlemleri <strong>resmî belge ve karar</strong> olarak düzenler: yakalama kararı, arama izni, el koyma izni, savcılık sevki ve dosyaya dair diğer usul izinleri gibi.</li>
+<li><abbr title="Los Santos Police Departmant">LSPD</abbr>, bu <strong>hukuki belgeler ve kararlar</strong> çerçevesinde hareket eder; operasyonel kararları (taktik, zamanlama, yöntem, ekip yönetimi) kendi hiyerarşisinde alır.</li>
+<li>Savcı ve <abbr title="Los Santos Police Departmant">LSPD</abbr> <strong>iş birliği</strong> içinde çalışır; örneğin bir ikametgâh araması için savcının arama izni belgesi düzenlemesi gerekir, <abbr title="Los Santos Police Departmant">LSPD</abbr> de bu belge doğrultusunda operasyonu yürütür.</li>
+<li>Bu düzen, savcının hukuki yönlendirmesini korurken kolluk kuvvetinin operasyonel bağımsızlığına da saygı gösterir.</li>
+</ul>
+<h3 id="11-başsavcıya-danışma">11. Başsavcıya Danışma</h3>
+<p>Çok kararsız kalınan, emsal oluşturabilecek veya aşırı karmaşık dosyalarda savcı karakteri <strong>Başsavcı&#x27;ya (ghostRP/yönetim) danışabilir</strong>. Bu durumlar istisnai olmalı; rutin dosyalarda her karar için başsavcıya başvurmak rol akışını bozar.</p>
+<h3 id="12-tarafsızlık-ve-çıkar-çatışması">12. Tarafsızlık ve Çıkar Çatışması</h3>
+<p>Savcı karakteri:</p>
+<ul>
+<li>Tanıdığı, arkadaşı olduğu veya düşmanı olduğu kişilerin dosyalarında tarafsız hareket etmek zorundadır.</li>
+<li>Çıkar çatışması varsa dosyayı üst mercie (başsavcı/ghostRP) bildirmeli ve çekilmelidir.</li>
+<li>Şahsi kin veya çıkar gözeterek haksız isnat veya haksız ceza indirimi yapamaz.</li>
+</ul>
+<h2 id="hiyerarşi">Hiyerarşi</h2>
+<p>Sunucu hukuk düzenindeki yargı zinciri aşağıdaki gibidir:</p>
+<retype-table copy-text="| Sıra | Rol | Durum |
+| --- | --- | --- |
+| 1 | **Avukat** | Oyuncu karakteri |
+| 2 | **Savcı** | Oyuncu karakteri |
+| 3 | **Başsavcı** | GhostRP / NPC |
+| 4 | **Hakim** | GhostRP / NPC |">
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Sıra</th>
+<th>Rol</th>
+<th>Durum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Avukat</strong></td>
+<td>Oyuncu karakteri</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Savcı</strong></td>
+<td>Oyuncu karakteri</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Başsavcı</strong></td>
+<td>GhostRP / <abbr title="Non-Player Character">NPC</abbr></td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Hakim</strong></td>
+<td>GhostRP / <abbr title="Non-Player Character">NPC</abbr></td>
+</tr>
+</tbody>
+</table>
+</div>
+</retype-table>
+<h2 id="ooc-notlar"><abbr title="Out Of Character">OOC</abbr> Notlar</h2>
+<p>Aşağıdaki maddeler, rolü oynayan oyuncunun bilmesi ve dikkat etmesi gereken <abbr title="Out Of Character">OOC</abbr> kurallardır.</p>
+<ul>
+<li><strong>Ceza Kanunu bilgisi:</strong> Oyuncu, mevcut Ceza Kanunu&#x27;nu <abbr title="Out Of Character">OOC</abbr> olarak öğrenmeli ve doğru uygulamalıdır.</li>
+<li><strong>Meta gaming yasak:</strong> Başka karakterden veya <abbr title="Out Of Character">OOC</abbr> kaynaklardan edinilen bilgiler, savcı karakterine <abbr title="In Character">IC</abbr> olarak yansıtılamaz.</li>
+<li><strong>Güç zehirlenmesi yasak:</strong> Savcı rolü, başka oyuncuları <abbr title="Out Of Character">OOC</abbr> olarak baskı altına almak, onların rol zevkini düşürmek veya keyfi işlem yapmak için kullanılamaz.</li>
+<li><strong><abbr title="Out Of Character">OOC</abbr> saygı:</strong> <abbr title="In Character">IC</abbr> çatışmalar ve karşıt roller ne olursa olsun, <abbr title="Out Of Character">OOC</abbr> olarak diğer oyunculara saygılı davranılmalıdır.</li>
+<li><strong>İletişim:</strong> <abbr title="Out Of Character">OOC</abbr> anlaşmazlık çıkarsa rol devam eder; çözüm için yönetim/ticket kanalları kullanılır.</li>
+</ul>
+<h2 id="yasaklar-ve-sınırlar">Yasaklar ve Sınırlar</h2>
+<p>Aşağıdaki davranışlar, savcı rolü yapan oyuncular için hem <abbr title="In Character">IC</abbr> hem de <abbr title="Out Of Character">OOC</abbr> açıdan <strong>yasaktır</strong>:</p>
+<retype-table copy-text="| Yasak | Açıklama |
+| --- | --- |
+| **Illegal faaliyete katılım** | Savcı karakteri herhangi bir illegal faaliyette bulunamaz, planlayamaz veya destekleyemez. |
+| **Delil tahrif veya gizleme** | Mevcut veya elde edilen delilleri değiştirmek, yok etmek veya saklamak yasaktır. |
+| **OOC bilgiyi IC kullanma** | Meta gaming yapılamaz; başka karakterden veya OOC kaynaklardan öğrenilen bilgiler dosyaya yansıtılamaz. |
+| **Rüşvet ve çıkar ilişkisi** | Şüpheli, sanık veya üçüncü kişilerden menfaat alınması yasaktır. |
+| **Kolluğa doğrudan emir verme** | Savcı LSPD'nin operasyonel komutanı değildir; doğrudan emir veremez. Bunun yerine yakalama kararı, arama/ev arama izni ve diğer usul belgeleri düzenlenir; LSPD bu hukuki belgeler çerçevesinde hareket eder. |
+| **Keyfi işlem / güç zehirlenmesi** | Kanuna aykırı veya sürekli olarak diğer karakterleri zorlayan işlemler yasaktır. |
+| **Hakim rolünü gasp etme** | Mahkeme sevki gerektiren dosyalarda kendi başına nihai karar verilemez; hakim (ghostRP) devreye girer. |
+| **Avukat ve savcı aynı anda** | Aynı oyuncu farklı karakterlerle aynı anda hem avukat hem savcı rolü oynayamaz. |
+| **Savcının CK'lanması** | Savcı karakterler CK'lanamaz. Bu koruma, savcılık kurumunun sürekliliğini ve rolün istikrarını güvence altına alır. |
+| **Savcının kaçırılması** | Savcı karakterler oyuncular tarafından kaçırılamaz. Bu yasak, savcı rolünün baskı, şantaj veya illegal müdahaleye karşı korunmasını sağlar. |">
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Yasak</th>
+<th>Açıklama</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Illegal faaliyete katılım</strong></td>
+<td>Savcı karakteri herhangi bir illegal faaliyette bulunamaz, planlayamaz veya destekleyemez.</td>
+</tr>
+<tr>
+<td><strong>Delil tahrif veya gizleme</strong></td>
+<td>Mevcut veya elde edilen delilleri değiştirmek, yok etmek veya saklamak yasaktır.</td>
+</tr>
+<tr>
+<td><strong><abbr title="Out Of Character">OOC</abbr> bilgiyi <abbr title="In Character">IC</abbr> kullanma</strong></td>
+<td>Meta gaming yapılamaz; başka karakterden veya <abbr title="Out Of Character">OOC</abbr> kaynaklardan öğrenilen bilgiler dosyaya yansıtılamaz.</td>
+</tr>
+<tr>
+<td><strong>Rüşvet ve çıkar ilişkisi</strong></td>
+<td>Şüpheli, sanık veya üçüncü kişilerden menfaat alınması yasaktır.</td>
+</tr>
+<tr>
+<td><strong>Kolluğa doğrudan emir verme</strong></td>
+<td>Savcı LSPD&#x27;nin operasyonel komutanı değildir; doğrudan emir veremez. Bunun yerine yakalama kararı, arama/ev arama izni ve diğer usul belgeleri düzenlenir; <abbr title="Los Santos Police Departmant">LSPD</abbr> bu hukuki belgeler çerçevesinde hareket eder.</td>
+</tr>
+<tr>
+<td><strong>Keyfi işlem / güç zehirlenmesi</strong></td>
+<td>Kanuna aykırı veya sürekli olarak diğer karakterleri zorlayan işlemler yasaktır.</td>
+</tr>
+<tr>
+<td><strong>Hakim rolünü gasp etme</strong></td>
+<td>Mahkeme sevki gerektiren dosyalarda kendi başına nihai karar verilemez; hakim (ghostRP) devreye girer.</td>
+</tr>
+<tr>
+<td><strong>Avukat ve savcı aynı anda</strong></td>
+<td>Aynı oyuncu farklı karakterlerle aynı anda hem avukat hem savcı rolü oynayamaz.</td>
+</tr>
+<tr>
+<td><strong>Savcının CK&#x27;lanması</strong></td>
+<td>Savcı karakterler CK&#x27;lanamaz. Bu koruma, savcılık kurumunun sürekliliğini ve rolün istikrarını güvence altına alır.</td>
+</tr>
+<tr>
+<td><strong>Savcının kaçırılması</strong></td>
+<td>Savcı karakterler oyuncular tarafından kaçırılamaz. Bu yasak, savcı rolünün baskı, şantaj veya illegal müdahaleye karşı korunmasını sağlar.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</retype-table>
+<h2 id="sonuç">Sonuç</h2>
+<p>Savcı rolü, sunucunun hukuk düzeninin kalitesini belirleyen önemli bir <abbr title="In Character">IC</abbr> rolüdür. Bu rolü oynayan oyuncu, <abbr title="In Character">IC</abbr> olarak karakterinin otoritesini ve tecrübesini yansıtırken <abbr title="Out Of Character">OOC</abbr> olarak adil, saygılı ve kurallara bağlı kalmalıdır. Hukuku doğru uygulamak, diğer oyuncuların rol zevkini korumak ve güç zehirlenmesine kapılmamak, bu rolün temel beklentileridir.</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Yönetim, savcı karakterinin yeterli seviyede oynanmadığını veya kuralların ihlal edildiğini tespit ederse karakteri görevden alıp silebilir. Bu karar tamamen yönetimin kendi kararıdır; şikâyet, talep, oy birliği, <abbr title="In Character">IC</abbr> gerekçe veya itiraz beklenmez.</p>
+        </div>
+    </div>
+</div>
+<!-- Add content to _includes/bottom.md to include here -->
+<!-- Project wide abbreviations, _includes/bottom.md -->
+
+                
+                <!-- Required only on API pages -->
+                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+            </div>
+            <footer id="retype-content-footer" class="clear-both">
+            
+                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../criminal-code/penalties/trade-license-and-profession-offenses/">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                            <span>
+                                <span class="block text-xs font-normal text-base-text-muted">Önceki</span>
+                                <span class="block mt-1">Ticaret, Ruhsat ve Meslek Su&#231;ları</span>
+                            </span>
+                        </a>
+                    </div>
+            
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../commands/">
+                            <span>
+                                <span class="block text-xs font-normal text-right text-base-text-muted">Sonraki</span>
+                                <span class="block mt-1">✨ Komutlar</span>
+                            </span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                        </a>
+                    </div>
+                </nav>
+            </footer>
+        </main>
+
+        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                <div id="retype-footer-links" class="print:hidden">
+                    <ul class="flex flex-wrap items-center text-sm">
+                    </ul>
+                </div>
+                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link text-sm leading-relaxed"><p>© Copyright 2026. <a href="https://eightbornv.com/">Eightborn</a> All rights reserved.</p></div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Rendered if sidebar right is enabled -->
+    <!-- Sidebar right skeleton-->
+    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:translate-x-0 sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+        <div class="pl-5">
+            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+        </div>
+    </div>
+
+    <!-- User should be able to hide sidebar right -->
+    <doc-sidebar-right v-cloak></doc-sidebar-right>
+</div>
+
+        </div>
+    </div>
+
+    <doc-search-mobile></doc-search-mobile>
+    <doc-back-to-top></doc-back-to-top>
+</div>
+
+
+    <div id="retype-overlay-target"></div>
+
+        <script data-cfasync="false">window.__DOCS__ = { "title": "Savcı Rolü Kuralları", level: 2, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/criminal-code/prosecutor-rules.md" }</script>
+</body>
+</html>

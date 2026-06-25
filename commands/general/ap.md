@@ -7,7 +7,7 @@ order: 96
 Animasyon halindeyken karakterinizi düzgün pozisyonlandırmanızı sağlar.
 
 !!!warning
-Bu komutu [Power Gaming](/rules/power-gaming.md) yapmak için kullanmanız yasaktır.
+Bu komutu [Power Gaming](/rules/terminology/power-gaming.md) yapmak için kullanmanız yasaktır.
 !!!
 
 !!!info

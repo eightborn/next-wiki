@@ -1,0 +1,804 @@
+{
+  "version": "4.6.0",
+  "created": "2026-06-25T14:47:41Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "agents.md"
+    },
+    {
+      "path": "agents\\index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "commands\\general\\ap.md"
+    },
+    {
+      "path": "commands\\general\\ap\\index.html"
+    },
+    {
+      "path": "commands\\general\\do.md"
+    },
+    {
+      "path": "commands\\general\\do\\index.html"
+    },
+    {
+      "path": "commands\\general\\e.md"
+    },
+    {
+      "path": "commands\\general\\e\\index.html"
+    },
+    {
+      "path": "commands\\general\\me.md"
+    },
+    {
+      "path": "commands\\general\\me\\index.html"
+    },
+    {
+      "path": "commands\\general\\rs.md"
+    },
+    {
+      "path": "commands\\general\\rs\\index.html"
+    },
+    {
+      "path": "commands\\general\\sdo.md"
+    },
+    {
+      "path": "commands\\general\\sdo\\index.html"
+    },
+    {
+      "path": "commands\\general\\st.md"
+    },
+    {
+      "path": "commands\\general\\st\\index.html"
+    },
+    {
+      "path": "commands\\general\\zarat.md"
+    },
+    {
+      "path": "commands\\general\\zarat\\index.html"
+    },
+    {
+      "path": "commands\\index.html"
+    },
+    {
+      "path": "commands\\index.md"
+    },
+    {
+      "path": "commands\\vehicle\\fixmyplate.md"
+    },
+    {
+      "path": "commands\\vehicle\\fixmyplate\\index.html"
+    },
+    {
+      "path": "commands\\vehicle\\hs.md"
+    },
+    {
+      "path": "commands\\vehicle\\hs\\index.html"
+    },
+    {
+      "path": "criminal-code\\arrest-custody-and-suspect-rights.md"
+    },
+    {
+      "path": "criminal-code\\arrest-custody-and-suspect-rights\\index.html"
+    },
+    {
+      "path": "criminal-code\\general-provisions.md"
+    },
+    {
+      "path": "criminal-code\\general-provisions\\index.html"
+    },
+    {
+      "path": "criminal-code\\index.html"
+    },
+    {
+      "path": "criminal-code\\index.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\arson-and-dangerous-property-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\arson-and-dangerous-property-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\child-protection-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\child-protection-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\domestic-violence-and-protection-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\domestic-violence-and-protection-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\grand-property-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\grand-property-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\index.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\melisa-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\melisa-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-bodily-integrity.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-bodily-integrity\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-life.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-life\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-personal-liberty.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-personal-liberty\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-sexual-integrity.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-sexual-integrity\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-state-and-justice.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\offenses-against-state-and-justice\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\property-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\property-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\public-order-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\public-order-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\quick-reference.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\quick-reference\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\threat-coercion-and-stalking.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\threat-coercion-and-stalking\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\trade-license-and-profession-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\trade-license-and-profession-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\traffic-and-vehicle-offenses.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\traffic-and-vehicle-offenses\\index.html"
+    },
+    {
+      "path": "criminal-code\\penalties\\weapons-and-dangerous-materials.md"
+    },
+    {
+      "path": "criminal-code\\penalties\\weapons-and-dangerous-materials\\index.html"
+    },
+    {
+      "path": "criminal-code\\procedure-seizure-and-sanctions.md"
+    },
+    {
+      "path": "criminal-code\\procedure-seizure-and-sanctions\\index.html"
+    },
+    {
+      "path": "criminal-code\\prosecutor-rules.md"
+    },
+    {
+      "path": "criminal-code\\prosecutor-rules\\index.html"
+    },
+    {
+      "path": "criminal-code\\sentencing-adjustments.md"
+    },
+    {
+      "path": "criminal-code\\sentencing-adjustments\\index.html"
+    },
+    {
+      "path": "eb-plus.md"
+    },
+    {
+      "path": "eb-plus\\index.html"
+    },
+    {
+      "path": "guide\\bank.md"
+    },
+    {
+      "path": "guide\\bank\\index.html"
+    },
+    {
+      "path": "guide\\discord-integration.md"
+    },
+    {
+      "path": "guide\\discord-integration\\index.html"
+    },
+    {
+      "path": "guide\\index.html"
+    },
+    {
+      "path": "guide\\index.md"
+    },
+    {
+      "path": "guide\\inventory.md"
+    },
+    {
+      "path": "guide\\inventory\\index.html"
+    },
+    {
+      "path": "guide\\vehicle-list.md"
+    },
+    {
+      "path": "guide\\vehicle-list\\index.html"
+    },
+    {
+      "path": "guide\\vehicle-tax.md"
+    },
+    {
+      "path": "guide\\vehicle-tax\\index.html"
+    },
+    {
+      "path": "guide\\vehicle.md"
+    },
+    {
+      "path": "guide\\vehicle\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "index.md"
+    },
+    {
+      "path": "llms.txt"
+    },
+    {
+      "path": "package-lock.json"
+    },
+    {
+      "path": "package.json"
+    },
+    {
+      "path": "punishments\\ic\\cop-interaction.md"
+    },
+    {
+      "path": "punishments\\ic\\cop-interaction\\index.html"
+    },
+    {
+      "path": "punishments\\ic\\emotes.md"
+    },
+    {
+      "path": "punishments\\ic\\emotes\\index.html"
+    },
+    {
+      "path": "punishments\\ic\\illegal-cop-interaction.md"
+    },
+    {
+      "path": "punishments\\ic\\illegal-cop-interaction\\index.html"
+    },
+    {
+      "path": "punishments\\ic\\illegal-interaction.md"
+    },
+    {
+      "path": "punishments\\ic\\illegal-interaction\\index.html"
+    },
+    {
+      "path": "punishments\\ic\\jobs.md"
+    },
+    {
+      "path": "punishments\\ic\\jobs\\index.html"
+    },
+    {
+      "path": "punishments\\ic\\safezones.md"
+    },
+    {
+      "path": "punishments\\ic\\safezones\\index.html"
+    },
+    {
+      "path": "punishments\\index.html"
+    },
+    {
+      "path": "punishments\\index.md"
+    },
+    {
+      "path": "punishments\\ooc\\asset-transfer.md"
+    },
+    {
+      "path": "punishments\\ooc\\asset-transfer\\index.html"
+    },
+    {
+      "path": "punishments\\ooc\\cheats.md"
+    },
+    {
+      "path": "punishments\\ooc\\cheats\\index.html"
+    },
+    {
+      "path": "punishments\\ooc\\ooc-harassment.md"
+    },
+    {
+      "path": "punishments\\ooc\\ooc-harassment\\index.html"
+    },
+    {
+      "path": "punishments\\ooc\\ooc-lie.md"
+    },
+    {
+      "path": "punishments\\ooc\\ooc-lie\\index.html"
+    },
+    {
+      "path": "punishments\\ooc\\publish.md"
+    },
+    {
+      "path": "punishments\\ooc\\publish\\index.html"
+    },
+    {
+      "path": "punishments\\ooc\\vibeshot.md"
+    },
+    {
+      "path": "punishments\\ooc\\vibeshot\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\absurd-rp.md"
+    },
+    {
+      "path": "punishments\\terminology\\absurd-rp\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\dm.md"
+    },
+    {
+      "path": "punishments\\terminology\\dm\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\fear-rp.md"
+    },
+    {
+      "path": "punishments\\terminology\\fear-rp\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\ghost-rp.md"
+    },
+    {
+      "path": "punishments\\terminology\\ghost-rp\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\ic-ooc-mixing.md"
+    },
+    {
+      "path": "punishments\\terminology\\ic-ooc-mixing\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\meta.md"
+    },
+    {
+      "path": "punishments\\terminology\\meta\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\non-rp.md"
+    },
+    {
+      "path": "punishments\\terminology\\non-rp\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\nonrp-driving.md"
+    },
+    {
+      "path": "punishments\\terminology\\nonrp-driving\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\power-gaming.md"
+    },
+    {
+      "path": "punishments\\terminology\\power-gaming\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\sürekli-rp.md"
+    },
+    {
+      "path": "punishments\\terminology\\sürekli-rp\\index.html"
+    },
+    {
+      "path": "punishments\\terminology\\vdm.md"
+    },
+    {
+      "path": "punishments\\terminology\\vdm\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\instagram.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "rules\\character.md"
+    },
+    {
+      "path": "rules\\character\\index.html"
+    },
+    {
+      "path": "rules\\ic\\ckfight.md"
+    },
+    {
+      "path": "rules\\ic\\ckfight\\index.html"
+    },
+    {
+      "path": "rules\\ic\\cop-interaction.md"
+    },
+    {
+      "path": "rules\\ic\\cop-interaction\\index.html"
+    },
+    {
+      "path": "rules\\ic\\emotes.md"
+    },
+    {
+      "path": "rules\\ic\\emotes\\index.html"
+    },
+    {
+      "path": "rules\\ic\\index.html"
+    },
+    {
+      "path": "rules\\ic\\index.md"
+    },
+    {
+      "path": "rules\\ic\\jobs.md"
+    },
+    {
+      "path": "rules\\ic\\jobs\\index.html"
+    },
+    {
+      "path": "rules\\ic\\safezones.md"
+    },
+    {
+      "path": "rules\\ic\\safezones\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\crews.md"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\crews\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\index.md"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\mobsters.md"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\mobsters\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\motor-club.md"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\motor-club\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\racers.md"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\racers\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\requirements.md"
+    },
+    {
+      "path": "rules\\illegal\\gangs\\requirements\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\abduction.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\abduction\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\brawl.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\brawl\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\construction.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\construction\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\drive-by.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\drive-by\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\home-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\home-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\index.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\jewelry-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\jewelry-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\major-bank-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\major-bank-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\market-cashier-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\market-cashier-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\market-counters.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\market-counters\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\market-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\market-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\minor-bank-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\minor-bank-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\port-heist.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\port-heist\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\seizure.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\seizure\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-junk.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-junk\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-steal-real.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-steal-real\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-steal.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-steal\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-trunk.md"
+    },
+    {
+      "path": "rules\\illegal\\illegal-activities\\vehicle-trunk\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\index.html"
+    },
+    {
+      "path": "rules\\illegal\\index.md"
+    },
+    {
+      "path": "rules\\index.html"
+    },
+    {
+      "path": "rules\\index.md"
+    },
+    {
+      "path": "rules\\live-streaming.md"
+    },
+    {
+      "path": "rules\\live-streaming\\index.html"
+    },
+    {
+      "path": "rules\\second-char.md"
+    },
+    {
+      "path": "rules\\second-char\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\absurd-rp.md"
+    },
+    {
+      "path": "rules\\terminology\\absurd-rp\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\dm.md"
+    },
+    {
+      "path": "rules\\terminology\\dm\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\fear-rp.md"
+    },
+    {
+      "path": "rules\\terminology\\fear-rp\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\ghost-rp.md"
+    },
+    {
+      "path": "rules\\terminology\\ghost-rp\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\ic-ooc-mixing.md"
+    },
+    {
+      "path": "rules\\terminology\\ic-ooc-mixing\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\index.md"
+    },
+    {
+      "path": "rules\\terminology\\meta.md"
+    },
+    {
+      "path": "rules\\terminology\\meta\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\non-rp.md"
+    },
+    {
+      "path": "rules\\terminology\\non-rp\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\nonrp-driving.md"
+    },
+    {
+      "path": "rules\\terminology\\nonrp-driving\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\power-gaming.md"
+    },
+    {
+      "path": "rules\\terminology\\power-gaming\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\sürekli-rp.md"
+    },
+    {
+      "path": "rules\\terminology\\sürekli-rp\\index.html"
+    },
+    {
+      "path": "rules\\terminology\\vdm.md"
+    },
+    {
+      "path": "rules\\terminology\\vdm\\index.html"
+    },
+    {
+      "path": "rules\\vibeshot.md"
+    },
+    {
+      "path": "rules\\vibeshot\\index.html"
+    },
+    {
+      "path": "settings.md"
+    },
+    {
+      "path": "settings\\index.html"
+    },
+    {
+      "path": "sitemap.xml"
+    },
+    {
+      "path": "static\\logo.png"
+    },
+    {
+      "path": "static\\quick-reference-sort.js"
+    },
+    {
+      "path": "tags\\cezalar\\index.html"
+    },
+    {
+      "path": "tags\\index.html"
+    },
+    {
+      "path": "tags\\kurallar\\index.html"
+    },
+    {
+      "path": "tags\\terimler\\index.html"
+    },
+    {
+      "path": "ticket.md"
+    },
+    {
+      "path": "ticket\\index.html"
+    }
+  ]
+}

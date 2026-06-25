@@ -38,5 +38,5 @@ Acil durumlarda oyundan çıkmanız gerekiyorsa veya kısa süreliğine afk kalm
 - Biri sizi sebepsizce öldürdü. Siz de; o kişi, baygın karakterinizin yanında dururken _"Bu yaptığın rol hatası"_ diyemezsiniz veya rol hatası olduğu için bunların hiçbiri yaşanmamış gibi davranamazsınız.
 
 !!!warning
-Bir rolün yaşanmamış gibi davranılmasına yani [Rollback](/rules/terminology/rollback.md) veya [Rol İptali](/rules/terminology/rol-iptali.md)ne sadece yönetim ekibi karar verebilir.
+Bir rolün yaşanmamış gibi davranılmasına yani Rollback veya Rol İptaline sadece yönetim ekibi karar verebilir.
 !!!

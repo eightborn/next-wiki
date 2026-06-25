@@ -65,12 +65,10 @@ Bu kurala uymama durumunda **OOC ceza**, **kalıcı yara** ve hatta ihlalin büy
 
 ## OOC Kurallar
 
-- [Bug Abuse ve Hile](/rules/cheats.md)
-- [Küfür ve Hakaret](/rules/insult.md)
-- [Video, Görsel ve Yazı Paylaşımı](/rules/publish.md)
-- [OOC Yalan](/rules/ooc-lie.md)
-- [Rol İçi İletişim](/rules/comms.md)
-- [Yönetim İle İletişim](/rules/admins.md)
+- [Bug Abuse ve Hile](/punishments/ooc/cheats.md)
+- [Küfür ve Hakaret](/punishments/ooc/ooc-harassment.md)
+- [Video, Görsel ve Yazı Paylaşımı](/punishments/ooc/publish.md)
+- [OOC Yalan](/punishments/ooc/ooc-lie.md)
 
 ## Diğer Kurallar
 

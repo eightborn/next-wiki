@@ -6,6 +6,6 @@ order: 95
 
 # İllegal Aktivite Kuralları
 
-- [Araç Hırsızlığı](/rules/illegal/vehicle-steal.md)
-- [Araç Parçalama](/rules/illegal/vehicle-junk.md)
-- [Araç Bagaj Patlatma](/rules/illegal/vehicle-trunk.md)
+- [Araç Hırsızlığı](/rules/illegal/illegal-activities/vehicle-steal.md)
+- [Araç Parçalama](/rules/illegal/illegal-activities/vehicle-junk.md)
+- [Araç Bagaj Patlatma](/rules/illegal/illegal-activities/vehicle-trunk.md)

@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="tr" class="h-full">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJZM2S4JG9"></script>
+    <script data-cfasync="false">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-ZJZM2S4JG9');</script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.835714048385">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 4.6.0">
+
+    <!-- Primary Meta Tags -->
+    <title>Ara&#231; Listesi</title>
+    <meta name="title" content="Araç Listesi">
+    <meta name="description" content="Buradaki araçları, oyun içinden galeriye giderek test edebilirsiniz. Ayrıca performans ve bagaj hacim bilgilerine de erişebilirsiniz.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wiki.eightbornv.com/guide/vehicle-list/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://wiki.eightbornv.com/sitemap.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wiki.eightbornv.com/guide/vehicle-list/">
+    <meta property="og:title" content="Araç Listesi">
+    <meta property="og:description" content="Buradaki araçları, oyun içinden galeriye giderek test edebilirsiniz. Ayrıca performans ve bagaj hacim bilgilerine de erişebilirsiniz.">
+    <meta property="og:image" content="https://gtacars.net/images/8f6e51fd682edc73229fd8dd65c0f96d">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Araç Listesi">
+    <meta property="og:site_name" content="EightbornV Wiki">
+    <meta property="og:locale" content="tr_TR">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://wiki.eightbornv.com/guide/vehicle-list/">
+    <meta name="twitter:title" content="Araç Listesi">
+    <meta name="twitter:description" content="Buradaki araçları, oyun içinden galeriye giderek test edebilirsiniz. Ayrıca performans ve bagaj hacim bilgilerine de erişebilirsiniz.">
+    <meta name="twitter:image" content="https://gtacars.net/images/8f6e51fd682edc73229fd8dd65c0f96d">
+    <meta name="twitter:image:alt" content="Araç Listesi">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://wiki.eightbornv.com/guide/vehicle-list.md">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link id="retype-favicon" rel="icon" href="../../static/logo.png" />
+    <link href="../../resources/css/retype.css?v=4.6.0.835714048385" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.6.0.835714048385" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=4.6.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.6.0.835714048385" data-turbo-eval="false" defer></script>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+        * {
+            font-family: 'Hanken Grotesk', sans-serif;
+        }
+
+        .default {
+            border-radius: 10px;
+            border: 1px solid #1956AF;
+            padding: 20px 20px 0 20px;
+            margin-bottom: 20px;
+            font-size: 1.2rem;
+            line-height: 1.5;
+        }
+
+        .dialog {
+            border: 1px solid #1956AF;
+            padding: 20px 20px 0 20px;
+            margin-bottom: 20px;
+            font-size: 1.2rem;
+            line-height: 1.5;
+        }
+
+        .big-text {
+            font-size: 3rem;
+        }
+
+        .medium-text {
+            font-size: 1.3rem;
+            line-height: 1.4;
+        }
+
+        .penal-badge {
+            display: inline-flex;
+            align-items: center;
+            border-radius: 0.35rem;
+            padding: 0.14rem 0.45rem;
+            font-size: 0.82em;
+            font-weight: 600;
+            line-height: 1.25;
+            white-space: nowrap;
+        }
+
+        .penal-badge-record {
+            background: rgba(139, 92, 246, 0.18);
+            color: #c4b5fd;
+        }
+
+        body.quick-reference-page table th[data-sortable] {
+            cursor: pointer;
+            position: relative;
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        body.quick-reference-page table th[data-sortable]::after {
+            content: "↕";
+            display: inline-block;
+            margin-left: 0.35rem;
+            color: currentColor;
+            font-size: 0.68em;
+            font-weight: 400;
+            line-height: 1;
+            opacity: 0.35;
+        }
+
+        body.quick-reference-page table th[data-sort-direction="asc"]::after {
+            content: "↑";
+            opacity: 0.75;
+        }
+
+        body.quick-reference-page table th[data-sort-direction="desc"]::after {
+            content: "↓";
+            opacity: 0.75;
+        }
+    </style>
+    <script src="/static/quick-reference-sort.js" defer data-turbo-eval="false"></script>
+
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+    <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+
+    <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+        <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+            <!-- Mobile menu button skeleton -->
+            <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-hidden rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+            <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+    
+            <!-- Logo -->
+            <div class="flex items-center justify-between h-full py-2 md:w-75">
+                <div class="flex items-center px-2 md:px-6">
+                    <a id="retype-branding-logo" href="https://wiki.eightbornv.com/" class="flex items-center leading-snug text-xl">
+                        <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                            <img class="max-h-10 md:inline-block" src="../../static/logo.png" alt="" width="40" height="40">
+                        </span>
+                        <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">EightbornV Wiki</span>
+                    </a>
+                </div>
+    
+                <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+            </div>
+    
+            <div class="flex justify-between md:grow">
+                <!-- Top Nav -->
+                <nav id="retype-header-nav" class="hidden md:flex">
+                    <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://eightbornv.com/">Eightborn Portal</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.gg/eightborn">
+                                <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/discord-icon.svg">
+                                <span>Discord</span>
+                            </a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://www.instagram.com/eightbornvofficial/">
+                                <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/instagram-icon.svg">
+                                <span>Instagram</span>
+                            </a>
+                        </li>
+    
+                    </ul>
+                </nav>
+    
+                <div v-cloak class="flex justify-end grow">
+                    <div id="retype-mobile-search-button"></div>
+                    <doc-search-desktop></doc-search-desktop>
+    
+                    <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                    <doc-history></doc-history>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div id="retype-container" class="container relative flex bg-white">
+        <!-- Sidebar Skeleton -->
+        <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+        
+        
+            <div class="pl-6 mt-1 mb-4">
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            </div>
+        
+            <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                    <span class="text-xs whitespace-nowrap">Powered by</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Sidebar component -->
+        <doc-sidebar v-cloak>
+            <template #sidebar-footer>
+                <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+        
+                    <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                        <nav>
+                            <ul class="flex flex-wrap justify-center items-center">
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://eightbornv.com/">Eightborn Portal</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.gg/eightborn">
+                                        <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/discord-icon.svg">
+                                        <span>Discord</span>
+                                    </a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://www.instagram.com/eightbornvofficial/">
+                                        <img class="block shrink-0 mr-1.5" width="18" height="18" alt="" aria-hidden="true" src="https://eightbornv.com/icons/instagram-icon.svg">
+                                        <span>Instagram</span>
+                                    </a>
+                                </li>
+        
+                            </ul>
+                        </nav>
+                    </div>
+        
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </template>
+        </doc-sidebar>
+
+        <div class="grow min-w-0 bg-body-bg">
+            <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+<div class="flex">
+    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+        <main class="relative pb-12 lg:pt-2">
+            <div class="relative retype-markdown" id="retype-content">
+                <!-- Rendered if sidebar right is enabled -->
+                <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
+                <!-- Page content  -->
+<h1 id="araç-listesi">Araç Listesi</h1>
+<p>Buradaki araçları, oyun içinden galeriye giderek test edebilirsiniz. Ayrıca performans ve bagaj hacim bilgilerine de erişebilirsiniz.</p>
+<doc-tabs>
+<doc-tab v-cloak id="süper">
+<template #title>Süper</template>
+<doc-panels expando>
+   <doc-panel id="10f---607500" collapsed>
+       <template #title><strong>10F</strong> - 607.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/8f6e51fd682edc73229fd8dd65c0f96d" alt="Obey 10F" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Obey 10F</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="10f-widebody---612000" collapsed>
+       <template #title><strong>10F Widebody</strong> - 612.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/e2ddb5a37531af5af36ecf58c8ba78d2" alt="Obey 10F Widebody" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Obey 10F Widebody</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="811---588250" collapsed>
+       <template #title><strong>811</strong> - 588.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/a66803102a89831ef213b67f63d5efe3" alt="Pfister 811" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pfister 811</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="entity-mt---654750" collapsed>
+       <template #title><strong>Entity MT</strong> - 654.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/032eef3c73441b795f58763333a539dd" alt="Överflöd Entity MT" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Överflöd Entity MT</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="sm722---500000" collapsed>
+       <template #title><strong>SM722</strong> - 500.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/9bd60a362151566f6b512fb2172b56ba" alt="Benefactor SM722" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Benefactor SM722</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="torero-xo---621750" collapsed>
+       <template #title><strong>Torero XO</strong> - 621.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/56b3512ea12af71b1f99ed079229fbe6" alt="Pegassi Torero XO" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Torero XO</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="corsita---597750" collapsed>
+       <template #title><strong>Corsita</strong> - 597.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/1d4ec83f0958af6288ff16197aa627b5" alt="Lampadati Corsita" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Lampadati Corsita</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="zeno---590000" collapsed>
+       <template #title><strong>Zeno</strong> - 590.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/d9598a35e3b37425331dbee1003977d2" alt="Överflöd Zeno" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Överflöd Zeno</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="ignus---621250" collapsed>
+       <template #title><strong>Ignus</strong> - 621.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/78bcc5b51115aca5bf45540c3680cda2" alt="Pegassi Ignus" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Ignus</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="itali-rsx---770000" collapsed>
+       <template #title><strong>Itali RSX</strong> - 770.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/74042388552efb0b3b4b483fccfbdba9" alt="Grotti Itali RSX" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Itali RSX</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="coquette-d10---636000" collapsed>
+       <template #title><strong>Coquette D10</strong> - 636.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/4ef2f283a9428d1f3641e76c0307a043" alt="Invetero Coquette D10" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Invetero Coquette D10</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="tigon---588000" collapsed>
+       <template #title><strong>Tigon</strong> - 588.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/292cca5d9e841983122539c187f9db2a" alt="Lampadati Tigon" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Lampadati Tigon</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="furia---623750" collapsed>
+       <template #title><strong>Furia</strong> - 623.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/248ef8231feb8c7daeeb30d4754bc4eb" alt="Grotti Furia" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Furia</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="zorrusso---5990750" collapsed>
+       <template #title><strong>Zorrusso</strong> - 599.0750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/1ae5701d3074736143c13cc10d8b81b2" alt="Pegassi Zorrusso" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Zorrusso</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="krieger---637000" collapsed>
+       <template #title><strong>Krieger</strong> - 637.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/db239a13b8e1de143facc23820ba8d84" alt="Benefactor Krieger" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Benefactor Krieger</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="neo---635000" collapsed>
+       <template #title><strong>Neo</strong> - 635.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/16a739088af9da2590cc5dbcc68b38dd" alt="Vysser Neo" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Vysser Neo</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="thrax---688250" collapsed>
+       <template #title><strong>Thrax</strong> - 688.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/7b61d9d5439d71c0c8dcf9155a9ee885" alt="Truffade Thrax" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Truffade Thrax</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="schlagen-gt---612000" collapsed>
+       <template #title><strong>Schlagen GT</strong> - 612.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/0d37801b299c7f11e8e210371c00cd24" alt="Benefactor Schlagen GT" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Benefactor Schlagen GT</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="tyrant---636000" collapsed>
+       <template #title><strong>Tyrant</strong> - 636.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/3dd5c78c7be8efb8579df4afc2c6082d" alt="Överflöd Tyrant" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Överflöd Tyrant</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="entity-xxr---630000" collapsed>
+       <template #title><strong>Entity XXR</strong> - 630.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/e9195ad077bd55e4b21de7d93002cd0c" alt="Överflöd Entity XXR" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Överflöd Entity XXR</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="comet-sr---614750" collapsed>
+       <template #title><strong>Comet SR</strong> - 614.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/f20a7fe3c03e55aa6ac04c0db2a1fc90" alt="Pfister Comet SR" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pfister Comet SR</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="sc1---506000" collapsed>
+       <template #title><strong>SC1</strong> - 506.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/a0ce0f5203e10cf1507ae952ac843cca" alt="Übermacht SC1" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Übermacht SC1</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="visione---631000" collapsed>
+       <template #title><strong>Visione</strong> - 631.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/0699d68a4b054d19386995135ac603a7" alt="Grotti Visione" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Visione</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="xa-21---627000" collapsed>
+       <template #title><strong>XA-21</strong> - 627.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/7dcf1c5b0b701405edf3c6d9d264233e" alt="Ocelot XA-21" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Ocelot XA-21</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="itali-gtb-custom---639750" collapsed>
+       <template #title><strong>Itali GTB Custom</strong> - 639.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/71cedbcd3b2e6000b2e155b57ffd130b" alt="Progen Itali GTB Custom" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Progen Itali GTB Custom</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="itali-gtb---630000" collapsed>
+       <template #title><strong>Itali GTB</strong> - 630.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/7eec638035a0e36c6360c5e588e86534" alt="Progen Itali GTB" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Progen Itali GTB</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="nero---632500" collapsed>
+       <template #title><strong>Nero</strong> - 632.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/786490cd32aaf1226f0f230846c65b81" alt="Truffade Nero" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Truffade Nero</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="nero-custom---688250" collapsed>
+       <template #title><strong>Nero Custom</strong> - 688.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/81e9ec741f4ff9f0dff9d1803aa18be9" alt="Truffade Nero Custom" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Truffade Nero Custom</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="reaper---661250" collapsed>
+       <template #title><strong>Reaper</strong> - 661.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/671a28ac359e6225402a49f3dbf62a09" alt="Pegassi Reaper" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Reaper</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="taipan---724000" collapsed>
+       <template #title><strong>Taipan</strong> - 724.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/25bd05ec3d225730acb383478dd4cc53" alt="Cheval Taipan" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Cheval Taipan</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="fmj---640000" collapsed>
+       <template #title><strong>FMJ</strong> - 640.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/62ecea12bb863e78984b1b977f85fe4a" alt="Vapid FMJ" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Vapid FMJ</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="t20---647500" collapsed>
+       <template #title><strong>T20</strong> - 647.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/ba3b35deddb20bd58e5fe30e0d87b7de" alt="Progen T20" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Progen T20</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="osiris---618750" collapsed>
+       <template #title><strong>Osiris</strong> - 618.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/4d2b6f7dd18cf7b6bd59e0229a3ac156" alt="Pegassi Osiris" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Osiris</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="zentorno---684500" collapsed>
+       <template #title><strong>Zentorno</strong> - 684.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/2d10df4b2a87755c924fa1f3cc57cc18" alt="Pegassi Zentorno" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Zentorno</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="turismo-r---624500" collapsed>
+       <template #title><strong>Turismo R</strong> - 624.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/3316578ec337a8b9f756c3ad5c7b8703" alt="Grotti Turismo R" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Turismo R</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="turismo-omaggio---665000" collapsed>
+       <template #title><strong>Turismo Omaggio</strong> - 665.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/2a70a01953c295e999834f6920da80b1" alt="Grotti Turismo Omaggio" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Turismo Omaggio</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="jester---625750" collapsed>
+       <template #title><strong>Jester</strong> - 625.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/5fff3c45323e5357d1728980c1033773" alt="Dinka Jester" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Dinka Jester</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="vacca---579750" collapsed>
+       <template #title><strong>Vacca</strong> - 579.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/8e67459cdb0c6e4cbfd66c49514a1f72" alt="Pegassi Vacca" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Vacca</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="infernus---567250" collapsed>
+       <template #title><strong>Infernus</strong> - 567.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/ab29494a59ae97f2953d801ee786cf48" alt="Pegassi Infernus" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Infernus</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="infernus-custom---659750" collapsed>
+       <template #title><strong>Infernus Custom</strong> - 659.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/0d0838a019bd6bf7d122110f0c78bed1" alt="Pegassi Infernus Custom" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Infernus Custom</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="entity-xf---641000" collapsed>
+       <template #title><strong>Entity XF</strong> - 641.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/82f09e0204cad64f01ff3c2b3ca8b280" alt="Överflöd Entity XF" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Överflöd Entity XF</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="cheetah---636750" collapsed>
+       <template #title><strong>Cheetah</strong> - 636.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/9bf4d9bcf46b953bb655afbffd5645fb" alt="Grotti Cheetah" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Cheetah</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="bullet---504750" collapsed>
+       <template #title><strong>Bullet</strong> - 504.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/288057fc7869f5f9d344292a1a00c419" alt="Vapid Bullet" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Vapid Bullet</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="adder---631250" collapsed>
+       <template #title><strong>Adder</strong> - 631.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/8866294c242a925d4e20170282a3fdfd" alt="Truffade Adder" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Truffade Adder</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="carbonizzare---582750" collapsed>
+       <template #title><strong>Carbonizzare</strong> - 582.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/81911488704264e57446a88f9bd5854d" alt="Grotti Carbonizzare" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Grotti Carbonizzare</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="virtue---641500" collapsed>
+       <template #title><strong>Virtue</strong> - 641.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/a15b49fa1e58c76caab5a709187127ff" alt="Ocelot Virtue" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Ocelot Virtue</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="neon---634500" collapsed>
+       <template #title><strong>Neon</strong> - 634.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/5ee57ae85a2fccfa3b220993d77d050e" alt="Pfister Neon" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pfister Neon</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="cyclone---646500" collapsed>
+       <template #title><strong>Cyclone</strong> - 646.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/8e9cb4636ac4e2aa21632164fe32acae" alt="Coil Cyclone" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Coil Cyclone</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="emerus---601000" collapsed>
+       <template #title><strong>Emerus</strong> - 601.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/a9fb410a0ba8cdf728f25d293e37ecd5" alt="Progen Emerus" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Progen Emerus</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="gp1---525000" collapsed>
+       <template #title><strong>GP1</strong> - 525.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/cf0a6050551426fee4fd7d4c95fba829" alt="Progen GP1" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Progen GP1</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="vagner---610500" collapsed>
+       <template #title><strong>Vagner</strong> - 610.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/4b6f726db6c90968c397d12eb569d586" alt="Dewbauchee Vagner" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Dewbauchee Vagner</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="tempesta---584250" collapsed>
+       <template #title><strong>Tempesta</strong> - 584.250$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/41242cbbb2644235ec4bfc72864d0a56" alt="Pegassi Tempesta" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Pegassi Tempesta</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="etr1---505750" collapsed>
+       <template #title><strong>ETR1</strong> - 505.750$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/ed9d0d568994d9e9022ad0534909f01e" alt="Emperor ETR1" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Emperor ETR1</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="tyrus---630000" collapsed>
+       <template #title><strong>Tyrus</strong> - 630.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/f1b11590e373f4dc4f0f2c9c1083c116" alt="Progen Tyrus" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Progen Tyrus</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="penetrator---514500" collapsed>
+       <template #title><strong>Penetrator</strong> - 514.500$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/839583d41b51b14ec69f58649e72917e" alt="Ocelot Penetrator" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Ocelot Penetrator</figcaption>
+</figure>
+   </doc-panel>
+   <doc-panel id="pipistrello---535000" collapsed>
+       <template #title><strong>Pipistrello</strong> - 535.000$</template>
+<figure class="content-center">
+    <img src="https://gtacars.net/images/fd5c7176efe3b3d23d0c1cf6b1bf34c0" alt="Överflöd Pipistrello" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption">Överflöd Pipistrello</figcaption>
+</figure>
+   </doc-panel>
+</doc-tab>
+</doc-tabs>
+<!-- Add content to _includes/bottom.md to include here -->
+<!-- Project wide abbreviations, _includes/bottom.md -->
+
+                
+                <!-- Required only on API pages -->
+                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+            </div>
+            <footer id="retype-content-footer" class="clear-both">
+            
+            </footer>
+        </main>
+
+        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                <div id="retype-footer-links" class="print:hidden">
+                    <ul class="flex flex-wrap items-center text-sm">
+                    </ul>
+                </div>
+                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link text-sm leading-relaxed"><p>© Copyright 2026. <a href="https://eightbornv.com/">Eightborn</a> All rights reserved.</p></div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Rendered if sidebar right is enabled -->
+    <!-- Sidebar right skeleton-->
+    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:translate-x-0 sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+        <div class="pl-5">
+            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+        </div>
+    </div>
+
+    <!-- User should be able to hide sidebar right -->
+    <doc-sidebar-right v-cloak></doc-sidebar-right>
+</div>
+
+        </div>
+    </div>
+
+    <doc-search-mobile></doc-search-mobile>
+    <doc-back-to-top></doc-back-to-top>
+</div>
+
+
+    <div id="retype-overlay-target"></div>
+
+        <script data-cfasync="false">window.__DOCS__ = { "title": "Araç Listesi", level: 2, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/guide/vehicle-list.md" }</script>
+</body>
+</html>

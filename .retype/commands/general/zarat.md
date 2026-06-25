@@ -1,0 +1,37 @@
+# ✨ `/zarat`
+
+Zar atmak istediğiniz zaman kullanılır.
+
+!!!warning
+Bu komut sadece fiziksel yani **gerçek anlamda** zar atmak istediğiniz zaman kullanılmalıdır. /zarat komutunu kumar dışında kullanmamanızı öneririz. Şans durumlarında [/rs](/commands/general/rs.md) komutunu kullanmanız gerekir.
+!!!
+
+### Kullanım şekli
+
+/zarat `adet`
+
+### Örnekler
+
+==- /zarat (herhangi bir sayı girmeden atılırsa)
+
+![](https://cdn.eightbornv.com/2025/05/12/13-51-28_2328057193.jpg)
+
+==- /zarat 4
+
+![](https://cdn.eightbornv.com/2025/05/12/13-53-05_1605143346.jpg)
+
+==-
+
+*[AL]: Allowlist
+*[DM]: Deathmatch
+*[EMS]: Emergency Medical Service
+*[ERP]: Erotic Roleplay
+*[HUD]: Heads Over Display
+*[IC]: In Character
+*[LSFD]: Los Santos Fire Departmant
+*[LSPD]: Los Santos Police Departmant
+*[NPC]: Non-Player Character
+*[OOC]: Out Of Character
+*[Ped]: Pedestrian (NPC)
+*[RP]: Roleplay
+*[VDM]: Vehicle Deathmatch

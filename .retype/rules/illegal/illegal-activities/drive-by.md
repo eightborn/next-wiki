@@ -1,0 +1,29 @@
+# Çatışma - Drive By :oncoming_automobile:
+
+### Çatışma Rolleri
+- Çatışma rollerinde tarafların çatışma adı altında DM yapması yönetim tarafından kabul edilmeyen bir durumdur. Çatışma rollerinden önce mutlaka tarafların bir kez bile olsa konuşması rol pası için önemlidir. Ancak anlık gelişen durumlar için bu durum söz konusu olmaz.
+- Çatışma rolleri anlık gelişebilir, anlık gelişen durumlarda tarafların kim olduğunu kestiremediğiniz süreçte rastgele ateş edemezsiniz. Ghost RP mantığı NPCler ayrıca siviller de dahildir.
+- Çatışma durumunda taraflar polise ihbarda bulunamaz veya üçüncül kişiler tarafından ihbarda bulunması teklif edilemez. 
+- Çatışma durumunda kişiler/taraflar onaylı birlik ise destek alacağı diğer ekibin de mutlaka onaylı birlik olma durumu aranır. Buna çatışma desteği, yaralıları kurtarma desteği de dahildir. Bu durum birlik süreciyle şekillenmektedir ve detayları birlik sürecinde açıklanmıştır.
+- Çatışma esnasında araçla çatışmadaki kişileri ezmeye çalışmak, çatışmaya ateşli silah olmadan dahil olup silahlı kişilere saldırmak çatışma kuralları gereğince yasaktır. Silahsız kişiler yalnızca yaralıları kurtarmak için dahil olabilir, gerekli koşullar sağlanırsa kaçırma/alıkoyma eylemi yapabilirler. 
+### Drive By Rolleri
+- Drive By yapılırken bir sürücü, bir ateş eden kişi olmak üzere en az 2 kişi olması gerekir.
+- Drive By esnasında minimum 30km/h hızla gidebilirsiniz, durma eylemi asla kabul edilemez. (Burada hız sabitlemeyi drive by öncesinde yapmanız tavsiye edilir, istisnai hız düşüşleri kabul edilebilir. Uzun süreli durumlar cezaya tabiidir.)
+- Drive By eylemi maksimum 10 saniye sürebilir ve eylem tamamen zarar verme, tahribat üzerine olmalıdır. Birini sistemsel öldürme odağı veya aracını tamamen kullanılamaz hale getirmeye çalışmak Drive-By mantığının dışındadır.
+- Drive By yalnızca onaylı birlik üyeleri tarafından, onaylı olan ya da olmayan kişi(ler) veya mülk sahiplerine yapılabilir.
+- Drive By eylemi yalnızca bir ekip tarafından yapılır ve destek alınamaz. 
+- Drive By eylemi bir mülke karşı yapılacaksa bu doğrudan mala zarar vermek üzerine olmalı ve mekan sahibi orada yoksa (mümkünse gizli şekilde) /st ile verilen hasar belirtilmelidir.
+
+*[AL]: Allowlist
+*[DM]: Deathmatch
+*[EMS]: Emergency Medical Service
+*[ERP]: Erotic Roleplay
+*[HUD]: Heads Over Display
+*[IC]: In Character
+*[LSFD]: Los Santos Fire Departmant
+*[LSPD]: Los Santos Police Departmant
+*[NPC]: Non-Player Character
+*[OOC]: Out Of Character
+*[Ped]: Pedestrian (NPC)
+*[RP]: Roleplay
+*[VDM]: Vehicle Deathmatch
