@@ -193,6 +193,8 @@ Bu tablo yalnızca hızlı erişim içindir. Suçun kapsamı, istisnaları ve bi
 | 709 | [Ağır İhmalle Taşıtla Ölüme Sebebiyet Verme](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-709) | [!badge variant="danger" text="720 dakika"] | [!badge variant="success" text="$15.000"] | - | - |
 | 710 | [Kazadan Sonra Olay Yerini Terk Etme](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-710) | - | [!badge variant="success" text="$1.500"] | [!badge variant="warning" text="60 dakika"] | - |
 | 711 | [Ağır Sonuçlu Kazadan Kaçma](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-711) | [!badge variant="danger" text="360 dakika"] | [!badge variant="success" text="$6.000"] | - | - |
+| 714 | [Kırmızı Işık İhlali](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-714) | - | [!badge variant="success" text="$300"] | - | - |
+| 715 | [Hatalı Park](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-715) | - | [!badge variant="success" text="$250"] | - | - |
 
 ## Ticaret, Ruhsat ve Meslek Suçları
 

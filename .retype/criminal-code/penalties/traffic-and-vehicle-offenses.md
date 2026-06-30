@@ -223,6 +223,35 @@ Taşıta geçici el koyma, taşıtın mülkiyetinin devri veya kalıcı müsader
 
 Sürücü belgesinin askıya alınması yalnızca süresi, yetkili makamı ve dayandığı suç maddesi yazılı olarak belirtilmişse geçerlidir. Süresi belirtilmeyen askı kararı uygulanamaz.
 
+### Madde 714 - Kırmızı Işık İhlali {#madde-714}
+
+Sürücünün trafik ışığı kırmızı yanarken durması gereken çizgiyi, kavşağı veya geçiş alanını geçmesi kırmızı ışık ihlali suçunu oluşturur.
+
+Bu madde, tekil ve bağımsız kırmızı ışık ihlalleri için uygulanır. Kırmızı ışık ihlali; yüksek hız, yayaya veya başka taşıta yakın tehlike, ardışık ihlal, kolluktan kaçış ya da ciddi trafik tehlikesiyle birlikte gerçekleşirse [Madde 701](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-701), [Madde 704](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-704) veya [Madde 705](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-705) özel hüküm olarak değerlendirilir.
+
+#### Yaptırım
+
+- Suç sınıfı: **Kabahat**
+- Para cezası: [!badge variant="success" text="$300"]
+- Yargı süreci: **Doğrudan işlem**
+
+Bu madde tek başına taşıta geçici el koyma veya sürücü belgesinin geçici askıya alınması sonucunu doğurmaz.
+
+### Madde 715 - Hatalı Park {#madde-715}
+
+Sürücünün taşıtı kamuya açık yol, kaldırım, yaya geçidi, kavşak, garaj önü, acil erişim alanı, sınırlı giriş-çıkış noktası veya trafik akışını etkileyen benzeri yerde hukuka aykırı biçimde bırakması hatalı park suçunu oluşturur.
+
+Taşıtın kısa süreli durması, sürücünün taşıt yanında bulunması ve trafik akışını, yaya geçişini, acil erişimi veya yetkili giriş-çıkışı engellememesi hâlinde bu madde uygulanmaz.
+
+#### Yaptırım
+
+- Suç sınıfı: **Kabahat**
+- Para cezası: [!badge variant="success" text="$250"]
+- Ek yaptırım: **Taşıt trafik akışını, acil erişimi, yaya geçişini veya yetkili giriş-çıkışı engelliyorsa [Madde 712](/criminal-code/penalties/traffic-and-vehicle-offenses/#madde-712) kapsamında standart çekme uygulanabilir**
+- Yargı süreci: **Doğrudan işlem**
+
+Hatalı park, kaçış, tehlikeli sürüş, mala zarar verme veya kamu hizmetini engelleme fiilinin parçası hâline gelirse ilgili özel maddeler ayrıca değerlendirilir.
+
 *[AL]: Allowlist
 *[DM]: Deathmatch
 *[EMS]: Emergency Medical Service

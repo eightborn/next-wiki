@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node ./node_modules/retypeapp/retype.js build .",
+    "export:criminal-code:pdf": "node ./scripts/export-criminal-code-pdf.js",
     "start": "node ./node_modules/retypeapp/retype.js start ."
   },
   "dependencies": {

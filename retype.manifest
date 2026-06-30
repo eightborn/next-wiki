@@ -1,6 +1,6 @@
 {
   "version": "4.6.0",
-  "created": "2026-06-25T14:47:41Z",
+  "created": "2026-06-30T11:36:07Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -232,6 +232,10 @@
     },
     {
       "path": "eb-plus\\index.html"
+    },
+    {
+      "path": "exports\\ceza-kanunu.pdf",
+      "old": true
     },
     {
       "path": "guide\\bank.md"
@@ -766,6 +770,10 @@
     },
     {
       "path": "rules\\vibeshot\\index.html"
+    },
+    {
+      "path": "scripts\\export-criminal-code-pdf.js",
+      "old": true
     },
     {
       "path": "settings.md"
